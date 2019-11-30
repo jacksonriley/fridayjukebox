@@ -10,8 +10,10 @@ tracks = soup.find_all("div", class_="tracklist-col name")
 parsed_tracks = []
 for track in tracks:
     parsed_tracks.append({"Title": track.find("span", class_="track-name").text,
-                          "Artist": track.find("span", class_="artists-albums").contents[0].text,
-                          "Album": track.find("span", class_="artists-albums").contents[2].text})
+        "Artist": track.find("span", class_="artists-albums").contents[0].text,
+        "Artist link": "https://open.spotify.com" + track.find_all("a")[0]['href'],
+        "Album": track.find("span", class_="artists-albums").contents[2].text,
+        "Album link": "https://open.spotify.com" + track.find_all("a")[1]['href']})
 
 with open(soup.title.text.replace(' ', '_'), "w") as f:
-    json.dump(parsed_tracks, f)
+    json.dump(parsed_tracks, f, indent=4)

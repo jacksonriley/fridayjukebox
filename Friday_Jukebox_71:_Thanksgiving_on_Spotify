@@ -1,1 +1,177 @@
-[{"Title": "Rockin For Myself", "Artist": "Motiv8", "Album": "Get Ready For This"}, {"Title": "Wrap Me Up - Special Edit", "Artist": "Alex Party", "Album": "Get Ready For This"}, {"Title": "Life - Radio Edit", "Artist": "Haddaway", "Album": "Get Ready For This"}, {"Title": "U Got 2 Know - A La Carte Paris Mix Edit", "Artist": "Cappella", "Album": "Get Ready For This"}, {"Title": "Feel So Real", "Artist": "Dream Frequency", "Album": "Get Ready For This"}, {"Title": "Don\u2019t Stop (Wiggle Wiggle) - Townhouse Radio Edit", "Artist": "The Outhere Brothers", "Album": "Get Ready For This"}, {"Title": "Whoomph! (There It Is)", "Artist": "Clock", "Album": "Get Ready For This"}, {"Title": "I Believe - Radio Edit", "Artist": "Happy Clappers", "Album": "Get Ready For This"}, {"Title": "Nakasaki (I Need A Lover Tonight)", "Artist": "Ken Doh", "Album": "Get Ready For This"}, {"Title": "Zombie - Eternal Airplay Mix", "Artist": "A.D.A.M", "Album": "Amy"}, {"Title": "Make It On My Own", "Artist": "Alison Limerick", "Album": "Get Ready For This"}, {"Title": "Good Tradition", "Artist": "Tanita Tikaram", "Album": "Ancient Heart"}, {"Title": "State Of Grace", "Artist": "Taylor Swift", "Album": "Red (Deluxe Edition)"}, {"Title": "Killjoy", "Artist": "Anna Meredith", "Album": "FIBS"}, {"Title": "Every Way That I Can", "Artist": "Sertab Erener", "Album": "Every Way That I Can"}, {"Title": "A Winter's Tale - 2011 Remaster", "Artist": "Queen", "Album": "Made In Heaven (2011 Remaster)"}, {"Title": "Turkey Dog Coma", "Artist": "Flying Lotus", "Album": "You're Dead!"}, {"Title": "The Holiday Song", "Artist": "Pixies", "Album": "Come On Pilgrim"}, {"Title": "Thank You For The Music", "Artist": "ABBA", "Album": "The Album"}, {"Title": "Turkey in the Straw", "Artist": "Phil Rosenthal", "Album": "Turkey in the Straw"}, {"Title": "Thnks fr th Mmrs", "Artist": "Fall Out Boy", "Album": "Infinity On High"}, {"Title": "Pilgrim", "Artist": "M\u00d8", "Album": "No Mythologies to Follow (Deluxe)"}, {"Title": "Irlande Douze Points", "Artist": "Dustin The Turkey", "Album": "Irlande Douze Points"}, {"Title": "Food, Glorious Food", "Artist": "Oliver! - 1994 London Palladium Cast", "Album": "Oliver! (1994 London Palladium Cast Recording)"}, {"Title": "It's Thanksgiving", "Artist": "Nicole Westbrook", "Album": "It's Thanksgiving"}]
+[
+    {
+        "Title": "Rockin For Myself",
+        "Artist": "Motiv8",
+        "Artist link": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Wrap Me Up - Special Edit",
+        "Artist": "Alex Party",
+        "Artist link": "https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Life - Radio Edit",
+        "Artist": "Haddaway",
+        "Artist link": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "U Got 2 Know - A La Carte Paris Mix Edit",
+        "Artist": "Cappella",
+        "Artist link": "https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Feel So Real",
+        "Artist": "Dream Frequency",
+        "Artist link": "https://open.spotify.com/artist/26pUccH0IAYMZb36q53WFl?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Don\u2019t Stop (Wiggle Wiggle) - Townhouse Radio Edit",
+        "Artist": "The Outhere Brothers",
+        "Artist link": "https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Whoomph! (There It Is)",
+        "Artist": "Clock",
+        "Artist link": "https://open.spotify.com/artist/2DBUvfaQpIKeONNYmUjbWv?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "I Believe - Radio Edit",
+        "Artist": "Happy Clappers",
+        "Artist link": "https://open.spotify.com/artist/5W16QgYzUoYB88KU9MWDLn?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Nakasaki (I Need A Lover Tonight)",
+        "Artist": "Ken Doh",
+        "Artist link": "https://open.spotify.com/artist/2LPGHHEJ8oqPjMni4zoFJ2?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Zombie - Eternal Airplay Mix",
+        "Artist": "A.D.A.M",
+        "Artist link": "https://open.spotify.com/artist/7a25DMpmy1w5BN6nPFZD56?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Amy",
+        "Album link": "https://open.spotify.com/artist/3Ua2ceH73ufdPBr88pAVAA?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Make It On My Own",
+        "Artist": "Alison Limerick",
+        "Artist link": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Get Ready For This",
+        "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Good Tradition",
+        "Artist": "Tanita Tikaram",
+        "Artist link": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Ancient Heart",
+        "Album link": "https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "State Of Grace",
+        "Artist": "Taylor Swift",
+        "Artist link": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Red (Deluxe Edition)",
+        "Album link": "https://open.spotify.com/album/1KVKqWeRuXsJDLTW0VuD29?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Killjoy",
+        "Artist": "Anna Meredith",
+        "Artist link": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "FIBS",
+        "Album link": "https://open.spotify.com/album/0MUzevVErxLNFPU9tYQtJ0?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Every Way That I Can",
+        "Artist": "Sertab Erener",
+        "Artist link": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Every Way That I Can",
+        "Album link": "https://open.spotify.com/album/4D2meUQ9mCljoEzvjspr2T?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "A Winter's Tale - 2011 Remaster",
+        "Artist": "Queen",
+        "Artist link": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Made In Heaven (2011 Remaster)",
+        "Album link": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Turkey Dog Coma",
+        "Artist": "Flying Lotus",
+        "Artist link": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "You're Dead!",
+        "Album link": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "The Holiday Song",
+        "Artist": "Pixies",
+        "Artist link": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Come On Pilgrim",
+        "Album link": "https://open.spotify.com/album/0YXEvIGfgX8LKrSSgnciZt?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Thank You For The Music",
+        "Artist": "ABBA",
+        "Artist link": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "The Album",
+        "Album link": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Turkey in the Straw",
+        "Artist": "Phil Rosenthal",
+        "Artist link": "https://open.spotify.com/artist/0iK3afYs9kDQmts3DpWpzX?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Turkey in the Straw",
+        "Album link": "https://open.spotify.com/album/5XrkTBkT3nyiQnSEF2v8vk?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Thnks fr th Mmrs",
+        "Artist": "Fall Out Boy",
+        "Artist link": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Infinity On High",
+        "Album link": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Pilgrim",
+        "Artist": "M\u00d8",
+        "Artist link": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "No Mythologies to Follow (Deluxe)",
+        "Album link": "https://open.spotify.com/album/3jvBPJAaByrTeNkEgvwZeu?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Irlande Douze Points",
+        "Artist": "Dustin The Turkey",
+        "Artist link": "https://open.spotify.com/artist/65r6OaTgP3rxGfUEGPkuQG?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Irlande Douze Points",
+        "Album link": "https://open.spotify.com/album/6Es6s7rPhFKWW1CJMR3kvE?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "Food, Glorious Food",
+        "Artist": "Oliver! - 1994 London Palladium Cast",
+        "Artist link": "https://open.spotify.com/artist/6bddrBOH8cDVW8CEqoh2il?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "Oliver! (1994 London Palladium Cast Recording)",
+        "Album link": "https://open.spotify.com/album/0qW93rTnHMa7MOojUjOKIB?si=gpACiEhzQCer96EkEP3KjA"
+    },
+    {
+        "Title": "It's Thanksgiving",
+        "Artist": "Nicole Westbrook",
+        "Artist link": "https://open.spotify.com/artist/0WeLtCdraQoZpAaQHdWhWr?si=gpACiEhzQCer96EkEP3KjA",
+        "Album": "It's Thanksgiving",
+        "Album link": "https://open.spotify.com/album/3OiJPvyYKVRxifgpiIV2zh?si=gpACiEhzQCer96EkEP3KjA"
+    }
+]
