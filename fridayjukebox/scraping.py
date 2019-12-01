@@ -17,6 +17,26 @@ def get_name_from_id(id):
     return username
 
 
+def json_to_md(tracks):
+    """
+    Takes in the playlist summary data and outputs a table formatted in
+    MarkDown
+    """
+    md_string = """| Song | Artist | Album | Added by |
+|-|-|-|-|"""
+
+    for track in tracks:
+        track_row = "| [{}]({}) | [{}]({}) | [{}]({}) | {} |".format(
+            track["Song name"], track["Song link"],
+            track["Artists"][0], track["Artist links"][0],
+            track["Album"], track["Album link"],
+            track["Added by"]
+        )
+        md_string = md_string + "\n" + track_row
+
+    return md_string
+    
+
 def ms_to_minsec(time_ms):
     """
     Takes in a time in milliseconds and returns the formatted time in minutes
@@ -38,7 +58,7 @@ p = re.compile(r'Spotify\.Entity = (.*?)};')
 data = json.loads(p.findall(r.text)[0] + "}")
 
 # Get the playlist title for this week
-title = BeautifulSoup(r.text, 'html.parser').title.text.replace(' ', '_')
+title = BeautifulSoup(r.text, 'html.parser').title.text.replace(' ', '_').replace('_on_Spotify', '')
 
 # Parse the data for each track and collate the interesting information
 parsed_tracks = []
@@ -55,5 +75,8 @@ for track in data['tracks']['items']:
         "Duration": ms_to_minsec(track["track"]["duration_ms"])
     })
 
-with open(title, "w") as f:
+with open(title + ".json", "w") as f:
     json.dump(parsed_tracks, f, indent=4)
+
+with open(title + ".md", "w") as f:
+    f.write(json_to_md(parsed_tracks))
