@@ -26,16 +26,21 @@ def json_to_md(tracks):
 |-|-|-|-|"""
 
     for track in tracks:
-        track_row = "| [{}]({}) | [{}]({}) | [{}]({}) | {} |".format(
+        # Construct the artist elements seperately to make multiple artists
+        # easier
+        artist_elements = ["[{}]({})".format(artist, link) for artist, link in
+            zip(track["Artists"], track["Artist links"])]
+
+        track_row = "| [{}]({}) | {} | [{}]({}) | {} |".format(
             track["Song name"], track["Song link"],
-            track["Artists"][0], track["Artist links"][0],
+            "<br>".join(artist_elements),
             track["Album"], track["Album link"],
             track["Added by"]
         )
         md_string = md_string + "\n" + track_row
 
     return md_string
-    
+
 
 def ms_to_minsec(time_ms):
     """
