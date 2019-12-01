@@ -50,8 +50,8 @@ for track in data['tracks']['items']:
         "Song link": track["track"]["external_urls"]["spotify"],
         "Album": track["track"]["album"]["name"],
         "Album link": track["track"]["album"]["external_urls"]["spotify"],
-        "Artist": track["track"]["artists"][0]["name"],
-        "Artist link": track["track"]["artists"][0]["external_urls"]["spotify"],
+        "Artists": [artist["name"] for artist in track["track"]["artists"]],
+        "Artist links": [artist["external_urls"]["spotify"] for artist in track["track"]["artists"]],
         "Duration": ms_to_minsec(track["track"]["duration_ms"])
     })
 

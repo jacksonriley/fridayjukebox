@@ -6,8 +6,12 @@
         "Song link": "https://open.spotify.com/track/7Bh5mh57NPI660tiZ7iAsf",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Motiv8",
-        "Artist link": "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp",
+        "Artists": [
+            "Motiv8"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/1xFPKhNxU5iyrvYDP7EhOp"
+        ],
         "Duration": "3m51s"
     },
     {
@@ -17,8 +21,12 @@
         "Song link": "https://open.spotify.com/track/0jkR0jESgRYcUmOst5tgbo",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Alex Party",
-        "Artist link": "https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD",
+        "Artists": [
+            "Alex Party"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/41VxAgbLRHo2ZYZEq5P1mD"
+        ],
         "Duration": "3m55s"
     },
     {
@@ -28,8 +36,12 @@
         "Song link": "https://open.spotify.com/track/25bb6jGRrM13vH0Z78bKBj",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Haddaway",
-        "Artist link": "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma",
+        "Artists": [
+            "Haddaway"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0Suv0tRrNrUlRzAy8aXjma"
+        ],
         "Duration": "4m35s"
     },
     {
@@ -39,8 +51,12 @@
         "Song link": "https://open.spotify.com/track/50f0MbDjU7dOaWS5BlDKQh",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Cappella",
-        "Artist link": "https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg",
+        "Artists": [
+            "Cappella"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0NPwkUJRrRiWYdHpLXBkxg"
+        ],
         "Duration": "3m37s"
     },
     {
@@ -50,8 +66,12 @@
         "Song link": "https://open.spotify.com/track/7L6erz8u4xVpeSLJesJcGp",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Dream Frequency",
-        "Artist link": "https://open.spotify.com/artist/26pUccH0IAYMZb36q53WFl",
+        "Artists": [
+            "Dream Frequency"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/26pUccH0IAYMZb36q53WFl"
+        ],
         "Duration": "3m41s"
     },
     {
@@ -61,8 +81,12 @@
         "Song link": "https://open.spotify.com/track/7mFI74MhzXZH65dWimWkq6",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "The Outhere Brothers",
-        "Artist link": "https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK",
+        "Artists": [
+            "The Outhere Brothers"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/4eb7QPyORtTxhMiLBo3YWK"
+        ],
         "Duration": "3m7s"
     },
     {
@@ -72,8 +96,12 @@
         "Song link": "https://open.spotify.com/track/2jxILRMea4KDhK1up6eK8s",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Clock",
-        "Artist link": "https://open.spotify.com/artist/2DBUvfaQpIKeONNYmUjbWv",
+        "Artists": [
+            "Clock"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/2DBUvfaQpIKeONNYmUjbWv"
+        ],
         "Duration": "3m34s"
     },
     {
@@ -83,8 +111,12 @@
         "Song link": "https://open.spotify.com/track/5dP7na0CccYoeXAYqDH7mJ",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Happy Clappers",
-        "Artist link": "https://open.spotify.com/artist/5W16QgYzUoYB88KU9MWDLn",
+        "Artists": [
+            "Happy Clappers"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/5W16QgYzUoYB88KU9MWDLn"
+        ],
         "Duration": "4m22s"
     },
     {
@@ -94,8 +126,12 @@
         "Song link": "https://open.spotify.com/track/4vqeVxDu3PnHYQaeeNrcqk",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Ken Doh",
-        "Artist link": "https://open.spotify.com/artist/2LPGHHEJ8oqPjMni4zoFJ2",
+        "Artists": [
+            "Ken Doh"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/2LPGHHEJ8oqPjMni4zoFJ2"
+        ],
         "Duration": "3m58s"
     },
     {
@@ -105,8 +141,14 @@
         "Song link": "https://open.spotify.com/track/5G4BOgZnLtCio73vBH7WY7",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "A.D.A.M",
-        "Artist link": "https://open.spotify.com/artist/7a25DMpmy1w5BN6nPFZD56",
+        "Artists": [
+            "A.D.A.M",
+            "Amy"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/7a25DMpmy1w5BN6nPFZD56",
+            "https://open.spotify.com/artist/3Ua2ceH73ufdPBr88pAVAA"
+        ],
         "Duration": "3m24s"
     },
     {
@@ -116,8 +158,12 @@
         "Song link": "https://open.spotify.com/track/3EQ2ANSxbkOhRd2HQ4VPeg",
         "Album": "Get Ready For This",
         "Album link": "https://open.spotify.com/album/0E7sl2pIdfFBifbLFU6y2U",
-        "Artist": "Alison Limerick",
-        "Artist link": "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69",
+        "Artists": [
+            "Alison Limerick"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0ELXBCSsRl2m92MgnOsA69"
+        ],
         "Duration": "5m16s"
     },
     {
@@ -127,8 +173,12 @@
         "Song link": "https://open.spotify.com/track/2ZvxVooX6KcXDxhymTTk2H",
         "Album": "Ancient Heart",
         "Album link": "https://open.spotify.com/album/7E54UsiVFMQuIAG9t5UOL4",
-        "Artist": "Tanita Tikaram",
-        "Artist link": "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8",
+        "Artists": [
+            "Tanita Tikaram"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/2gTl60Ao3u7bljVnAqxPh8"
+        ],
         "Duration": "2m50s"
     },
     {
@@ -138,8 +188,12 @@
         "Song link": "https://open.spotify.com/track/0b16LTzby1YRVd2nq2Z0fw",
         "Album": "Red (Deluxe Edition)",
         "Album link": "https://open.spotify.com/album/1KVKqWeRuXsJDLTW0VuD29",
-        "Artist": "Taylor Swift",
-        "Artist link": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02",
+        "Artists": [
+            "Taylor Swift"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        ],
         "Duration": "4m55s"
     },
     {
@@ -149,8 +203,12 @@
         "Song link": "https://open.spotify.com/track/3pYUzBTUN6rvUDthxzyKru",
         "Album": "FIBS",
         "Album link": "https://open.spotify.com/album/0MUzevVErxLNFPU9tYQtJ0",
-        "Artist": "Anna Meredith",
-        "Artist link": "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2",
+        "Artists": [
+            "Anna Meredith"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/5zDUidkda0GoYHu2vMr3G2"
+        ],
         "Duration": "3m45s"
     },
     {
@@ -160,8 +218,12 @@
         "Song link": "https://open.spotify.com/track/5I8ENb7zzrbYLwhGESY9CF",
         "Album": "Every Way That I Can",
         "Album link": "https://open.spotify.com/album/4D2meUQ9mCljoEzvjspr2T",
-        "Artist": "Sertab Erener",
-        "Artist link": "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s",
+        "Artists": [
+            "Sertab Erener"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/4W31XN2JH8mC54NkHdh04s"
+        ],
         "Duration": "2m36s"
     },
     {
@@ -171,8 +233,12 @@
         "Song link": "https://open.spotify.com/track/12HWTqP3GWqzyyKrpkhojF",
         "Album": "Made In Heaven (2011 Remaster)",
         "Album link": "https://open.spotify.com/album/391ScNR3xKywWSpfDwP3n0",
-        "Artist": "Queen",
-        "Artist link": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d",
+        "Artists": [
+            "Queen"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        ],
         "Duration": "3m50s"
     },
     {
@@ -182,8 +248,12 @@
         "Song link": "https://open.spotify.com/track/4Jsc7ZId1CLkwvOURAh859",
         "Album": "You're Dead!",
         "Album link": "https://open.spotify.com/album/29luvT98TnqHjVDYSRbbrj",
-        "Artist": "Flying Lotus",
-        "Artist link": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793",
+        "Artists": [
+            "Flying Lotus"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        ],
         "Duration": "3m9s"
     },
     {
@@ -193,8 +263,12 @@
         "Song link": "https://open.spotify.com/track/7rytpWEVreUFhPBJp4q9LT",
         "Album": "Come On Pilgrim",
         "Album link": "https://open.spotify.com/album/0YXEvIGfgX8LKrSSgnciZt",
-        "Artist": "Pixies",
-        "Artist link": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT",
+        "Artists": [
+            "Pixies"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
+        ],
         "Duration": "2m14s"
     },
     {
@@ -204,8 +278,12 @@
         "Song link": "https://open.spotify.com/track/08GOw3NsrJ0LsCCeyqzt3b",
         "Album": "The Album",
         "Album link": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt",
-        "Artist": "ABBA",
-        "Artist link": "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV",
+        "Artists": [
+            "ABBA"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
+        ],
         "Duration": "3m49s"
     },
     {
@@ -215,8 +293,12 @@
         "Song link": "https://open.spotify.com/track/1HziPPSoSMCRcWudiVuSF6",
         "Album": "Turkey in the Straw",
         "Album link": "https://open.spotify.com/album/5XrkTBkT3nyiQnSEF2v8vk",
-        "Artist": "Phil Rosenthal",
-        "Artist link": "https://open.spotify.com/artist/0iK3afYs9kDQmts3DpWpzX",
+        "Artists": [
+            "Phil Rosenthal"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0iK3afYs9kDQmts3DpWpzX"
+        ],
         "Duration": "2m41s"
     },
     {
@@ -226,8 +308,12 @@
         "Song link": "https://open.spotify.com/track/3Zwu2K0Qa5sT6teCCHPShP",
         "Album": "Infinity On High",
         "Album link": "https://open.spotify.com/album/0hHopYqXhuvYSHtVyrcb1g",
-        "Artist": "Fall Out Boy",
-        "Artist link": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX",
+        "Artists": [
+            "Fall Out Boy"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX"
+        ],
         "Duration": "3m23s"
     },
     {
@@ -237,8 +323,12 @@
         "Song link": "https://open.spotify.com/track/58QhVAZF55n5qbCSig9WBb",
         "Album": "No Mythologies to Follow (Deluxe)",
         "Album link": "https://open.spotify.com/album/3jvBPJAaByrTeNkEgvwZeu",
-        "Artist": "M\u00d8",
-        "Artist link": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv",
+        "Artists": [
+            "M\u00d8"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        ],
         "Duration": "3m52s"
     },
     {
@@ -248,8 +338,12 @@
         "Song link": "https://open.spotify.com/track/2hDTnjAaYJXO8MufWCqGcK",
         "Album": "Irlande Douze Points",
         "Album link": "https://open.spotify.com/album/6Es6s7rPhFKWW1CJMR3kvE",
-        "Artist": "Dustin The Turkey",
-        "Artist link": "https://open.spotify.com/artist/65r6OaTgP3rxGfUEGPkuQG",
+        "Artists": [
+            "Dustin The Turkey"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/65r6OaTgP3rxGfUEGPkuQG"
+        ],
         "Duration": "2m57s"
     },
     {
@@ -259,8 +353,12 @@
         "Song link": "https://open.spotify.com/track/4bniy25J0FPJ6HSgDKjlGe",
         "Album": "Oliver! (1994 London Palladium Cast Recording)",
         "Album link": "https://open.spotify.com/album/0qW93rTnHMa7MOojUjOKIB",
-        "Artist": "Oliver! - 1994 London Palladium Cast",
-        "Artist link": "https://open.spotify.com/artist/6bddrBOH8cDVW8CEqoh2il",
+        "Artists": [
+            "Oliver! - 1994 London Palladium Cast"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/6bddrBOH8cDVW8CEqoh2il"
+        ],
         "Duration": "3m31s"
     },
     {
@@ -270,8 +368,12 @@
         "Song link": "https://open.spotify.com/track/4lJAkP4hBiqwW78EuXwFqr",
         "Album": "It's Thanksgiving",
         "Album link": "https://open.spotify.com/album/3OiJPvyYKVRxifgpiIV2zh",
-        "Artist": "Nicole Westbrook",
-        "Artist link": "https://open.spotify.com/artist/0WeLtCdraQoZpAaQHdWhWr",
+        "Artists": [
+            "Nicole Westbrook"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0WeLtCdraQoZpAaQHdWhWr"
+        ],
         "Duration": "3m38s"
     }
 ]
