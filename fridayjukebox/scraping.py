@@ -10,19 +10,11 @@ JUKEBOX_URL = "https://open.spotify.com/playlist/2rBhCRAfexo1VG01r1zP93"
 
 def get_name_from_id(id):
     """
-    Takes in an id which, if numeric, needs converting to a user's name
+    Takes in an id to convert to a user's name
     """
-    try:
-        int(id)
-    except ValueError:
-        # The id was potentially someone's name
-        return id
-    else:
-        # The id was an integer, which we can convert into a username. Unless
-        # you're Emily for some reason.
-        user_html = requests.get("https://open.spotify.com/user/" + id).text
-        username = BeautifulSoup(user_html, 'html.parser').title.text.replace(" on Spotify", "")
-        return username
+    user_html = requests.get("https://open.spotify.com/user/" + id).text
+    username = BeautifulSoup(user_html, 'html.parser').title.text.replace(" on Spotify", "")
+    return username
 
 
 def ms_to_minsec(time_ms):
