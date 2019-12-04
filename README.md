@@ -5,6 +5,8 @@ Repository to scrape the friday jukebox playlist and maintain a back catalogue
 Once you clone the repo, you can just run the scraping script:
 
 ```
+python3 -m venv my_virtual_env
+pip3 install -r requirements.txt
 python3 fridayjukebox/scraping.py
 ```
 
