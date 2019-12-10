@@ -80,8 +80,11 @@ for track in data['tracks']['items']:
         "Duration": ms_to_minsec(track["track"]["duration_ms"])
     })
 
-with open(title + ".json", "w") as f:
+with open("json/" + title + ".json", "w") as f:
     json.dump(parsed_tracks, f, indent=4)
 
-with open(title + ".md", "w") as f:
+with open("json/" + title + "_detailed.json", "w") as f:
+    json.dump(data['tracks']['items'], f, indent=4)
+
+with open("md/" + title + ".md", "w") as f:
     f.write(json_to_md(parsed_tracks))
