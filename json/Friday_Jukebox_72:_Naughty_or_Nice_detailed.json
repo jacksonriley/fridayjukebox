@@ -123,33 +123,33 @@
                     }
                 ],
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/album/48MhNEYxMJvcBbqz85UTQP"
+                    "spotify": "https://open.spotify.com/album/2RKEso6nin3nhRyAd36Omv"
                 },
-                "href": "https://api.spotify.com/v1/albums/48MhNEYxMJvcBbqz85UTQP",
-                "id": "48MhNEYxMJvcBbqz85UTQP",
+                "href": "https://api.spotify.com/v1/albums/2RKEso6nin3nhRyAd36Omv",
+                "id": "2RKEso6nin3nhRyAd36Omv",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/2dfae98eecead86754412f2467c848d0a802e6ca",
+                        "url": "https://i.scdn.co/image/788e5dfab8de15ad0b9e335602ba27f6244e46f2",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/dadb1e514d68995d3541d9c6bcac648d489924c4",
+                        "url": "https://i.scdn.co/image/36ff1b2fa9179ded2bc203030b680c4e31ef7dc8",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/fc687eac49da84c6f4983ef87b10ddf5897b2788",
+                        "url": "https://i.scdn.co/image/81a6af8b045aab16a5cfb2d80ac41e9adee12adf",
                         "width": 64
                     }
                 ],
-                "name": "Queen II (Deluxe Edition 2011 Remaster)",
+                "name": "Queen II (Deluxe Remastered Version)",
                 "release_date": "1974-03-08",
                 "release_date_precision": "day",
                 "total_tracks": 16,
                 "type": "album",
-                "uri": "spotify:album:48MhNEYxMJvcBbqz85UTQP"
+                "uri": "spotify:album:2RKEso6nin3nhRyAd36Omv"
             },
             "artists": [
                 {
@@ -171,19 +171,28 @@
                 "isrc": "GBUM71100511"
             },
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/7h360CLGnW68EYvKPSoQOb"
+                "spotify": "https://open.spotify.com/track/1x9ak6LGIazLhfuaSIEkhG"
             },
-            "href": "https://api.spotify.com/v1/tracks/7h360CLGnW68EYvKPSoQOb",
-            "id": "7h360CLGnW68EYvKPSoQOb",
+            "href": "https://api.spotify.com/v1/tracks/1x9ak6LGIazLhfuaSIEkhG",
+            "id": "1x9ak6LGIazLhfuaSIEkhG",
             "is_local": false,
             "is_playable": true,
-            "name": "The March Of The Black Queen - Remastered 2011",
-            "popularity": 42,
-            "preview_url": "https://p.scdn.co/mp3-preview/2f4528fafeb77b6dba26c9ab7de15f463f6ce1a2?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7h360CLGnW68EYvKPSoQOb"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7h360CLGnW68EYvKPSoQOb",
+                "id": "7h360CLGnW68EYvKPSoQOb",
+                "type": "track",
+                "uri": "spotify:track:7h360CLGnW68EYvKPSoQOb"
+            },
+            "name": "The March Of The Black Queen - 2011 Mix",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/67552b5196eb85d30eb94c46f19bed34aee66832?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 9,
             "type": "track",
-            "uri": "spotify:track:7h360CLGnW68EYvKPSoQOb"
+            "uri": "spotify:track:1x9ak6LGIazLhfuaSIEkhG"
         },
         "video_thumbnail": {
             "url": null
@@ -313,33 +322,33 @@
                     }
                 ],
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/album/4Iuc4sYkVz05xnO4tXHLMx"
+                    "spotify": "https://open.spotify.com/album/15mCffI8FteFICZu9chtUB"
                 },
-                "href": "https://api.spotify.com/v1/albums/4Iuc4sYkVz05xnO4tXHLMx",
-                "id": "4Iuc4sYkVz05xnO4tXHLMx",
+                "href": "https://api.spotify.com/v1/albums/15mCffI8FteFICZu9chtUB",
+                "id": "15mCffI8FteFICZu9chtUB",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27381db511a5be78a32deba6cb4",
+                        "url": "https://i.scdn.co/image/e7b1e0b1bcba95337664e6f73f5830590ba6c95f",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0281db511a5be78a32deba6cb4",
+                        "url": "https://i.scdn.co/image/c21140776015b9be528c204f2276a7d760946f6c",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485181db511a5be78a32deba6cb4",
+                        "url": "https://i.scdn.co/image/cf49d0575395c524182564470020c7f0336216b8",
                         "width": 64
                     }
                 ],
-                "name": "The Very Best Of",
-                "release_date": "2011-06-01",
+                "name": "The Rest Of Tom Lehrer",
+                "release_date": "2010-01-01",
                 "release_date_precision": "day",
-                "total_tracks": 28,
+                "total_tracks": 13,
                 "type": "album",
-                "uri": "spotify:album:4Iuc4sYkVz05xnO4tXHLMx"
+                "uri": "spotify:album:15mCffI8FteFICZu9chtUB"
             },
             "artists": [
                 {
@@ -354,26 +363,35 @@
                 }
             ],
             "disc_number": 1,
-            "duration_ms": 175200,
+            "duration_ms": 175346,
             "episode": false,
             "explicit": false,
             "external_ids": {
-                "isrc": "USA371355342"
+                "isrc": "USSE91031701"
             },
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/1oY6H38BrBj3lPpIl4ztXP"
+                "spotify": "https://open.spotify.com/track/5TVWVF2LqehTmSZI4nykXa"
             },
-            "href": "https://api.spotify.com/v1/tracks/1oY6H38BrBj3lPpIl4ztXP",
-            "id": "1oY6H38BrBj3lPpIl4ztXP",
+            "href": "https://api.spotify.com/v1/tracks/5TVWVF2LqehTmSZI4nykXa",
+            "id": "5TVWVF2LqehTmSZI4nykXa",
             "is_local": false,
             "is_playable": true,
-            "name": "The Masochism Tango (Orchestrated Version)",
-            "popularity": 33,
-            "preview_url": "https://p.scdn.co/mp3-preview/5682b8018bf900e1d14fb057f99f883d232db300?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1oY6H38BrBj3lPpIl4ztXP"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1oY6H38BrBj3lPpIl4ztXP",
+                "id": "1oY6H38BrBj3lPpIl4ztXP",
+                "type": "track",
+                "uri": "spotify:track:1oY6H38BrBj3lPpIl4ztXP"
+            },
+            "name": "The Masochism Tango",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/02d09856462fad44c0f933391852c85a51e63765?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
-            "track_number": 25,
+            "track_number": 2,
             "type": "track",
-            "uri": "spotify:track:1oY6H38BrBj3lPpIl4ztXP"
+            "uri": "spotify:track:5TVWVF2LqehTmSZI4nykXa"
         },
         "video_thumbnail": {
             "url": null
@@ -408,33 +426,33 @@
                     }
                 ],
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/album/0AfxLyEBIIa3SuRsQl6nvL"
+                    "spotify": "https://open.spotify.com/album/15UjVcCwrMwAEPzAoVrZ55"
                 },
-                "href": "https://api.spotify.com/v1/albums/0AfxLyEBIIa3SuRsQl6nvL",
-                "id": "0AfxLyEBIIa3SuRsQl6nvL",
+                "href": "https://api.spotify.com/v1/albums/15UjVcCwrMwAEPzAoVrZ55",
+                "id": "15UjVcCwrMwAEPzAoVrZ55",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27307486074953b97497dc9ad1c",
+                        "url": "https://i.scdn.co/image/ab67616d0000b27314333220e00f2d403c47edb4",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0207486074953b97497dc9ad1c",
+                        "url": "https://i.scdn.co/image/ab67616d00001e0214333220e00f2d403c47edb4",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485107486074953b97497dc9ad1c",
+                        "url": "https://i.scdn.co/image/ab67616d0000485114333220e00f2d403c47edb4",
                         "width": 64
                     }
                 ],
-                "name": "Greatest - DJ Sammy",
-                "release_date": "2013-08-12",
+                "name": "Heaven",
+                "release_date": "2002-08-06",
                 "release_date_precision": "day",
-                "total_tracks": 12,
+                "total_tracks": 13,
                 "type": "album",
-                "uri": "spotify:album:0AfxLyEBIIa3SuRsQl6nvL"
+                "uri": "spotify:album:15UjVcCwrMwAEPzAoVrZ55"
             },
             "artists": [
                 {
@@ -449,13 +467,13 @@
                 },
                 {
                     "external_urls": {
-                        "spotify": "https://open.spotify.com/artist/7sQECgfT3RtfL0RZWK63Wg"
+                        "spotify": "https://open.spotify.com/artist/512aANbakY9mEaeyKucQur"
                     },
-                    "href": "https://api.spotify.com/v1/artists/7sQECgfT3RtfL0RZWK63Wg",
-                    "id": "7sQECgfT3RtfL0RZWK63Wg",
-                    "name": "Do",
+                    "href": "https://api.spotify.com/v1/artists/512aANbakY9mEaeyKucQur",
+                    "id": "512aANbakY9mEaeyKucQur",
+                    "name": "D/O",
                     "type": "artist",
-                    "uri": "spotify:artist:7sQECgfT3RtfL0RZWK63Wg"
+                    "uri": "spotify:artist:512aANbakY9mEaeyKucQur"
                 }
             ],
             "disc_number": 1,
@@ -463,22 +481,31 @@
             "episode": false,
             "explicit": false,
             "external_ids": {
-                "isrc": "DEN120205816"
+                "isrc": "USRE50200231"
             },
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/5M2LFOy2TvzBVU5KCd6N8v"
+                "spotify": "https://open.spotify.com/track/0KT6DLAELYSbgfUemzwGPX"
             },
-            "href": "https://api.spotify.com/v1/tracks/5M2LFOy2TvzBVU5KCd6N8v",
-            "id": "5M2LFOy2TvzBVU5KCd6N8v",
+            "href": "https://api.spotify.com/v1/tracks/0KT6DLAELYSbgfUemzwGPX",
+            "id": "0KT6DLAELYSbgfUemzwGPX",
             "is_local": false,
             "is_playable": true,
-            "name": "Heaven",
-            "popularity": 60,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5M2LFOy2TvzBVU5KCd6N8v"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5M2LFOy2TvzBVU5KCd6N8v",
+                "id": "5M2LFOy2TvzBVU5KCd6N8v",
+                "type": "track",
+                "uri": "spotify:track:5M2LFOy2TvzBVU5KCd6N8v"
+            },
+            "name": "Heaven (featuring Do)",
+            "popularity": 65,
             "preview_url": "https://p.scdn.co/mp3-preview/c9538f117d1fb3bec7406abbf62ec77e57abcfbc?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
-            "track_number": 1,
+            "track_number": 2,
             "type": "track",
-            "uri": "spotify:track:5M2LFOy2TvzBVU5KCd6N8v"
+            "uri": "spotify:track:0KT6DLAELYSbgfUemzwGPX"
         },
         "video_thumbnail": {
             "url": null
@@ -1198,33 +1225,33 @@
                     }
                 ],
                 "external_urls": {
-                    "spotify": "https://open.spotify.com/album/5riAtczpXYojWiT1G6f0O0"
+                    "spotify": "https://open.spotify.com/album/4lQ45mAu5gYotfGJrgDuJn"
                 },
-                "href": "https://api.spotify.com/v1/albums/5riAtczpXYojWiT1G6f0O0",
-                "id": "5riAtczpXYojWiT1G6f0O0",
+                "href": "https://api.spotify.com/v1/albums/4lQ45mAu5gYotfGJrgDuJn",
+                "id": "4lQ45mAu5gYotfGJrgDuJn",
                 "images": [
                     {
                         "height": 640,
-                        "url": "https://i.scdn.co/image/fd81120dc613efcc54aafa7e45eb9075bdf0aac0",
+                        "url": "https://i.scdn.co/image/aaa8b3f509a19ed77d433f62dfb1c8d19b2061dd",
                         "width": 640
                     },
                     {
                         "height": 300,
-                        "url": "https://i.scdn.co/image/efde9a40a29ab002410700c08ffdee45ec6f0d18",
+                        "url": "https://i.scdn.co/image/64d10efdb0154f9d7da50298f5707946f02a893d",
                         "width": 300
                     },
                     {
                         "height": 64,
-                        "url": "https://i.scdn.co/image/9bfc7795fec6fe12c937ac45f165c1a28010aeaf",
+                        "url": "https://i.scdn.co/image/99e6ed536e8560f633a0e8cdf4f7ce1a024a8069",
                         "width": 64
                     }
                 ],
-                "name": "Georges Brassens interpr\u00e8te ses derni\u00e8res compositions N\u00b02",
-                "release_date": "1953",
-                "release_date_precision": "year",
-                "total_tracks": 11,
+                "name": "Les Copains D'Abord",
+                "release_date": "1989-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 41,
                 "type": "album",
-                "uri": "spotify:album:5riAtczpXYojWiT1G6f0O0"
+                "uri": "spotify:album:4lQ45mAu5gYotfGJrgDuJn"
             },
             "artists": [
                 {
@@ -1239,26 +1266,35 @@
                 }
             ],
             "disc_number": 1,
-            "duration_ms": 180746,
+            "duration_ms": 180240,
             "episode": false,
             "explicit": false,
             "external_ids": {
-                "isrc": "FRZ035300250"
+                "isrc": "FRZ035300020"
             },
             "external_urls": {
-                "spotify": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
+                "spotify": "https://open.spotify.com/track/3sySoSz1tI6IDt7qDkecnQ"
             },
-            "href": "https://api.spotify.com/v1/tracks/7y2O28y2I9rnmol5RjSG8D",
-            "id": "7y2O28y2I9rnmol5RjSG8D",
+            "href": "https://api.spotify.com/v1/tracks/3sySoSz1tI6IDt7qDkecnQ",
+            "id": "3sySoSz1tI6IDt7qDkecnQ",
             "is_local": false,
             "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7y2O28y2I9rnmol5RjSG8D"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7y2O28y2I9rnmol5RjSG8D",
+                "id": "7y2O28y2I9rnmol5RjSG8D",
+                "type": "track",
+                "uri": "spotify:track:7y2O28y2I9rnmol5RjSG8D"
+            },
             "name": "Les amoureux des bancs publics",
-            "popularity": 48,
-            "preview_url": "https://p.scdn.co/mp3-preview/b51350e09172463461c87dbb32f09d0cd9d8a5b5?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "popularity": 29,
+            "preview_url": "https://p.scdn.co/mp3-preview/d2c849742dd730cd7665078e59248589ec6f4b2d?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
-            "track_number": 3,
+            "track_number": 2,
             "type": "track",
-            "uri": "spotify:track:7y2O28y2I9rnmol5RjSG8D"
+            "uri": "spotify:track:3sySoSz1tI6IDt7qDkecnQ"
         },
         "video_thumbnail": {
             "url": null
