@@ -1,0 +1,1662 @@
+[
+    {
+        "added_at": "2019-12-18T12:12:37Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1154712041"
+            },
+            "href": "https://api.spotify.com/v1/users/1154712041",
+            "id": "1154712041",
+            "type": "user",
+            "uri": "spotify:user:1154712041"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                        "id": "06HL4z0CvFAxyc27GXpf02",
+                        "name": "Taylor Swift",
+                        "type": "artist",
+                        "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5JnnrTE35MQagEnEkFthiF"
+                },
+                "href": "https://api.spotify.com/v1/albums/5JnnrTE35MQagEnEkFthiF",
+                "id": "5JnnrTE35MQagEnEkFthiF",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/b28e0dbd7eb87cac2fcc262c2b59b2c321369062",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/335e2847fc16e8e758f64da5da93ccac0a902e65",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/6e5b8076f4730ab988746444d40909a4f3eecd5b",
+                        "width": 64
+                    }
+                ],
+                "name": "Christmas Tree Farm",
+                "release_date": "2019-12-06",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:5JnnrTE35MQagEnEkFthiF"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/06HL4z0CvFAxyc27GXpf02",
+                    "id": "06HL4z0CvFAxyc27GXpf02",
+                    "name": "Taylor Swift",
+                    "type": "artist",
+                    "uri": "spotify:artist:06HL4z0CvFAxyc27GXpf02"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 228026,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUG11904285"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2mvabkN1i2gLnGAPUVdwek"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2mvabkN1i2gLnGAPUVdwek",
+            "id": "2mvabkN1i2gLnGAPUVdwek",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Christmas Tree Farm",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/b39daaf7f3a7753c77f5977214c21944cbc09d2f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2mvabkN1i2gLnGAPUVdwek"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-18T15:38:24Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/z0nv5bd7tyl40dspxsgduk0rl"
+            },
+            "href": "https://api.spotify.com/v1/users/z0nv5bd7tyl40dspxsgduk0rl",
+            "id": "z0nv5bd7tyl40dspxsgduk0rl",
+            "type": "user",
+            "uri": "spotify:user:z0nv5bd7tyl40dspxsgduk0rl"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2kQ4uyd7WPQI9xcmeZbI0G"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2kQ4uyd7WPQI9xcmeZbI0G",
+                        "id": "2kQ4uyd7WPQI9xcmeZbI0G",
+                        "name": "The Yogscast",
+                        "type": "artist",
+                        "uri": "spotify:artist:2kQ4uyd7WPQI9xcmeZbI0G"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/53v3htOSGHuWpDsvcaNy0W"
+                },
+                "href": "https://api.spotify.com/v1/albums/53v3htOSGHuWpDsvcaNy0W",
+                "id": "53v3htOSGHuWpDsvcaNy0W",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27392eebf40a6ffa75a3f07a26c",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0292eebf40a6ffa75a3f07a26c",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485192eebf40a6ffa75a3f07a26c",
+                        "width": 64
+                    }
+                ],
+                "name": "Carrot for a Cock",
+                "release_date": "2014-12-14",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:53v3htOSGHuWpDsvcaNy0W"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2kQ4uyd7WPQI9xcmeZbI0G"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2kQ4uyd7WPQI9xcmeZbI0G",
+                    "id": "2kQ4uyd7WPQI9xcmeZbI0G",
+                    "name": "The Yogscast",
+                    "type": "artist",
+                    "uri": "spotify:artist:2kQ4uyd7WPQI9xcmeZbI0G"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 220125,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "GBTW81400001"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6iKTgGQSwFZoYt3bmKsB0t"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6iKTgGQSwFZoYt3bmKsB0t",
+            "id": "6iKTgGQSwFZoYt3bmKsB0t",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Carrot for a Cock",
+            "popularity": 38,
+            "preview_url": "https://p.scdn.co/mp3-preview/591ecf63ad1f75ddc35fc6acdcf3f04a3afc286e?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6iKTgGQSwFZoYt3bmKsB0t"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-18T15:03:00Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/stan3k"
+            },
+            "href": "https://api.spotify.com/v1/users/stan3k",
+            "id": "stan3k",
+            "type": "user",
+            "uri": "spotify:user:stan3k"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/26AHtbjWKiwYzsoGoUZq53",
+                        "id": "26AHtbjWKiwYzsoGoUZq53",
+                        "name": "Pentatonix",
+                        "type": "artist",
+                        "uri": "spotify:artist:26AHtbjWKiwYzsoGoUZq53"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3sId8sOH47yqOWopzbEtJn"
+                },
+                "href": "https://api.spotify.com/v1/albums/3sId8sOH47yqOWopzbEtJn",
+                "id": "3sId8sOH47yqOWopzbEtJn",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ddbbb08d6f7a6ed263fa6afc",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ddbbb08d6f7a6ed263fa6afc",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ddbbb08d6f7a6ed263fa6afc",
+                        "width": 64
+                    }
+                ],
+                "name": "A Pentatonix Christmas Deluxe",
+                "release_date": "2017-12-06",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:3sId8sOH47yqOWopzbEtJn"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/26AHtbjWKiwYzsoGoUZq53"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/26AHtbjWKiwYzsoGoUZq53",
+                    "id": "26AHtbjWKiwYzsoGoUZq53",
+                    "name": "Pentatonix",
+                    "type": "artist",
+                    "uri": "spotify:artist:26AHtbjWKiwYzsoGoUZq53"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 236266,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USRC11601826"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6crJeVAyChFwjdI6oo0lwm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6crJeVAyChFwjdI6oo0lwm",
+            "id": "6crJeVAyChFwjdI6oo0lwm",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/0uG7N4hCYktGJrWIp9cfYz"
+                },
+                "href": "https://api.spotify.com/v1/tracks/0uG7N4hCYktGJrWIp9cfYz",
+                "id": "0uG7N4hCYktGJrWIp9cfYz",
+                "type": "track",
+                "uri": "spotify:track:0uG7N4hCYktGJrWIp9cfYz"
+            },
+            "name": "Merry Christmas, Happy Holidays",
+            "popularity": 65,
+            "preview_url": "https://p.scdn.co/mp3-preview/28953b53fe6f1b9dac423609069cb7d5afd55aed?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:6crJeVAyChFwjdI6oo0lwm"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-18T15:12:29Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/richcooper101"
+            },
+            "href": "https://api.spotify.com/v1/users/richcooper101",
+            "id": "richcooper101",
+            "type": "user",
+            "uri": "spotify:user:richcooper101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i",
+                        "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+                        "name": "Destiny's Child",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0MnAbxbwU1Rjg8hbGzKjYZ"
+                },
+                "href": "https://api.spotify.com/v1/albums/0MnAbxbwU1Rjg8hbGzKjYZ",
+                "id": "0MnAbxbwU1Rjg8hbGzKjYZ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27354e20e8c91d74559c0ace5d4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0254e20e8c91d74559c0ace5d4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485154e20e8c91d74559c0ace5d4",
+                        "width": 64
+                    }
+                ],
+                "name": "8 Days Of Christmas",
+                "release_date": "2001-10-30",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:0MnAbxbwU1Rjg8hbGzKjYZ"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Y8cdNmUJH7yBTd9yOvr5i",
+                    "id": "1Y8cdNmUJH7yBTd9yOvr5i",
+                    "name": "Destiny's Child",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Y8cdNmUJH7yBTd9yOvr5i"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 209360,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM10016220"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7o4HtESXicUqk3oRqngIsS"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7o4HtESXicUqk3oRqngIsS",
+            "id": "7o4HtESXicUqk3oRqngIsS",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2CZWUmcG9swKChEPBllPra"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2CZWUmcG9swKChEPBllPra",
+                "id": "2CZWUmcG9swKChEPBllPra",
+                "type": "track",
+                "uri": "spotify:track:2CZWUmcG9swKChEPBllPra"
+            },
+            "name": "8 Days of Christmas",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/db85ac5d1872fdb0f5542d0fb76f78aab7bc562f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:7o4HtESXicUqk3oRqngIsS"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-18T16:18:37Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/slickwit"
+            },
+            "href": "https://api.spotify.com/v1/users/slickwit",
+            "id": "slickwit",
+            "type": "user",
+            "uri": "spotify:user:slickwit"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/684i2dRwvzTO4XhjtmIIq5"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/684i2dRwvzTO4XhjtmIIq5",
+                        "id": "684i2dRwvzTO4XhjtmIIq5",
+                        "name": "Bob & Doug McKenzie",
+                        "type": "artist",
+                        "uri": "spotify:artist:684i2dRwvzTO4XhjtmIIq5"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5STDeZATSI9rM9Dh818xdH"
+                },
+                "href": "https://api.spotify.com/v1/albums/5STDeZATSI9rM9Dh818xdH",
+                "id": "5STDeZATSI9rM9Dh818xdH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/198fd81a6bc463a5c69f21477f7e33fe216df33f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/6dbe901e024040e5a1bda2de064a45394e711ff5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/b783a66438a4f845d638aa07268c6403aa49b4fd",
+                        "width": 64
+                    }
+                ],
+                "name": "Great White North",
+                "release_date": "1981-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:5STDeZATSI9rM9Dh818xdH"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/684i2dRwvzTO4XhjtmIIq5"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/684i2dRwvzTO4XhjtmIIq5",
+                    "id": "684i2dRwvzTO4XhjtmIIq5",
+                    "name": "Bob & Doug McKenzie",
+                    "type": "artist",
+                    "uri": "spotify:artist:684i2dRwvzTO4XhjtmIIq5"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 285306,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USPR38109158"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4eUuyhbmV2A5bkrnhRcrXn"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4eUuyhbmV2A5bkrnhRcrXn",
+            "id": "4eUuyhbmV2A5bkrnhRcrXn",
+            "is_local": false,
+            "is_playable": true,
+            "name": "The Twelve Days Of Christmas",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/e650fbf1ebf357896dbf5f1a140f0cd81c1deb2d?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 15,
+            "type": "track",
+            "uri": "spotify:track:4eUuyhbmV2A5bkrnhRcrXn"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-18T16:18:43Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/p6axv5ux9ig0fx8cm2ngl1lui"
+            },
+            "href": "https://api.spotify.com/v1/users/p6axv5ux9ig0fx8cm2ngl1lui",
+            "id": "p6axv5ux9ig0fx8cm2ngl1lui",
+            "type": "user",
+            "uri": "spotify:user:p6axv5ux9ig0fx8cm2ngl1lui"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0EeHVtSdrYibpGDVHjWEpe",
+                        "id": "0EeHVtSdrYibpGDVHjWEpe",
+                        "name": "Mannheim Steamroller",
+                        "type": "artist",
+                        "uri": "spotify:artist:0EeHVtSdrYibpGDVHjWEpe"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2je3rCKJ7FYqVvaKCkMJ8J"
+                },
+                "href": "https://api.spotify.com/v1/albums/2je3rCKJ7FYqVvaKCkMJ8J",
+                "id": "2je3rCKJ7FYqVvaKCkMJ8J",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27349a33fbb0476ec73093eaa48",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0249a33fbb0476ec73093eaa48",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485149a33fbb0476ec73093eaa48",
+                        "width": 64
+                    }
+                ],
+                "name": "Christmas",
+                "release_date": "1984",
+                "release_date_precision": "year",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:2je3rCKJ7FYqVvaKCkMJ8J"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0EeHVtSdrYibpGDVHjWEpe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0EeHVtSdrYibpGDVHjWEpe",
+                    "id": "0EeHVtSdrYibpGDVHjWEpe",
+                    "name": "Mannheim Steamroller",
+                    "type": "artist",
+                    "uri": "spotify:artist:0EeHVtSdrYibpGDVHjWEpe"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 215800,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USAG20198405"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4vkGTMoTO5EJeNhzrqu2S7"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4vkGTMoTO5EJeNhzrqu2S7",
+            "id": "4vkGTMoTO5EJeNhzrqu2S7",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Good King Wenceslas",
+            "popularity": 43,
+            "preview_url": "https://p.scdn.co/mp3-preview/b75f921685989681736a0a6273becf31b00e9d7e?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:4vkGTMoTO5EJeNhzrqu2S7"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-18T16:49:09Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/culvero"
+            },
+            "href": "https://api.spotify.com/v1/users/culvero",
+            "id": "culvero",
+            "type": "user",
+            "uri": "spotify:user:culvero"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4adgHnoK84DgtLot2jxrp2",
+                        "id": "4adgHnoK84DgtLot2jxrp2",
+                        "name": "Tim Minchin",
+                        "type": "artist",
+                        "uri": "spotify:artist:4adgHnoK84DgtLot2jxrp2"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/77P64k0spJOs314NeVgHij"
+                },
+                "href": "https://api.spotify.com/v1/albums/77P64k0spJOs314NeVgHij",
+                "id": "77P64k0spJOs314NeVgHij",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737dca9306e006ba8d5d1cc662",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027dca9306e006ba8d5d1cc662",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517dca9306e006ba8d5d1cc662",
+                        "width": 64
+                    }
+                ],
+                "name": "White Wine in the Sun",
+                "release_date": "2012-12-01",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:77P64k0spJOs314NeVgHij"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4adgHnoK84DgtLot2jxrp2"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4adgHnoK84DgtLot2jxrp2",
+                    "id": "4adgHnoK84DgtLot2jxrp2",
+                    "name": "Tim Minchin",
+                    "type": "artist",
+                    "uri": "spotify:artist:4adgHnoK84DgtLot2jxrp2"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 381151,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBHWV1201508"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0m8y84pDApNyiavjdSSlBh"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0m8y84pDApNyiavjdSSlBh",
+            "id": "0m8y84pDApNyiavjdSSlBh",
+            "is_local": false,
+            "is_playable": true,
+            "name": "White Wine in the Sun",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/e3bdb6c830f8f5dcb450e70391f322ef277dad79?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0m8y84pDApNyiavjdSSlBh"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-18T17:12:13Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/11167586686"
+            },
+            "href": "https://api.spotify.com/v1/users/11167586686",
+            "id": "11167586686",
+            "type": "user",
+            "uri": "spotify:user:11167586686"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1bDWGdIC2hardyt55nlQgG",
+                        "id": "1bDWGdIC2hardyt55nlQgG",
+                        "name": "\"Weird Al\" Yankovic",
+                        "type": "artist",
+                        "uri": "spotify:artist:1bDWGdIC2hardyt55nlQgG"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2WMY5Qm6ztMQsAubpumeb4"
+                },
+                "href": "https://api.spotify.com/v1/albums/2WMY5Qm6ztMQsAubpumeb4",
+                "id": "2WMY5Qm6ztMQsAubpumeb4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e840912a60b4d50e0b75154b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e840912a60b4d50e0b75154b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e840912a60b4d50e0b75154b",
+                        "width": 64
+                    }
+                ],
+                "name": "The Essential \"Weird Al\" Yankovic",
+                "release_date": "2009",
+                "release_date_precision": "year",
+                "total_tracks": 38,
+                "type": "album",
+                "uri": "spotify:album:2WMY5Qm6ztMQsAubpumeb4"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1bDWGdIC2hardyt55nlQgG",
+                    "id": "1bDWGdIC2hardyt55nlQgG",
+                    "name": "\"Weird Al\" Yankovic",
+                    "type": "artist",
+                    "uri": "spotify:artist:1bDWGdIC2hardyt55nlQgG"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 241720,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USVR10300140"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1RLLZU8KLPbezWwPQU0aJg"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1RLLZU8KLPbezWwPQU0aJg",
+            "id": "1RLLZU8KLPbezWwPQU0aJg",
+            "is_local": false,
+            "is_playable": true,
+            "name": "The Night Santa Went Crazy",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/1222ffbc4c3df0756df4a0c7ac586bdf22cd4794?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:1RLLZU8KLPbezWwPQU0aJg"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-19T08:02:58Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/dankreso"
+            },
+            "href": "https://api.spotify.com/v1/users/dankreso",
+            "id": "dankreso",
+            "type": "user",
+            "uri": "spotify:user:dankreso"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0Gzg89v6mIfivcp382o7Yg"
+                },
+                "href": "https://api.spotify.com/v1/albums/0Gzg89v6mIfivcp382o7Yg",
+                "id": "0Gzg89v6mIfivcp382o7Yg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737c340a08471cfe303630aece",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027c340a08471cfe303630aece",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517c340a08471cfe303630aece",
+                        "width": 64
+                    }
+                ],
+                "name": "The Wags Christmas Album (Santa's Bazaar)",
+                "release_date": "2013-12-16",
+                "release_date_precision": "day",
+                "total_tracks": 19,
+                "type": "album",
+                "uri": "spotify:album:0Gzg89v6mIfivcp382o7Yg"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0KH3J6AS6mV7V3uIziZ7FN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0KH3J6AS6mV7V3uIziZ7FN",
+                    "id": "0KH3J6AS6mV7V3uIziZ7FN",
+                    "name": "The Cheeky Girls",
+                    "type": "artist",
+                    "uri": "spotify:artist:0KH3J6AS6mV7V3uIziZ7FN"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 190000,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAWV0303492"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5VWIxz9smLCvR2v4gMiL59"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5VWIxz9smLCvR2v4gMiL59",
+            "id": "5VWIxz9smLCvR2v4gMiL59",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2OrimHz2Xri8igSPaabLQk"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2OrimHz2Xri8igSPaabLQk",
+                "id": "2OrimHz2Xri8igSPaabLQk",
+                "type": "track",
+                "uri": "spotify:track:2OrimHz2Xri8igSPaabLQk"
+            },
+            "name": "A Cheeky Christmas",
+            "popularity": 11,
+            "preview_url": "https://p.scdn.co/mp3-preview/3ea3cee0f544db6536106b910465e58988ea0dbe?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5VWIxz9smLCvR2v4gMiL59"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-19T08:38:47Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/%2Cmmpete"
+            },
+            "href": "https://api.spotify.com/v1/users/%2Cmmpete",
+            "id": ",mmpete",
+            "type": "user",
+            "uri": "spotify:user:%2Cmmpete"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7w9jdhcgHNdiPeNPUoFSlx",
+                        "id": "7w9jdhcgHNdiPeNPUoFSlx",
+                        "name": "Dropkick Murphys",
+                        "type": "artist",
+                        "uri": "spotify:artist:7w9jdhcgHNdiPeNPUoFSlx"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5YYbg2ZO8rK84Zf4Z5yWPJ"
+                },
+                "href": "https://api.spotify.com/v1/albums/5YYbg2ZO8rK84Zf4Z5yWPJ",
+                "id": "5YYbg2ZO8rK84Zf4Z5yWPJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d2cd14fdfecbe5b7c4e56557",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d2cd14fdfecbe5b7c4e56557",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d2cd14fdfecbe5b7c4e56557",
+                        "width": 64
+                    }
+                ],
+                "name": "SIGNED and SEALED in BLOOD",
+                "release_date": "2013-01-08",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:5YYbg2ZO8rK84Zf4Z5yWPJ"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7w9jdhcgHNdiPeNPUoFSlx",
+                    "id": "7w9jdhcgHNdiPeNPUoFSlx",
+                    "name": "Dropkick Murphys",
+                    "type": "artist",
+                    "uri": "spotify:artist:7w9jdhcgHNdiPeNPUoFSlx"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 242186,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USK251300006"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6iCYB6YHIQ8G12cRajPzZe"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6iCYB6YHIQ8G12cRajPzZe",
+            "id": "6iCYB6YHIQ8G12cRajPzZe",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5VspxQawID6wKQPD6Crno1"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5VspxQawID6wKQPD6Crno1",
+                "id": "5VspxQawID6wKQPD6Crno1",
+                "type": "track",
+                "uri": "spotify:track:5VspxQawID6wKQPD6Crno1"
+            },
+            "name": "The Season's Upon Us",
+            "popularity": 46,
+            "preview_url": "https://p.scdn.co/mp3-preview/0065523a1c3853df21592aac67cfcd15ab9ab08a?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:6iCYB6YHIQ8G12cRajPzZe"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-19T08:59:22Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/sidebadger"
+            },
+            "href": "https://api.spotify.com/v1/users/sidebadger",
+            "id": "sidebadger",
+            "type": "user",
+            "uri": "spotify:user:sidebadger"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+                        "id": "0I4Bk2s2BUJyykCwtxx8Xx",
+                        "name": "Keith & Kristyn Getty",
+                        "type": "artist",
+                        "uri": "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/58HAyMpuZMRA1FpmEG1VSO"
+                },
+                "href": "https://api.spotify.com/v1/albums/58HAyMpuZMRA1FpmEG1VSO",
+                "id": "58HAyMpuZMRA1FpmEG1VSO",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/3d172059a6f3404fb2a9209d6c1500a5682427cb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/a333a9e5abcb8a75a082f2f36a7154dee5b91287",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/0e4de32e89f2312175a5bee85fbd1e0dde26ca7c",
+                        "width": 64
+                    }
+                ],
+                "name": "Joy: An Irish Christmas",
+                "release_date": "2011-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:58HAyMpuZMRA1FpmEG1VSO"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0I4Bk2s2BUJyykCwtxx8Xx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0I4Bk2s2BUJyykCwtxx8Xx",
+                    "id": "0I4Bk2s2BUJyykCwtxx8Xx",
+                    "name": "Keith & Kristyn Getty",
+                    "type": "artist",
+                    "uri": "spotify:artist:0I4Bk2s2BUJyykCwtxx8Xx"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 291746,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USY5K0900290"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6UutRZVeIPVwOfZvJUcUlt"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6UutRZVeIPVwOfZvJUcUlt",
+            "id": "6UutRZVeIPVwOfZvJUcUlt",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Magnificat",
+            "popularity": 34,
+            "preview_url": "https://p.scdn.co/mp3-preview/61153784054797ed9380eee390bb6af330744ca7?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:6UutRZVeIPVwOfZvJUcUlt"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-19T11:02:25Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/jameseh66"
+            },
+            "href": "https://api.spotify.com/v1/users/jameseh66",
+            "id": "jameseh66",
+            "type": "user",
+            "uri": "spotify:user:jameseh66"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5r1bdqzhgRoHC3YcCV6N5a",
+                        "id": "5r1bdqzhgRoHC3YcCV6N5a",
+                        "name": "The Darkness",
+                        "type": "artist",
+                        "uri": "spotify:artist:5r1bdqzhgRoHC3YcCV6N5a"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4XzNQosYnRNJ29QYsMV98V"
+                },
+                "href": "https://api.spotify.com/v1/albums/4XzNQosYnRNJ29QYsMV98V",
+                "id": "4XzNQosYnRNJ29QYsMV98V",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aef52a938fed8dc2c91d3299",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aef52a938fed8dc2c91d3299",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aef52a938fed8dc2c91d3299",
+                        "width": 64
+                    }
+                ],
+                "name": "Christmas Time (Don't Let The Bells End)",
+                "release_date": "2004-09-27",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:4XzNQosYnRNJ29QYsMV98V"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5r1bdqzhgRoHC3YcCV6N5a"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5r1bdqzhgRoHC3YcCV6N5a",
+                    "id": "5r1bdqzhgRoHC3YcCV6N5a",
+                    "name": "The Darkness",
+                    "type": "artist",
+                    "uri": "spotify:artist:5r1bdqzhgRoHC3YcCV6N5a"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 219493,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAHS0300863"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/46w8k81V0eSBx64XuVHxT2"
+            },
+            "href": "https://api.spotify.com/v1/tracks/46w8k81V0eSBx64XuVHxT2",
+            "id": "46w8k81V0eSBx64XuVHxT2",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Christmas Time (Don't Let the Bells End)",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/aa602f76af2a0e67f8b8e1652c45d3302dc4a802?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:46w8k81V0eSBx64XuVHxT2"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-19T15:49:52Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mholmes101"
+            },
+            "href": "https://api.spotify.com/v1/users/mholmes101",
+            "id": "mholmes101",
+            "type": "user",
+            "uri": "spotify:user:mholmes101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6FfC7T2cxMj6H7Q5mmqAYe"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6FfC7T2cxMj6H7Q5mmqAYe",
+                        "id": "6FfC7T2cxMj6H7Q5mmqAYe",
+                        "name": "C.W. Stoneking",
+                        "type": "artist",
+                        "uri": "spotify:artist:6FfC7T2cxMj6H7Q5mmqAYe"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5QIWvv1V1HaaUxypxlbSDA"
+                },
+                "href": "https://api.spotify.com/v1/albums/5QIWvv1V1HaaUxypxlbSDA",
+                "id": "5QIWvv1V1HaaUxypxlbSDA",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734fcf9b56c9d705d8cfb389ec",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024fcf9b56c9d705d8cfb389ec",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514fcf9b56c9d705d8cfb389ec",
+                        "width": 64
+                    }
+                ],
+                "name": "King Hokum",
+                "release_date": "2008",
+                "release_date_precision": "year",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:5QIWvv1V1HaaUxypxlbSDA"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6FfC7T2cxMj6H7Q5mmqAYe"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6FfC7T2cxMj6H7Q5mmqAYe",
+                    "id": "6FfC7T2cxMj6H7Q5mmqAYe",
+                    "name": "C.W. Stoneking",
+                    "type": "artist",
+                    "uri": "spotify:artist:6FfC7T2cxMj6H7Q5mmqAYe"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 166146,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "AUIO00600893"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0ETCH640QPhFVXXpMRAoNh"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0ETCH640QPhFVXXpMRAoNh",
+            "id": "0ETCH640QPhFVXXpMRAoNh",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/543blHEi0SeO73Edoe2TRc"
+                },
+                "href": "https://api.spotify.com/v1/tracks/543blHEi0SeO73Edoe2TRc",
+                "id": "543blHEi0SeO73Edoe2TRc",
+                "type": "track",
+                "uri": "spotify:track:543blHEi0SeO73Edoe2TRc"
+            },
+            "name": "On A Christmas Day",
+            "popularity": 13,
+            "preview_url": "https://p.scdn.co/mp3-preview/3e0ab48fb5e4b8ce802cdc7ba8117e7dfe39fe19?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:0ETCH640QPhFVXXpMRAoNh"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-19T18:52:33Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/louiecn"
+            },
+            "href": "https://api.spotify.com/v1/users/louiecn",
+            "id": "louiecn",
+            "type": "user",
+            "uri": "spotify:user:louiecn"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2GANYNr7GesJptQXLIDKhR"
+                },
+                "href": "https://api.spotify.com/v1/albums/2GANYNr7GesJptQXLIDKhR",
+                "id": "2GANYNr7GesJptQXLIDKhR",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e1c72d867246b30228fe9c96",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e1c72d867246b30228fe9c96",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e1c72d867246b30228fe9c96",
+                        "width": 64
+                    }
+                ],
+                "name": "Boyhood: Classic and Modern Songs for All Children's Fun, Play, And Education",
+                "release_date": "2015-03-02",
+                "release_date_precision": "day",
+                "total_tracks": 24,
+                "type": "album",
+                "uri": "spotify:album:2GANYNr7GesJptQXLIDKhR"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2A9wIwYLlWbxN6Qww1EhhG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2A9wIwYLlWbxN6Qww1EhhG",
+                    "id": "2A9wIwYLlWbxN6Qww1EhhG",
+                    "name": "Bob King",
+                    "type": "artist",
+                    "uri": "spotify:artist:2A9wIwYLlWbxN6Qww1EhhG"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 156066,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "CAC350500017"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6oWKTrIpMquS6DMW0WPoN3"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6oWKTrIpMquS6DMW0WPoN3",
+            "id": "6oWKTrIpMquS6DMW0WPoN3",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Sandwiches Are Beautiful",
+            "popularity": 5,
+            "preview_url": "https://p.scdn.co/mp3-preview/163ba9a6ea43e1fcbf9eabdb5d05dad2b2143ea2?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 11,
+            "type": "track",
+            "uri": "spotify:track:6oWKTrIpMquS6DMW0WPoN3"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-20T08:11:57Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/felixthespider"
+            },
+            "href": "https://api.spotify.com/v1/users/felixthespider",
+            "id": "felixthespider",
+            "type": "user",
+            "uri": "spotify:user:felixthespider"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4YsP5zmteLQ7etNjHAOu30",
+                        "id": "4YsP5zmteLQ7etNjHAOu30",
+                        "name": "Midlake",
+                        "type": "artist",
+                        "uri": "spotify:artist:4YsP5zmteLQ7etNjHAOu30"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1ZXIVGFclttkyQDLgPGckD"
+                },
+                "href": "https://api.spotify.com/v1/albums/1ZXIVGFclttkyQDLgPGckD",
+                "id": "1ZXIVGFclttkyQDLgPGckD",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739dc0997b21b0211296169ce6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029dc0997b21b0211296169ce6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519dc0997b21b0211296169ce6",
+                        "width": 64
+                    }
+                ],
+                "name": "The Trials Of Van Occupanther",
+                "release_date": "2008",
+                "release_date_precision": "year",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:1ZXIVGFclttkyQDLgPGckD"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4YsP5zmteLQ7etNjHAOu30"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4YsP5zmteLQ7etNjHAOu30",
+                    "id": "4YsP5zmteLQ7etNjHAOu30",
+                    "name": "Midlake",
+                    "type": "artist",
+                    "uri": "spotify:artist:4YsP5zmteLQ7etNjHAOu30"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 341880,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBBRP0611703"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0SgdOI8fZ5uKygS246eKTo"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0SgdOI8fZ5uKygS246eKTo",
+            "id": "0SgdOI8fZ5uKygS246eKTo",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Head Home",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/3820faf1194de906392541cebe82ce079442217e?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:0SgdOI8fZ5uKygS246eKTo"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-20T10:18:23Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/antariz"
+            },
+            "href": "https://api.spotify.com/v1/users/antariz",
+            "id": "antariz",
+            "type": "user",
+            "uri": "spotify:user:antariz"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sf4DrAOkheqktxTyKm7tO",
+                        "id": "4sf4DrAOkheqktxTyKm7tO",
+                        "name": "AmaLee",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sf4DrAOkheqktxTyKm7tO"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3B0K8IolJsn3OZAmFwRMov"
+                },
+                "href": "https://api.spotify.com/v1/albums/3B0K8IolJsn3OZAmFwRMov",
+                "id": "3B0K8IolJsn3OZAmFwRMov",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/fdc734923a96862274c5654088efb39fa3244eb6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/e542955ccf8153e29fb5b63cfaa1a849d48566d8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/99122e07e0b1d2b4a1969a91a01ff6c1ae5b2374",
+                        "width": 64
+                    }
+                ],
+                "name": "Santa Senpai",
+                "release_date": "2016-12-21",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:3B0K8IolJsn3OZAmFwRMov"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4sf4DrAOkheqktxTyKm7tO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4sf4DrAOkheqktxTyKm7tO",
+                    "id": "4sf4DrAOkheqktxTyKm7tO",
+                    "name": "AmaLee",
+                    "type": "artist",
+                    "uri": "spotify:artist:4sf4DrAOkheqktxTyKm7tO"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 168394,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "QZ4JJ1670111"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1ryjgzTUlSNpcnOAkab0kv"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1ryjgzTUlSNpcnOAkab0kv",
+            "id": "1ryjgzTUlSNpcnOAkab0kv",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Santa Senpai",
+            "popularity": 23,
+            "preview_url": "https://p.scdn.co/mp3-preview/cba24b229a8bc9c8bc5283dec3a701a65c4d3c96?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:1ryjgzTUlSNpcnOAkab0kv"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2019-12-20T10:36:52Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/5mzbxcu9x4xwocccx79wmvztm"
+            },
+            "href": "https://api.spotify.com/v1/users/5mzbxcu9x4xwocccx79wmvztm",
+            "id": "5mzbxcu9x4xwocccx79wmvztm",
+            "type": "user",
+            "uri": "spotify:user:5mzbxcu9x4xwocccx79wmvztm"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1Qczy4eq06XCzOqUzUjNJ8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1Qczy4eq06XCzOqUzUjNJ8",
+                        "id": "1Qczy4eq06XCzOqUzUjNJ8",
+                        "name": "CMI Chant",
+                        "type": "artist",
+                        "uri": "spotify:artist:1Qczy4eq06XCzOqUzUjNJ8"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4MCXlOu0xHxVsc1MtGoV0u"
+                },
+                "href": "https://api.spotify.com/v1/albums/4MCXlOu0xHxVsc1MtGoV0u",
+                "id": "4MCXlOu0xHxVsc1MtGoV0u",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734c36872416de86a0e3c00111",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024c36872416de86a0e3c00111",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514c36872416de86a0e3c00111",
+                        "width": 64
+                    }
+                ],
+                "name": "Canticum Novum",
+                "release_date": "2019-04-21",
+                "release_date_precision": "day",
+                "total_tracks": 9,
+                "type": "album",
+                "uri": "spotify:album:4MCXlOu0xHxVsc1MtGoV0u"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1Qczy4eq06XCzOqUzUjNJ8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1Qczy4eq06XCzOqUzUjNJ8",
+                    "id": "1Qczy4eq06XCzOqUzUjNJ8",
+                    "name": "CMI Chant",
+                    "type": "artist",
+                    "uri": "spotify:artist:1Qczy4eq06XCzOqUzUjNJ8"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 179472,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "TCAEE1943391"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/78fyktUpyBDvzRy6h0ei4F"
+            },
+            "href": "https://api.spotify.com/v1/tracks/78fyktUpyBDvzRy6h0ei4F",
+            "id": "78fyktUpyBDvzRy6h0ei4F",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Let All Mortal Flesh Keep Silence",
+            "popularity": 3,
+            "preview_url": "https://p.scdn.co/mp3-preview/5eaa9974e387fecbb68a413e8e72e99f555e026e?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:78fyktUpyBDvzRy6h0ei4F"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    }
+]
