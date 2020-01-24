@@ -1472,5 +1472,309 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2020-01-24T15:01:12Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/slickwit"
+            },
+            "href": "https://api.spotify.com/v1/users/slickwit",
+            "id": "slickwit",
+            "type": "user",
+            "uri": "spotify:user:slickwit"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+                        "id": "1l9d7B8W0IHy3LqWsxP2SH",
+                        "name": "Phantogram",
+                        "type": "artist",
+                        "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2R2Cwe4kI8b2WObXZ90wOC"
+                },
+                "href": "https://api.spotify.com/v1/albums/2R2Cwe4kI8b2WObXZ90wOC",
+                "id": "2R2Cwe4kI8b2WObXZ90wOC",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/64b720c22607ae39a1b7efc5f0d98893861487ea",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/3f2495fbd1ec4c473552ec692e2ec0fbfbcb7362",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/a3df946ad7e01f587b795245ab8674490a90e627",
+                        "width": 64
+                    }
+                ],
+                "name": "Voices",
+                "release_date": "2014-02-18",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:2R2Cwe4kI8b2WObXZ90wOC"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1l9d7B8W0IHy3LqWsxP2SH",
+                    "id": "1l9d7B8W0IHy3LqWsxP2SH",
+                    "name": "Phantogram",
+                    "type": "artist",
+                    "uri": "spotify:artist:1l9d7B8W0IHy3LqWsxP2SH"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 245053,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USUM71318565"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3tgKPIjhpelqSeKbDzaG3c"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3tgKPIjhpelqSeKbDzaG3c",
+            "id": "3tgKPIjhpelqSeKbDzaG3c",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Nothing But Trouble",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/ac4c78e3548b799d54f434155b1662396645843c?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3tgKPIjhpelqSeKbDzaG3c"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-01-24T15:23:19Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/richcooper101"
+            },
+            "href": "https://api.spotify.com/v1/users/richcooper101",
+            "id": "richcooper101",
+            "type": "user",
+            "uri": "spotify:user:richcooper101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1PGSb2wgymZeNTUYqnOxyq"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1PGSb2wgymZeNTUYqnOxyq",
+                        "id": "1PGSb2wgymZeNTUYqnOxyq",
+                        "name": "Edward Shearmur",
+                        "type": "artist",
+                        "uri": "spotify:artist:1PGSb2wgymZeNTUYqnOxyq"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6IyXjzfiJs02tlCqQkTple"
+                },
+                "href": "https://api.spotify.com/v1/albums/6IyXjzfiJs02tlCqQkTple",
+                "id": "6IyXjzfiJs02tlCqQkTple",
+                "images": [
+                    {
+                        "height": 635,
+                        "url": "https://i.scdn.co/image/0fa2adeea7ef2a9d8120952f22ec5d5f5c62f510",
+                        "width": 640
+                    },
+                    {
+                        "height": 297,
+                        "url": "https://i.scdn.co/image/6d9f483a1947fdaa3c8cc8562553f66e453310cb",
+                        "width": 300
+                    },
+                    {
+                        "height": 63,
+                        "url": "https://i.scdn.co/image/57da2b3ba25c307010697125741b9fdf54f26471",
+                        "width": 64
+                    }
+                ],
+                "name": "Johnny English - Original Motion Picture Soundtrack",
+                "release_date": "2003-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:6IyXjzfiJs02tlCqQkTple"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2HcwFjNelS49kFbfvMxQYw",
+                    "id": "2HcwFjNelS49kFbfvMxQYw",
+                    "name": "Robbie Williams",
+                    "type": "artist",
+                    "uri": "spotify:artist:2HcwFjNelS49kFbfvMxQYw"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0YC192cP3KPCRWx8zr8MfZ",
+                    "id": "0YC192cP3KPCRWx8zr8MfZ",
+                    "name": "Hans Zimmer",
+                    "type": "artist",
+                    "uri": "spotify:artist:0YC192cP3KPCRWx8zr8MfZ"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 239760,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBFFG0300011"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3RIm56NRLSZYo1xgHlbPH4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3RIm56NRLSZYo1xgHlbPH4",
+            "id": "3RIm56NRLSZYo1xgHlbPH4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "A Man For All Seasons",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/6dd232379e23dcd31a20371e4d1c5b915dbffe3f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3RIm56NRLSZYo1xgHlbPH4"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-01-24T15:31:34Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mholmes101"
+            },
+            "href": "https://api.spotify.com/v1/users/mholmes101",
+            "id": "mholmes101",
+            "type": "user",
+            "uri": "spotify:user:mholmes101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+                        "id": "536BYVgOnRky0xjsPT96zl",
+                        "name": "Two Door Cinema Club",
+                        "type": "artist",
+                        "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0SD7kwnJEC2oDzQBKEHQnH"
+                },
+                "href": "https://api.spotify.com/v1/albums/0SD7kwnJEC2oDzQBKEHQnH",
+                "id": "0SD7kwnJEC2oDzQBKEHQnH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731d579563f814da8508cafad2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021d579563f814da8508cafad2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511d579563f814da8508cafad2",
+                        "width": 64
+                    }
+                ],
+                "name": "Tourist History",
+                "release_date": "2010-02-17",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:0SD7kwnJEC2oDzQBKEHQnH"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/536BYVgOnRky0xjsPT96zl",
+                    "id": "536BYVgOnRky0xjsPT96zl",
+                    "name": "Two Door Cinema Club",
+                    "type": "artist",
+                    "uri": "spotify:artist:536BYVgOnRky0xjsPT96zl"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 167773,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "FRU700900115"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0Hrd6CSafHHqKptyFppmqH"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0Hrd6CSafHHqKptyFppmqH",
+            "id": "0Hrd6CSafHHqKptyFppmqH",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/2i63MeQVdPuLvDH4EdaqXO"
+                },
+                "href": "https://api.spotify.com/v1/tracks/2i63MeQVdPuLvDH4EdaqXO",
+                "id": "2i63MeQVdPuLvDH4EdaqXO",
+                "type": "track",
+                "uri": "spotify:track:2i63MeQVdPuLvDH4EdaqXO"
+            },
+            "name": "Undercover Martyn",
+            "popularity": 64,
+            "preview_url": "https://p.scdn.co/mp3-preview/954a5d772c43f858bab5b075add64b64fc383c73?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:0Hrd6CSafHHqKptyFppmqH"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]
