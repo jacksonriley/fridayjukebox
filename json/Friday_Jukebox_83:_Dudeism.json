@@ -244,5 +244,35 @@
             "https://open.spotify.com/artist/4kwxTgCKMipBKhSnEstNKj"
         ],
         "Duration": "5m40s"
+    },
+    {
+        "Added by": "Jackson Riley",
+        "Added at": "2020-03-06T14:58:05Z",
+        "Song name": "Meditation",
+        "Song link": "https://open.spotify.com/track/16EXxrSxvDvgOnCp56mNP6",
+        "Album": "Elevator Music for an Elevated Mood",
+        "Album link": "https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB",
+        "Artists": [
+            "Cory Wong"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+        ],
+        "Duration": "4m41s"
+    },
+    {
+        "Added by": "felixthespider",
+        "Added at": "2020-03-06T14:58:12Z",
+        "Song name": "Just Dropped In (To See What Condition My Condition Was In)",
+        "Song link": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r",
+        "Album": "The First Edition",
+        "Album link": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6",
+        "Artists": [
+            "The First Edition"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+        ],
+        "Duration": "3m21s"
     }
 ]

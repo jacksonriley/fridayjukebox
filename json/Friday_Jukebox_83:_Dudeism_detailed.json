@@ -1575,5 +1575,204 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2020-03-06T14:58:05Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1128916965"
+            },
+            "href": "https://api.spotify.com/v1/users/1128916965",
+            "id": "1128916965",
+            "type": "user",
+            "uri": "spotify:user:1128916965"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6xt9sJmmyYwWkJv8A6ssiU",
+                        "id": "6xt9sJmmyYwWkJv8A6ssiU",
+                        "name": "Cory Wong",
+                        "type": "artist",
+                        "uri": "spotify:artist:6xt9sJmmyYwWkJv8A6ssiU"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1LL5VZdY7CBXScXB0oQ4tB"
+                },
+                "href": "https://api.spotify.com/v1/albums/1LL5VZdY7CBXScXB0oQ4tB",
+                "id": "1LL5VZdY7CBXScXB0oQ4tB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273db23689257e028fe49d1dd0f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02db23689257e028fe49d1dd0f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851db23689257e028fe49d1dd0f",
+                        "width": 64
+                    }
+                ],
+                "name": "Elevator Music for an Elevated Mood",
+                "release_date": "2020-01-10",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:1LL5VZdY7CBXScXB0oQ4tB"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6xt9sJmmyYwWkJv8A6ssiU",
+                    "id": "6xt9sJmmyYwWkJv8A6ssiU",
+                    "name": "Cory Wong",
+                    "type": "artist",
+                    "uri": "spotify:artist:6xt9sJmmyYwWkJv8A6ssiU"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 281226,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "QZK6P1959847"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/16EXxrSxvDvgOnCp56mNP6"
+            },
+            "href": "https://api.spotify.com/v1/tracks/16EXxrSxvDvgOnCp56mNP6",
+            "id": "16EXxrSxvDvgOnCp56mNP6",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Meditation",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/eddcfa2a86057f99a95ac1e5830f036516515f0b?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:16EXxrSxvDvgOnCp56mNP6"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-03-06T14:58:12Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/felixthespider"
+            },
+            "href": "https://api.spotify.com/v1/users/felixthespider",
+            "id": "felixthespider",
+            "type": "user",
+            "uri": "spotify:user:felixthespider"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5XDSGEZV9xG35PRLJ0O3hx",
+                        "id": "5XDSGEZV9xG35PRLJ0O3hx",
+                        "name": "The First Edition",
+                        "type": "artist",
+                        "uri": "spotify:artist:5XDSGEZV9xG35PRLJ0O3hx"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6LZ7MMxdYNUA56kBnqQ6h6"
+                },
+                "href": "https://api.spotify.com/v1/albums/6LZ7MMxdYNUA56kBnqQ6h6",
+                "id": "6LZ7MMxdYNUA56kBnqQ6h6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27391a87b5bd84eecfd0eddb1ed",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0291a87b5bd84eecfd0eddb1ed",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485191a87b5bd84eecfd0eddb1ed",
+                        "width": 64
+                    }
+                ],
+                "name": "The First Edition",
+                "release_date": "1967-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:6LZ7MMxdYNUA56kBnqQ6h6"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5XDSGEZV9xG35PRLJ0O3hx"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5XDSGEZV9xG35PRLJ0O3hx",
+                    "id": "5XDSGEZV9xG35PRLJ0O3hx",
+                    "name": "The First Edition",
+                    "type": "artist",
+                    "uri": "spotify:artist:5XDSGEZV9xG35PRLJ0O3hx"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 201213,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USMC16850396"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4Wrc3Jz4POj0ibPj5iuq0r"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4Wrc3Jz4POj0ibPj5iuq0r",
+            "id": "4Wrc3Jz4POj0ibPj5iuq0r",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5UJK3YawmmwvAhITs17BUx"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5UJK3YawmmwvAhITs17BUx",
+                "id": "5UJK3YawmmwvAhITs17BUx",
+                "type": "track",
+                "uri": "spotify:track:5UJK3YawmmwvAhITs17BUx"
+            },
+            "name": "Just Dropped In (To See What Condition My Condition Was In)",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/524515fa2791b890ea6a8302d76fccf19b1bae58?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:4Wrc3Jz4POj0ibPj5iuq0r"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]
