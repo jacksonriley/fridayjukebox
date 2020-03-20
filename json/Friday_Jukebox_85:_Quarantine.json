@@ -195,5 +195,69 @@
             "https://open.spotify.com/artist/1UzKSuyOqKgUupcNNEtnF1"
         ],
         "Duration": "4m0s"
+    },
+    {
+        "Added by": "1154712041",
+        "Added at": "2020-03-20T15:40:57Z",
+        "Song name": "Long Way",
+        "Song link": "https://open.spotify.com/track/5oq9ossKx7M0Qd04gSNKj5",
+        "Album": "Reservoir",
+        "Album link": "https://open.spotify.com/album/27CcSt3j7OxhWVcCPZBYLq",
+        "Artists": [
+            "Gordi"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+        ],
+        "Duration": "4m0s"
+    },
+    {
+        "Added by": "Jackson Riley",
+        "Added at": "2020-03-20T14:51:40Z",
+        "Song name": "Trying Not To Die",
+        "Song link": "https://open.spotify.com/track/3pEjVn2WLIfC7Ggwm6akd4",
+        "Album": "Time",
+        "Album link": "https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr",
+        "Artists": [
+            "Louis Cole",
+            "Dennis Hamm"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH",
+            "https://open.spotify.com/artist/63Cyh6CQMpPPni4d9af30g"
+        ],
+        "Duration": "4m2s"
+    },
+    {
+        "Added by": "mgreen89",
+        "Added at": "2020-03-20T15:09:05Z",
+        "Song name": "Climbing Up the Walls",
+        "Song link": "https://open.spotify.com/track/0R332cdlS9LyE0Ge2PSlVC",
+        "Album": "OK Computer",
+        "Album link": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn",
+        "Artists": [
+            "Radiohead"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        ],
+        "Duration": "4m45s"
+    },
+    {
+        "Added by": "felixthespider",
+        "Added at": "2020-03-20T15:16:41Z",
+        "Song name": "Together In Electric Dreams - Remastered / From \"Electric Dreams\" Original Motion Picture Soundtrack",
+        "Song link": "https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS",
+        "Album": "Philip Oakey & Giorgio Moroder",
+        "Album link": "https://open.spotify.com/album/2VL7fCZeDWVJAWpIhlRoDm",
+        "Artists": [
+            "Phil Oakey",
+            "Giorgio Moroder"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn",
+            "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+        ],
+        "Duration": "3m52s"
     }
 ]

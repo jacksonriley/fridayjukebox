@@ -1279,5 +1279,415 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2020-03-20T15:40:57Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1154712041"
+            },
+            "href": "https://api.spotify.com/v1/users/1154712041",
+            "id": "1154712041",
+            "type": "user",
+            "uri": "spotify:user:1154712041"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6UBMFaCTZnL1Hr1nTOEblM",
+                        "id": "6UBMFaCTZnL1Hr1nTOEblM",
+                        "name": "Gordi",
+                        "type": "artist",
+                        "uri": "spotify:artist:6UBMFaCTZnL1Hr1nTOEblM"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/27CcSt3j7OxhWVcCPZBYLq"
+                },
+                "href": "https://api.spotify.com/v1/albums/27CcSt3j7OxhWVcCPZBYLq",
+                "id": "27CcSt3j7OxhWVcCPZBYLq",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733117d8d368be1d8cd39c0b7b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023117d8d368be1d8cd39c0b7b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513117d8d368be1d8cd39c0b7b",
+                        "width": 64
+                    }
+                ],
+                "name": "Reservoir",
+                "release_date": "2017-08-25",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:27CcSt3j7OxhWVcCPZBYLq"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6UBMFaCTZnL1Hr1nTOEblM",
+                    "id": "6UBMFaCTZnL1Hr1nTOEblM",
+                    "name": "Gordi",
+                    "type": "artist",
+                    "uri": "spotify:artist:6UBMFaCTZnL1Hr1nTOEblM"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 240906,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "US38Y1728801"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5oq9ossKx7M0Qd04gSNKj5"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5oq9ossKx7M0Qd04gSNKj5",
+            "id": "5oq9ossKx7M0Qd04gSNKj5",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Long Way",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/752d7f98d0cfa8119c77cbf06e77cfa389e93490?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5oq9ossKx7M0Qd04gSNKj5"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-03-20T14:51:40Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1128916965"
+            },
+            "href": "https://api.spotify.com/v1/users/1128916965",
+            "id": "1128916965",
+            "type": "user",
+            "uri": "spotify:user:1128916965"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6uIst176jhzooPMetg2rtH",
+                        "id": "6uIst176jhzooPMetg2rtH",
+                        "name": "Louis Cole",
+                        "type": "artist",
+                        "uri": "spotify:artist:6uIst176jhzooPMetg2rtH"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2p8VeG5r2aadenxHViCibr"
+                },
+                "href": "https://api.spotify.com/v1/albums/2p8VeG5r2aadenxHViCibr",
+                "id": "2p8VeG5r2aadenxHViCibr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730f670bf8867870b2557d84eb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020f670bf8867870b2557d84eb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510f670bf8867870b2557d84eb",
+                        "width": 64
+                    }
+                ],
+                "name": "Time",
+                "release_date": "2018-08-10",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "type": "album",
+                "uri": "spotify:album:2p8VeG5r2aadenxHViCibr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6uIst176jhzooPMetg2rtH",
+                    "id": "6uIst176jhzooPMetg2rtH",
+                    "name": "Louis Cole",
+                    "type": "artist",
+                    "uri": "spotify:artist:6uIst176jhzooPMetg2rtH"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/63Cyh6CQMpPPni4d9af30g"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/63Cyh6CQMpPPni4d9af30g",
+                    "id": "63Cyh6CQMpPPni4d9af30g",
+                    "name": "Dennis Hamm",
+                    "type": "artist",
+                    "uri": "spotify:artist:63Cyh6CQMpPPni4d9af30g"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 242162,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "US25X1800535"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3pEjVn2WLIfC7Ggwm6akd4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3pEjVn2WLIfC7Ggwm6akd4",
+            "id": "3pEjVn2WLIfC7Ggwm6akd4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Trying Not To Die",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/378dfbcff905291b2dcac13c856343bc8e00318e?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 12,
+            "type": "track",
+            "uri": "spotify:track:3pEjVn2WLIfC7Ggwm6akd4"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-03-20T15:09:05Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mgreen89"
+            },
+            "href": "https://api.spotify.com/v1/users/mgreen89",
+            "id": "mgreen89",
+            "type": "user",
+            "uri": "spotify:user:mgreen89"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                        "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                        "name": "Radiohead",
+                        "type": "artist",
+                        "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7dxKtc08dYeRVHt3p9CZJn"
+                },
+                "href": "https://api.spotify.com/v1/albums/7dxKtc08dYeRVHt3p9CZJn",
+                "id": "7dxKtc08dYeRVHt3p9CZJn",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273adb1732fa8d44b8eb2f6c0bf",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02adb1732fa8d44b8eb2f6c0bf",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851adb1732fa8d44b8eb2f6c0bf",
+                        "width": 64
+                    }
+                ],
+                "name": "OK Computer",
+                "release_date": "1997-05-28",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:7dxKtc08dYeRVHt3p9CZJn"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Z8W4fKeB5YxbusRsdQVPb",
+                    "id": "4Z8W4fKeB5YxbusRsdQVPb",
+                    "name": "Radiohead",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Z8W4fKeB5YxbusRsdQVPb"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 285200,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAYE9701370"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0R332cdlS9LyE0Ge2PSlVC"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0R332cdlS9LyE0Ge2PSlVC",
+            "id": "0R332cdlS9LyE0Ge2PSlVC",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Climbing Up the Walls",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/5b1e45987b96b274c80e52c54572b16c8f8c901e?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:0R332cdlS9LyE0Ge2PSlVC"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-03-20T15:16:41Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/felixthespider"
+            },
+            "href": "https://api.spotify.com/v1/users/felixthespider",
+            "id": "felixthespider",
+            "type": "user",
+            "uri": "spotify:user:felixthespider"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6ne5YmZH7oCXcZUBsY66sn",
+                        "id": "6ne5YmZH7oCXcZUBsY66sn",
+                        "name": "Phil Oakey",
+                        "type": "artist",
+                        "uri": "spotify:artist:6ne5YmZH7oCXcZUBsY66sn"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6jU2Tt13MmXYk0ZBv1KmfO",
+                        "id": "6jU2Tt13MmXYk0ZBv1KmfO",
+                        "name": "Giorgio Moroder",
+                        "type": "artist",
+                        "uri": "spotify:artist:6jU2Tt13MmXYk0ZBv1KmfO"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2VL7fCZeDWVJAWpIhlRoDm"
+                },
+                "href": "https://api.spotify.com/v1/albums/2VL7fCZeDWVJAWpIhlRoDm",
+                "id": "2VL7fCZeDWVJAWpIhlRoDm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273552acba326b181859e17e092",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02552acba326b181859e17e092",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851552acba326b181859e17e092",
+                        "width": 64
+                    }
+                ],
+                "name": "Philip Oakey & Giorgio Moroder",
+                "release_date": "2003-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:2VL7fCZeDWVJAWpIhlRoDm"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6ne5YmZH7oCXcZUBsY66sn"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6ne5YmZH7oCXcZUBsY66sn",
+                    "id": "6ne5YmZH7oCXcZUBsY66sn",
+                    "name": "Phil Oakey",
+                    "type": "artist",
+                    "uri": "spotify:artist:6ne5YmZH7oCXcZUBsY66sn"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6jU2Tt13MmXYk0ZBv1KmfO"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6jU2Tt13MmXYk0ZBv1KmfO",
+                    "id": "6jU2Tt13MmXYk0ZBv1KmfO",
+                    "name": "Giorgio Moroder",
+                    "type": "artist",
+                    "uri": "spotify:artist:6jU2Tt13MmXYk0ZBv1KmfO"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 232666,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAAA0300612"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0Ytxje4D5iXTHN3MOCC5jS"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0Ytxje4D5iXTHN3MOCC5jS",
+            "id": "0Ytxje4D5iXTHN3MOCC5jS",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Together In Electric Dreams - Remastered / From \"Electric Dreams\" Original Motion Picture Soundtrack",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/a8f44b4f4a9991d62761c16b2023d3e56e52bbec?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:0Ytxje4D5iXTHN3MOCC5jS"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]
