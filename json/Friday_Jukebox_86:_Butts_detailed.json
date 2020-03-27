@@ -1162,101 +1162,6 @@
         }
     },
     {
-        "added_at": "2020-03-26T11:23:33Z",
-        "added_by": {
-            "external_urls": {
-                "spotify": "https://open.spotify.com/user/louiecn"
-            },
-            "href": "https://api.spotify.com/v1/users/louiecn",
-            "id": "louiecn",
-            "type": "user",
-            "uri": "spotify:user:louiecn"
-        },
-        "is_local": false,
-        "primary_color": null,
-        "track": {
-            "album": {
-                "album_type": "album",
-                "artists": [
-                    {
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/artist/7mQJ9FnAnJ7WYF3UURBcCM"
-                        },
-                        "href": "https://api.spotify.com/v1/artists/7mQJ9FnAnJ7WYF3UURBcCM",
-                        "id": "7mQJ9FnAnJ7WYF3UURBcCM",
-                        "name": "Dr Bluegrass And The Illbilly 8",
-                        "type": "artist",
-                        "uri": "spotify:artist:7mQJ9FnAnJ7WYF3UURBcCM"
-                    }
-                ],
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/album/2eZgJjynqEn92LQBKCTMpc"
-                },
-                "href": "https://api.spotify.com/v1/albums/2eZgJjynqEn92LQBKCTMpc",
-                "id": "2eZgJjynqEn92LQBKCTMpc",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2734e7d0b533aa936c752d8a723",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e024e7d0b533aa936c752d8a723",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048514e7d0b533aa936c752d8a723",
-                        "width": 64
-                    }
-                ],
-                "name": "Something Old, Something New, Something Borrowed, Something Blue",
-                "release_date": "2011-10-21",
-                "release_date_precision": "day",
-                "total_tracks": 15,
-                "type": "album",
-                "uri": "spotify:album:2eZgJjynqEn92LQBKCTMpc"
-            },
-            "artists": [
-                {
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/artist/7mQJ9FnAnJ7WYF3UURBcCM"
-                    },
-                    "href": "https://api.spotify.com/v1/artists/7mQJ9FnAnJ7WYF3UURBcCM",
-                    "id": "7mQJ9FnAnJ7WYF3UURBcCM",
-                    "name": "Dr Bluegrass And The Illbilly 8",
-                    "type": "artist",
-                    "uri": "spotify:artist:7mQJ9FnAnJ7WYF3UURBcCM"
-                }
-            ],
-            "disc_number": 1,
-            "duration_ms": 129057,
-            "episode": false,
-            "explicit": false,
-            "external_ids": {
-                "isrc": "ushm81111362"
-            },
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/174yXQXL0pxQMA4d93uqWU"
-            },
-            "href": "https://api.spotify.com/v1/tracks/174yXQXL0pxQMA4d93uqWU",
-            "id": "174yXQXL0pxQMA4d93uqWU",
-            "is_local": false,
-            "is_playable": true,
-            "name": "Fat Bottomed Girls",
-            "popularity": 1,
-            "preview_url": "https://p.scdn.co/mp3-preview/7425b4b12b30b8ca34ceb129bed8dacaf1e09c4c?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
-            "track": true,
-            "track_number": 7,
-            "type": "track",
-            "uri": "spotify:track:174yXQXL0pxQMA4d93uqWU"
-        },
-        "video_thumbnail": {
-            "url": null
-        }
-    },
-    {
         "added_at": "2020-03-26T15:57:41Z",
         "added_by": {
             "external_urls": {
@@ -1775,6 +1680,331 @@
             "track_number": 6,
             "type": "track",
             "uri": "spotify:track:3VEFybccRTeWSZRkJxDuNR"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-03-27T14:57:04Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/5mzbxcu9x4xwocccx79wmvztm"
+            },
+            "href": "https://api.spotify.com/v1/users/5mzbxcu9x4xwocccx79wmvztm",
+            "id": "5mzbxcu9x4xwocccx79wmvztm",
+            "type": "user",
+            "uri": "spotify:user:5mzbxcu9x4xwocccx79wmvztm"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1cmQg4CJAmMgUgRZuBHoOA"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1cmQg4CJAmMgUgRZuBHoOA",
+                        "id": "1cmQg4CJAmMgUgRZuBHoOA",
+                        "name": "FASCINATING AIDA",
+                        "type": "artist",
+                        "uri": "spotify:artist:1cmQg4CJAmMgUgRZuBHoOA"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6tB8FKIwH5cCbKjXpcs9Ub"
+                },
+                "href": "https://api.spotify.com/v1/albums/6tB8FKIwH5cCbKjXpcs9Ub",
+                "id": "6tB8FKIwH5cCbKjXpcs9Ub",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a117dd66ad32699546559f07",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a117dd66ad32699546559f07",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a117dd66ad32699546559f07",
+                        "width": 64
+                    }
+                ],
+                "name": "Silver Jubilee",
+                "release_date": "2009-02-27",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:6tB8FKIwH5cCbKjXpcs9Ub"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1cmQg4CJAmMgUgRZuBHoOA"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1cmQg4CJAmMgUgRZuBHoOA",
+                    "id": "1cmQg4CJAmMgUgRZuBHoOA",
+                    "name": "FASCINATING AIDA",
+                    "type": "artist",
+                    "uri": "spotify:artist:1cmQg4CJAmMgUgRZuBHoOA"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 205906,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "GBBKB0922708"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5zVRvsQuKaOFvsZ0ZfT0dn"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5zVRvsQuKaOFvsZ0ZfT0dn",
+            "id": "5zVRvsQuKaOFvsZ0ZfT0dn",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Dogging",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/ed8a7e055d3232bae45a73c0fe0ab0e285d7f905?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:5zVRvsQuKaOFvsZ0ZfT0dn"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-03-27T15:17:48Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/louiecn"
+            },
+            "href": "https://api.spotify.com/v1/users/louiecn",
+            "id": "louiecn",
+            "type": "user",
+            "uri": "spotify:user:louiecn"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1YGC5a6fy9usLbxbGcxFvI"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1YGC5a6fy9usLbxbGcxFvI",
+                        "id": "1YGC5a6fy9usLbxbGcxFvI",
+                        "name": "The Unauthorized Bash Brothers Experience",
+                        "type": "artist",
+                        "uri": "spotify:artist:1YGC5a6fy9usLbxbGcxFvI"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1f5GqyOPo0CkotzzRwviBu",
+                        "id": "1f5GqyOPo0CkotzzRwviBu",
+                        "name": "The Lonely Island",
+                        "type": "artist",
+                        "uri": "spotify:artist:1f5GqyOPo0CkotzzRwviBu"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6wWBAQlfQ4AXClTAgsJStH"
+                },
+                "href": "https://api.spotify.com/v1/albums/6wWBAQlfQ4AXClTAgsJStH",
+                "id": "6wWBAQlfQ4AXClTAgsJStH",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273becbe7179c4561066ce4e8ca",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02becbe7179c4561066ce4e8ca",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851becbe7179c4561066ce4e8ca",
+                        "width": 64
+                    }
+                ],
+                "name": "The Unauthorized Bash Brothers Experience",
+                "release_date": "2019-05-23",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:6wWBAQlfQ4AXClTAgsJStH"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1YGC5a6fy9usLbxbGcxFvI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1YGC5a6fy9usLbxbGcxFvI",
+                    "id": "1YGC5a6fy9usLbxbGcxFvI",
+                    "name": "The Unauthorized Bash Brothers Experience",
+                    "type": "artist",
+                    "uri": "spotify:artist:1YGC5a6fy9usLbxbGcxFvI"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1f5GqyOPo0CkotzzRwviBu",
+                    "id": "1f5GqyOPo0CkotzzRwviBu",
+                    "name": "The Lonely Island",
+                    "type": "artist",
+                    "uri": "spotify:artist:1f5GqyOPo0CkotzzRwviBu"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4Ui2kfOqGujY81UcPrb5KE",
+                    "id": "4Ui2kfOqGujY81UcPrb5KE",
+                    "name": "HAIM",
+                    "type": "artist",
+                    "uri": "spotify:artist:4Ui2kfOqGujY81UcPrb5KE"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4JOTbBhV9Qp7zCkzaQww1p"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4JOTbBhV9Qp7zCkzaQww1p",
+                    "id": "4JOTbBhV9Qp7zCkzaQww1p",
+                    "name": "Maya Rudolph",
+                    "type": "artist",
+                    "uri": "spotify:artist:4JOTbBhV9Qp7zCkzaQww1p"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 153511,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "QM24S1919556"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4vnSthDxe1A0ptp1GCtNcF"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4vnSthDxe1A0ptp1GCtNcF",
+            "id": "4vnSthDxe1A0ptp1GCtNcF",
+            "is_local": false,
+            "is_playable": true,
+            "name": "IHOP Parking Lot (feat. Haim & Maya Rudolph)",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e15bca73748eacab82f27ac3e93864b2107b75f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 9,
+            "type": "track",
+            "uri": "spotify:track:4vnSthDxe1A0ptp1GCtNcF"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-03-27T15:26:06Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1128916965"
+            },
+            "href": "https://api.spotify.com/v1/users/1128916965",
+            "id": "1128916965",
+            "type": "user",
+            "uri": "spotify:user:1128916965"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2ZPXbNAQIgBkQxukGDNgsf"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2ZPXbNAQIgBkQxukGDNgsf",
+                        "id": "2ZPXbNAQIgBkQxukGDNgsf",
+                        "name": "London Theatre Orchestra & Cast",
+                        "type": "artist",
+                        "uri": "spotify:artist:2ZPXbNAQIgBkQxukGDNgsf"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0vHfRCDAzpO7gWHczG1qCT"
+                },
+                "href": "https://api.spotify.com/v1/albums/0vHfRCDAzpO7gWHczG1qCT",
+                "id": "0vHfRCDAzpO7gWHczG1qCT",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27333cfbd307d27f4848db85d73",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0233cfbd307d27f4848db85d73",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485133cfbd307d27f4848db85d73",
+                        "width": 64
+                    }
+                ],
+                "name": "The Blues Brothers",
+                "release_date": "2019-04-05",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "type": "album",
+                "uri": "spotify:album:0vHfRCDAzpO7gWHczG1qCT"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2ZPXbNAQIgBkQxukGDNgsf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2ZPXbNAQIgBkQxukGDNgsf",
+                    "id": "2ZPXbNAQIgBkQxukGDNgsf",
+                    "name": "London Theatre Orchestra & Cast",
+                    "type": "artist",
+                    "uri": "spotify:artist:2ZPXbNAQIgBkQxukGDNgsf"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 182306,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "DK5C50001793"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1Y7Avr0l4vLpBsJQWBgyIc"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1Y7Avr0l4vLpBsJQWBgyIc",
+            "id": "1Y7Avr0l4vLpBsJQWBgyIc",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Shake a Tail Feather",
+            "popularity": 40,
+            "preview_url": "https://p.scdn.co/mp3-preview/63fcb55bd1bf308e5c82f7c4461f94d9e7110b3d?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:1Y7Avr0l4vLpBsJQWBgyIc"
         },
         "video_thumbnail": {
             "url": null
