@@ -1755,5 +1755,100 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2020-05-01T14:00:54Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/felixthespider"
+            },
+            "href": "https://api.spotify.com/v1/users/felixthespider",
+            "id": "felixthespider",
+            "type": "user",
+            "uri": "spotify:user:felixthespider"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+                        "id": "7MhMgCo0Bl0Kukl93PZbYS",
+                        "name": "Blur",
+                        "type": "artist",
+                        "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
+                },
+                "href": "https://api.spotify.com/v1/albums/1bgkxe4t0HNeLn9rhrx79x",
+                "id": "1bgkxe4t0HNeLn9rhrx79x",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736eba1a0996d9e69ad20ec88b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026eba1a0996d9e69ad20ec88b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516eba1a0996d9e69ad20ec88b",
+                        "width": 64
+                    }
+                ],
+                "name": "Blur: The Best Of",
+                "release_date": "2000-10-23",
+                "release_date_precision": "day",
+                "total_tracks": 18,
+                "type": "album",
+                "uri": "spotify:album:1bgkxe4t0HNeLn9rhrx79x"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7MhMgCo0Bl0Kukl93PZbYS",
+                    "id": "7MhMgCo0Bl0Kukl93PZbYS",
+                    "name": "Blur",
+                    "type": "artist",
+                    "uri": "spotify:artist:7MhMgCo0Bl0Kukl93PZbYS"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 187040,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAYF9400012"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3mqRLlD9j92BBv1ueFhJ1l"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3mqRLlD9j92BBv1ueFhJ1l",
+            "id": "3mqRLlD9j92BBv1ueFhJ1l",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Parklife",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/752746889d024cfcb6a5c39d3c28157f20079317?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:3mqRLlD9j92BBv1ueFhJ1l"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]
