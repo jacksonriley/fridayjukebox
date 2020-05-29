@@ -1082,101 +1082,6 @@
         }
     },
     {
-        "added_at": "2020-05-29T08:06:02Z",
-        "added_by": {
-            "external_urls": {
-                "spotify": "https://open.spotify.com/user/mholmes101"
-            },
-            "href": "https://api.spotify.com/v1/users/mholmes101",
-            "id": "mholmes101",
-            "type": "user",
-            "uri": "spotify:user:mholmes101"
-        },
-        "is_local": false,
-        "primary_color": null,
-        "track": {
-            "album": {
-                "album_type": "album",
-                "artists": [
-                    {
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/artist/5qSQDLG1CdotFh8eWhm7yT"
-                        },
-                        "href": "https://api.spotify.com/v1/artists/5qSQDLG1CdotFh8eWhm7yT",
-                        "id": "5qSQDLG1CdotFh8eWhm7yT",
-                        "name": "Maylene And The Sons Of Disaster",
-                        "type": "artist",
-                        "uri": "spotify:artist:5qSQDLG1CdotFh8eWhm7yT"
-                    }
-                ],
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/album/50aZp1bmg58sULeTsdgmRS"
-                },
-                "href": "https://api.spotify.com/v1/albums/50aZp1bmg58sULeTsdgmRS",
-                "id": "50aZp1bmg58sULeTsdgmRS",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b2732801b2f2d94f38874100f51e",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e022801b2f2d94f38874100f51e",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d000048512801b2f2d94f38874100f51e",
-                        "width": 64
-                    }
-                ],
-                "name": "Maylene & the Sons of Disaster",
-                "release_date": "2005-10-25",
-                "release_date_precision": "day",
-                "total_tracks": 10,
-                "type": "album",
-                "uri": "spotify:album:50aZp1bmg58sULeTsdgmRS"
-            },
-            "artists": [
-                {
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/artist/5qSQDLG1CdotFh8eWhm7yT"
-                    },
-                    "href": "https://api.spotify.com/v1/artists/5qSQDLG1CdotFh8eWhm7yT",
-                    "id": "5qSQDLG1CdotFh8eWhm7yT",
-                    "name": "Maylene And The Sons Of Disaster",
-                    "type": "artist",
-                    "uri": "spotify:artist:5qSQDLG1CdotFh8eWhm7yT"
-                }
-            ],
-            "disc_number": 1,
-            "duration_ms": 237733,
-            "episode": false,
-            "explicit": false,
-            "external_ids": {
-                "isrc": "USGOT0538005"
-            },
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/5ArFeabhn9l8RG3Kj31f3E"
-            },
-            "href": "https://api.spotify.com/v1/tracks/5ArFeabhn9l8RG3Kj31f3E",
-            "id": "5ArFeabhn9l8RG3Kj31f3E",
-            "is_local": false,
-            "is_playable": true,
-            "name": "Gusty Like the Wind",
-            "popularity": 23,
-            "preview_url": "https://p.scdn.co/mp3-preview/6ea133c4db65d241db5b8f1e231109147132058a?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
-            "track": true,
-            "track_number": 5,
-            "type": "track",
-            "uri": "spotify:track:5ArFeabhn9l8RG3Kj31f3E"
-        },
-        "video_thumbnail": {
-            "url": null
-        }
-    },
-    {
         "added_at": "2020-05-29T11:25:18Z",
         "added_by": {
             "external_urls": {
@@ -1465,6 +1370,101 @@
             "track_number": 1,
             "type": "track",
             "uri": "spotify:track:6QMYJOW6BWuu7k2JYDcfEy"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-05-29T14:23:51Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mholmes101"
+            },
+            "href": "https://api.spotify.com/v1/users/mholmes101",
+            "id": "mholmes101",
+            "type": "user",
+            "uri": "spotify:user:mholmes101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3gRqaoRrZGEBFlauoHu1SE"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3gRqaoRrZGEBFlauoHu1SE",
+                        "id": "3gRqaoRrZGEBFlauoHu1SE",
+                        "name": "Louis Phillips",
+                        "type": "artist",
+                        "uri": "spotify:artist:3gRqaoRrZGEBFlauoHu1SE"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2BYHYgpYyYKhmDxAMzGb20"
+                },
+                "href": "https://api.spotify.com/v1/albums/2BYHYgpYyYKhmDxAMzGb20",
+                "id": "2BYHYgpYyYKhmDxAMzGb20",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d77a4134f27de7572c109324",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d77a4134f27de7572c109324",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d77a4134f27de7572c109324",
+                        "width": 64
+                    }
+                ],
+                "name": "On a Wire",
+                "release_date": "2019-03-11",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:2BYHYgpYyYKhmDxAMzGb20"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3gRqaoRrZGEBFlauoHu1SE"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3gRqaoRrZGEBFlauoHu1SE",
+                    "id": "3gRqaoRrZGEBFlauoHu1SE",
+                    "name": "Louis Phillips",
+                    "type": "artist",
+                    "uri": "spotify:artist:3gRqaoRrZGEBFlauoHu1SE"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 175045,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "CACWV1991577"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5LuOesa3EUG4nv2gFDVNea"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5LuOesa3EUG4nv2gFDVNea",
+            "id": "5LuOesa3EUG4nv2gFDVNea",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Vomit",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/d6336654f0a3352d9d6a28a750aa96e8176d85cf?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:5LuOesa3EUG4nv2gFDVNea"
         },
         "video_thumbnail": {
             "url": null
