@@ -48,9 +48,9 @@
         "Added by": "felixthespider",
         "Added at": "2020-07-01T19:15:40Z",
         "Song name": "Ladies & Gentlemen",
-        "Song link": "https://open.spotify.com/track/1m4qYkPWwJyqRRUDjyQfMl",
+        "Song link": "https://open.spotify.com/track/2NjQnBebeW4VNEZx2R0Snn",
         "Album": "Love Songs for Patriots",
-        "Album link": "https://open.spotify.com/album/4PLf03nuJxwteJg1rPqELB",
+        "Album link": "https://open.spotify.com/album/10COG3cN8YlMPfLFYQejJ5",
         "Artists": [
             "American Music Club"
         ],
@@ -77,17 +77,17 @@
     {
         "Added by": "matt.hall",
         "Added at": "2020-07-01T21:10:52Z",
-        "Song name": "Friday I'm In Love",
-        "Song link": "https://open.spotify.com/track/4QlzkaRHtU8gAdwqjWmO8n",
+        "Song name": "Friday I'm in Love",
+        "Song link": "https://open.spotify.com/track/263aNAQCeFSWipk896byo6",
         "Album": "Wish",
-        "Album link": "https://open.spotify.com/album/0aEL0zQ4XLuxQP0j7sLlS1",
+        "Album link": "https://open.spotify.com/album/3x1CmNdXWU0DzpTZXFFRZu",
         "Artists": [
             "The Cure"
         ],
         "Artist links": [
             "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         ],
-        "Duration": "3m35s"
+        "Duration": "3m34s"
     },
     {
         "Added by": "dankreso",
@@ -153,16 +153,16 @@
         "Added by": "1154712041",
         "Added at": "2020-07-03T10:53:57Z",
         "Song name": "Thank You For The Music",
-        "Song link": "https://open.spotify.com/track/08GOw3NsrJ0LsCCeyqzt3b",
+        "Song link": "https://open.spotify.com/track/1HNWHQqLxjI2LXnlIY9DTR",
         "Album": "The Album",
-        "Album link": "https://open.spotify.com/album/5fLOHW1UXr1cJrnXiU3FBt",
+        "Album link": "https://open.spotify.com/album/5GwbPSgiTECzQiE6u7s0ZN",
         "Artists": [
             "ABBA"
         ],
         "Artist links": [
             "https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV"
         ],
-        "Duration": "3m49s"
+        "Duration": "3m51s"
     },
     {
         "Added by": "mgreen89",
@@ -240,5 +240,35 @@
             "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
         ],
         "Duration": "3m41s"
+    },
+    {
+        "Added by": "slickwit",
+        "Added at": "2020-07-03T14:49:49Z",
+        "Song name": "Golden Hours - 2004 Digital Remaster",
+        "Song link": "https://open.spotify.com/track/0ikLV7zMypPFyLH57cKpRO",
+        "Album": "Another Green World",
+        "Album link": "https://open.spotify.com/album/6uoeezh45SYEb8lcT8gDTY",
+        "Artists": [
+            "Brian Eno"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        ],
+        "Duration": "4m0s"
+    },
+    {
+        "Added by": "louiecn",
+        "Added at": "2020-07-03T16:07:35Z",
+        "Song name": "Song of the Century",
+        "Song link": "https://open.spotify.com/track/7v4kWg3dzVd01tknLf853W",
+        "Album": "21st Century Breakdown",
+        "Album link": "https://open.spotify.com/album/1AHZd3C3S8m8fFrhFxyk79",
+        "Artists": [
+            "Green Day"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY"
+        ],
+        "Duration": "57s"
     }
 ]
