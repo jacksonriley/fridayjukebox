@@ -1,0 +1,1470 @@
+[
+    {
+        "added_at": "2020-07-15T16:34:54Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1154712041"
+            },
+            "href": "https://api.spotify.com/v1/users/1154712041",
+            "id": "1154712041",
+            "type": "user",
+            "uri": "spotify:user:1154712041"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5htwZrf4lCiZ6GTj9Z0CMo"
+                },
+                "href": "https://api.spotify.com/v1/albums/5htwZrf4lCiZ6GTj9Z0CMo",
+                "id": "5htwZrf4lCiZ6GTj9Z0CMo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273625fe347d8e5565382d26c62",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02625fe347d8e5565382d26c62",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851625fe347d8e5565382d26c62",
+                        "width": 64
+                    }
+                ],
+                "name": "The 2014 FIFA World Cup Official Album: One Love, One Rhythm",
+                "release_date": "2014-05-09",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:5htwZrf4lCiZ6GTj9Z0CMo"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0EmeFodog0BfCgMzAIvKQp",
+                    "id": "0EmeFodog0BfCgMzAIvKQp",
+                    "name": "Shakira",
+                    "type": "artist",
+                    "uri": "spotify:artist:0EmeFodog0BfCgMzAIvKQp"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5jvQoouPSDvUEwynz5KPpv",
+                    "id": "5jvQoouPSDvUEwynz5KPpv",
+                    "name": "Carlinhos Brown",
+                    "type": "artist",
+                    "uri": "spotify:artist:5jvQoouPSDvUEwynz5KPpv"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 197680,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USRC11400478"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2A17TySL9lcoRTA28w9yfB"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2A17TySL9lcoRTA28w9yfB",
+            "id": "2A17TySL9lcoRTA28w9yfB",
+            "is_local": false,
+            "is_playable": true,
+            "name": "La La La (Brazil 2014) (feat. Carlinhos Brown)",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/9e76937ee90908b8b3fc9cbac2dc8b702d1b3c0e?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:2A17TySL9lcoRTA28w9yfB"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-15T16:41:46Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mholmes101"
+            },
+            "href": "https://api.spotify.com/v1/users/mholmes101",
+            "id": "mholmes101",
+            "type": "user",
+            "uri": "spotify:user:mholmes101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6hCsqVHnBo1BVQWuIjRMkL",
+                        "id": "6hCsqVHnBo1BVQWuIjRMkL",
+                        "name": "Sergio Mendes & Brasil '66",
+                        "type": "artist",
+                        "uri": "spotify:artist:6hCsqVHnBo1BVQWuIjRMkL"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/7sLtxMp2mLbxHermdVqYD0"
+                },
+                "href": "https://api.spotify.com/v1/albums/7sLtxMp2mLbxHermdVqYD0",
+                "id": "7sLtxMp2mLbxHermdVqYD0",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27363b382b8786ce29eb28783c5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0263b382b8786ce29eb28783c5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485163b382b8786ce29eb28783c5",
+                        "width": 64
+                    }
+                ],
+                "name": "Foursider",
+                "release_date": "1972-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 21,
+                "type": "album",
+                "uri": "spotify:album:7sLtxMp2mLbxHermdVqYD0"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6hCsqVHnBo1BVQWuIjRMkL",
+                    "id": "6hCsqVHnBo1BVQWuIjRMkL",
+                    "name": "Sergio Mendes & Brasil '66",
+                    "type": "artist",
+                    "uri": "spotify:artist:6hCsqVHnBo1BVQWuIjRMkL"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 159466,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USAM16974747"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6YTBfxkdGce9pLEy9jG9Jo"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6YTBfxkdGce9pLEy9jG9Jo",
+            "id": "6YTBfxkdGce9pLEy9jG9Jo",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Mais Que Nada",
+            "popularity": 58,
+            "preview_url": "https://p.scdn.co/mp3-preview/8794d57228a2390cd2aa81a7c6732cb554641979?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6YTBfxkdGce9pLEy9jG9Jo"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-15T17:15:20Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/p6axv5ux9ig0fx8cm2ngl1lui"
+            },
+            "href": "https://api.spotify.com/v1/users/p6axv5ux9ig0fx8cm2ngl1lui",
+            "id": "p6axv5ux9ig0fx8cm2ngl1lui",
+            "type": "user",
+            "uri": "spotify:user:p6axv5ux9ig0fx8cm2ngl1lui"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/03xcT10aipgYbYqusG7GWY",
+                        "id": "03xcT10aipgYbYqusG7GWY",
+                        "name": "Jets To Brazil",
+                        "type": "artist",
+                        "uri": "spotify:artist:03xcT10aipgYbYqusG7GWY"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5zaVtrjodNQru22Rj4FIcD"
+                },
+                "href": "https://api.spotify.com/v1/albums/5zaVtrjodNQru22Rj4FIcD",
+                "id": "5zaVtrjodNQru22Rj4FIcD",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273bf31c747e5ab2f91422144bc",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02bf31c747e5ab2f91422144bc",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851bf31c747e5ab2f91422144bc",
+                        "width": 64
+                    }
+                ],
+                "name": "Orange Rhyming Dictionary",
+                "release_date": "1998-10-27",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:5zaVtrjodNQru22Rj4FIcD"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/03xcT10aipgYbYqusG7GWY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/03xcT10aipgYbYqusG7GWY",
+                    "id": "03xcT10aipgYbYqusG7GWY",
+                    "name": "Jets To Brazil",
+                    "type": "artist",
+                    "uri": "spotify:artist:03xcT10aipgYbYqusG7GWY"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 295466,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USA6M0403801"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0ANIURXWEceAlBhklvA2Tg"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0ANIURXWEceAlBhklvA2Tg",
+            "id": "0ANIURXWEceAlBhklvA2Tg",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Crown Of The Valley",
+            "popularity": 32,
+            "preview_url": "https://p.scdn.co/mp3-preview/d45da39d94d1c75cb2c9a93a0045d273f23e4638?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0ANIURXWEceAlBhklvA2Tg"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-15T17:43:08Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/%2Cmmpete"
+            },
+            "href": "https://api.spotify.com/v1/users/%2Cmmpete",
+            "id": ",mmpete",
+            "type": "user",
+            "uri": "spotify:user:%2Cmmpete"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8",
+                        "id": "0FMucZsEnCxs5pqBjHjIc8",
+                        "name": "Stan Getz",
+                        "type": "artist",
+                        "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3E7wIM1aHxBCGHlJXciwnP"
+                },
+                "href": "https://api.spotify.com/v1/albums/3E7wIM1aHxBCGHlJXciwnP",
+                "id": "3E7wIM1aHxBCGHlJXciwnP",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2733a9912b6e8fc6de9edc9e4f1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e023a9912b6e8fc6de9edc9e4f1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048513a9912b6e8fc6de9edc9e4f1",
+                        "width": 64
+                    }
+                ],
+                "name": "Stan Getz: The Bossa Nova Albums",
+                "release_date": "2008-05-06",
+                "release_date_precision": "day",
+                "total_tracks": 39,
+                "type": "album",
+                "uri": "spotify:album:3E7wIM1aHxBCGHlJXciwnP"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0FMucZsEnCxs5pqBjHjIc8",
+                    "id": "0FMucZsEnCxs5pqBjHjIc8",
+                    "name": "Stan Getz",
+                    "type": "artist",
+                    "uri": "spotify:artist:0FMucZsEnCxs5pqBjHjIc8"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/77ZUbcdoU5KCPHNUl8bgQy"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/77ZUbcdoU5KCPHNUl8bgQy",
+                    "id": "77ZUbcdoU5KCPHNUl8bgQy",
+                    "name": "Jo\u00e3o Gilberto",
+                    "type": "artist",
+                    "uri": "spotify:artist:77ZUbcdoU5KCPHNUl8bgQy"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5rX2c1zow6hCph8PnnU3kF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5rX2c1zow6hCph8PnnU3kF",
+                    "id": "5rX2c1zow6hCph8PnnU3kF",
+                    "name": "Astrud Gilberto",
+                    "type": "artist",
+                    "uri": "spotify:artist:5rX2c1zow6hCph8PnnU3kF"
+                }
+            ],
+            "disc_number": 4,
+            "duration_ms": 317986,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USPR36305146"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3y5yTO6xKgBEkvLh3pWMxp"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3y5yTO6xKgBEkvLh3pWMxp",
+            "id": "3y5yTO6xKgBEkvLh3pWMxp",
+            "is_local": false,
+            "is_playable": true,
+            "name": "The Girl From Ipanema",
+            "popularity": 14,
+            "preview_url": "https://p.scdn.co/mp3-preview/17f157d12e4211173b49c6446498a1703212c8b0?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:3y5yTO6xKgBEkvLh3pWMxp"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-15T20:37:33Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/dankreso"
+            },
+            "href": "https://api.spotify.com/v1/users/dankreso",
+            "id": "dankreso",
+            "type": "user",
+            "uri": "spotify:user:dankreso"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7e3FtKBIPLrIVm8g1FJMVg",
+                        "id": "7e3FtKBIPLrIVm8g1FJMVg",
+                        "name": "Sango",
+                        "type": "artist",
+                        "uri": "spotify:artist:7e3FtKBIPLrIVm8g1FJMVg"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5Olya3n1lRhRU7NxNihquQ"
+                },
+                "href": "https://api.spotify.com/v1/albums/5Olya3n1lRhRU7NxNihquQ",
+                "id": "5Olya3n1lRhRU7NxNihquQ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273d09aae8be81aadf8c5cb1684",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02d09aae8be81aadf8c5cb1684",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851d09aae8be81aadf8c5cb1684",
+                        "width": 64
+                    }
+                ],
+                "name": "De Mim, Pra Voc\u00ea",
+                "release_date": "2017-03-15",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:5Olya3n1lRhRU7NxNihquQ"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7e3FtKBIPLrIVm8g1FJMVg",
+                    "id": "7e3FtKBIPLrIVm8g1FJMVg",
+                    "name": "Sango",
+                    "type": "artist",
+                    "uri": "spotify:artist:7e3FtKBIPLrIVm8g1FJMVg"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 165517,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "TCACY1782677"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/78EmSVed0VidktyCquGnJU"
+            },
+            "href": "https://api.spotify.com/v1/tracks/78EmSVed0VidktyCquGnJU",
+            "id": "78EmSVed0VidktyCquGnJU",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Devolva",
+            "popularity": 30,
+            "preview_url": "https://p.scdn.co/mp3-preview/23a650327e95b42b2ca0541be8bc06b76b9a8228?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:78EmSVed0VidktyCquGnJU"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-15T21:38:47Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/culvero"
+            },
+            "href": "https://api.spotify.com/v1/users/culvero",
+            "id": "culvero",
+            "type": "user",
+            "uri": "spotify:user:culvero"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2CzPCLry0VHxB4JNva2du6",
+                        "id": "2CzPCLry0VHxB4JNva2du6",
+                        "name": "Bellini",
+                        "type": "artist",
+                        "uri": "spotify:artist:2CzPCLry0VHxB4JNva2du6"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5vgoRfJmuSFvJHqqdDogTJ"
+                },
+                "href": "https://api.spotify.com/v1/albums/5vgoRfJmuSFvJHqqdDogTJ",
+                "id": "5vgoRfJmuSFvJHqqdDogTJ",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273fb9d78440c431b0c2a5168dd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02fb9d78440c431b0c2a5168dd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851fb9d78440c431b0c2a5168dd",
+                        "width": 64
+                    }
+                ],
+                "name": "Samba De Janeiro (The Original & The Original Remixes)",
+                "release_date": "2014-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:5vgoRfJmuSFvJHqqdDogTJ"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2CzPCLry0VHxB4JNva2du6"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2CzPCLry0VHxB4JNva2du6",
+                    "id": "2CzPCLry0VHxB4JNva2du6",
+                    "name": "Bellini",
+                    "type": "artist",
+                    "uri": "spotify:artist:2CzPCLry0VHxB4JNva2du6"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 168447,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "DEG129700451"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2OFNudaD0TiwN4PAjLudtm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2OFNudaD0TiwN4PAjLudtm",
+            "id": "2OFNudaD0TiwN4PAjLudtm",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Samba De Janeiro - Radio Edit",
+            "popularity": 60,
+            "preview_url": "https://p.scdn.co/mp3-preview/45df67ba9b7c0d69921fcfab7e5e1d270c2a17b9?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:2OFNudaD0TiwN4PAjLudtm"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-16T08:15:34Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/matt.hall"
+            },
+            "href": "https://api.spotify.com/v1/users/matt.hall",
+            "id": "matt.hall",
+            "type": "user",
+            "uri": "spotify:user:matt.hall"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3alW3LYQS8K29z8C8NSLIX",
+                        "id": "3alW3LYQS8K29z8C8NSLIX",
+                        "name": "Barry Manilow",
+                        "type": "artist",
+                        "uri": "spotify:artist:3alW3LYQS8K29z8C8NSLIX"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3qKy1BQdCqyAfrhgtqCdqv"
+                },
+                "href": "https://api.spotify.com/v1/albums/3qKy1BQdCqyAfrhgtqCdqv",
+                "id": "3qKy1BQdCqyAfrhgtqCdqv",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27392f124abc5a9280e43f8d4a7",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0292f124abc5a9280e43f8d4a7",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485192f124abc5a9280e43f8d4a7",
+                        "width": 64
+                    }
+                ],
+                "name": "The Complete Collection...And Then Some",
+                "release_date": "1992-11-10",
+                "release_date_precision": "day",
+                "total_tracks": 70,
+                "type": "album",
+                "uri": "spotify:album:3qKy1BQdCqyAfrhgtqCdqv"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3alW3LYQS8K29z8C8NSLIX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3alW3LYQS8K29z8C8NSLIX",
+                    "id": "3alW3LYQS8K29z8C8NSLIX",
+                    "name": "Barry Manilow",
+                    "type": "artist",
+                    "uri": "spotify:artist:3alW3LYQS8K29z8C8NSLIX"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 245066,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USAR19200129"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3VgVhmZkA99quKw6O5NLNh"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3VgVhmZkA99quKw6O5NLNh",
+            "id": "3VgVhmZkA99quKw6O5NLNh",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Copacabana - Remastered",
+            "popularity": 45,
+            "preview_url": "https://p.scdn.co/mp3-preview/b1867a4a120fb845cb0db36ca0f1e68ec2a47a8d?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:3VgVhmZkA99quKw6O5NLNh"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-16T09:00:09Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/antariz"
+            },
+            "href": "https://api.spotify.com/v1/users/antariz",
+            "id": "antariz",
+            "type": "user",
+            "uri": "spotify:user:antariz"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6XLo0F2LvrGL0aycelvepi"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6XLo0F2LvrGL0aycelvepi",
+                        "id": "6XLo0F2LvrGL0aycelvepi",
+                        "name": "Trio Rio",
+                        "type": "artist",
+                        "uri": "spotify:artist:6XLo0F2LvrGL0aycelvepi"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4YCclRD777nuxl44ApWl69"
+                },
+                "href": "https://api.spotify.com/v1/albums/4YCclRD777nuxl44ApWl69",
+                "id": "4YCclRD777nuxl44ApWl69",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2737c25f3eef2e26f25fd4dcc1d",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e027c25f3eef2e26f25fd4dcc1d",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048517c25f3eef2e26f25fd4dcc1d",
+                        "width": 64
+                    }
+                ],
+                "name": "Trio Rio",
+                "release_date": "1986-05-05",
+                "release_date_precision": "day",
+                "total_tracks": 8,
+                "type": "album",
+                "uri": "spotify:album:4YCclRD777nuxl44ApWl69"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6XLo0F2LvrGL0aycelvepi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6XLo0F2LvrGL0aycelvepi",
+                    "id": "6XLo0F2LvrGL0aycelvepi",
+                    "name": "Trio Rio",
+                    "type": "artist",
+                    "uri": "spotify:artist:6XLo0F2LvrGL0aycelvepi"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 281933,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "DEHA68600002"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/68h3Um0UOY8FkMfcelv4Vb"
+            },
+            "href": "https://api.spotify.com/v1/tracks/68h3Um0UOY8FkMfcelv4Vb",
+            "id": "68h3Um0UOY8FkMfcelv4Vb",
+            "is_local": false,
+            "is_playable": true,
+            "name": "New York-Rio-Tokyo",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/5d0505d7f8527e2ad440e84b4110f796a3970ebc?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:68h3Um0UOY8FkMfcelv4Vb"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-16T09:07:56Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/louiecn"
+            },
+            "href": "https://api.spotify.com/v1/users/louiecn",
+            "id": "louiecn",
+            "type": "user",
+            "uri": "spotify:user:louiecn"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1c1GKzGiL6kytNapMScPjg"
+                },
+                "href": "https://api.spotify.com/v1/albums/1c1GKzGiL6kytNapMScPjg",
+                "id": "1c1GKzGiL6kytNapMScPjg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273e489cc092ed2e39394cbe3eb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02e489cc092ed2e39394cbe3eb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851e489cc092ed2e39394cbe3eb",
+                        "width": 64
+                    }
+                ],
+                "name": "Web Hits - Vol. 1",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 14,
+                "type": "album",
+                "uri": "spotify:album:1c1GKzGiL6kytNapMScPjg"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5xjxED7bD4isOieb7LNnEW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5xjxED7bD4isOieb7LNnEW",
+                    "id": "5xjxED7bD4isOieb7LNnEW",
+                    "name": "Gaiola das Popozudas",
+                    "type": "artist",
+                    "uri": "spotify:artist:5xjxED7bD4isOieb7LNnEW"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 258089,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "BRFUP0800002"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/21QqRjWVkcUCPXoOAnY1Oi"
+            },
+            "href": "https://api.spotify.com/v1/tracks/21QqRjWVkcUCPXoOAnY1Oi",
+            "id": "21QqRjWVkcUCPXoOAnY1Oi",
+            "is_local": false,
+            "is_playable": false,
+            "name": "Agora T\u00f4 Solteira",
+            "popularity": 37,
+            "preview_url": null,
+            "restrictions": {
+                "reason": "market"
+            },
+            "track": true,
+            "track_number": 6,
+            "type": "track",
+            "uri": "spotify:track:21QqRjWVkcUCPXoOAnY1Oi"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-16T09:27:59Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/cpmbdg2l4vpxgch0bzfex2pwb"
+            },
+            "href": "https://api.spotify.com/v1/users/cpmbdg2l4vpxgch0bzfex2pwb",
+            "id": "cpmbdg2l4vpxgch0bzfex2pwb",
+            "type": "user",
+            "uri": "spotify:user:cpmbdg2l4vpxgch0bzfex2pwb"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0FI2cbOCEkpmSBGGjl577t"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0FI2cbOCEkpmSBGGjl577t",
+                        "id": "0FI2cbOCEkpmSBGGjl577t",
+                        "name": "Dubtribe Sound System",
+                        "type": "artist",
+                        "uri": "spotify:artist:0FI2cbOCEkpmSBGGjl577t"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6TmmNKwXkBaPebDNqqoTKr"
+                },
+                "href": "https://api.spotify.com/v1/albums/6TmmNKwXkBaPebDNqqoTKr",
+                "id": "6TmmNKwXkBaPebDNqqoTKr",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731a13840b168707d53ab24d9f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021a13840b168707d53ab24d9f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511a13840b168707d53ab24d9f",
+                        "width": 64
+                    }
+                ],
+                "name": "Bryant Street",
+                "release_date": "1999-02-11",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:6TmmNKwXkBaPebDNqqoTKr"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0FI2cbOCEkpmSBGGjl577t"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0FI2cbOCEkpmSBGGjl577t",
+                    "id": "0FI2cbOCEkpmSBGGjl577t",
+                    "name": "Dubtribe Sound System",
+                    "type": "artist",
+                    "uri": "spotify:artist:0FI2cbOCEkpmSBGGjl577t"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 406066,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USJI19910540"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6BeK7hXqaIp06F1vmZeBHU"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6BeK7hXqaIp06F1vmZeBHU",
+            "id": "6BeK7hXqaIp06F1vmZeBHU",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Samba Dub",
+            "popularity": 15,
+            "preview_url": "https://p.scdn.co/mp3-preview/7d0cbe826470275bcaf1a7c26eea7e2ffdedc9df?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:6BeK7hXqaIp06F1vmZeBHU"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-16T10:05:06Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/richcooper101"
+            },
+            "href": "https://api.spotify.com/v1/users/richcooper101",
+            "id": "richcooper101",
+            "type": "user",
+            "uri": "spotify:user:richcooper101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0cwmNvclzPd8mQnoHuIksj",
+                        "id": "0cwmNvclzPd8mQnoHuIksj",
+                        "name": "Vengaboys",
+                        "type": "artist",
+                        "uri": "spotify:artist:0cwmNvclzPd8mQnoHuIksj"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/41fVKrZfbiGAlURWdeWMKA"
+                },
+                "href": "https://api.spotify.com/v1/albums/41fVKrZfbiGAlURWdeWMKA",
+                "id": "41fVKrZfbiGAlURWdeWMKA",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731b0c467a8f7d3cfdaf79f128",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021b0c467a8f7d3cfdaf79f128",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511b0c467a8f7d3cfdaf79f128",
+                        "width": 64
+                    }
+                ],
+                "name": "Parada de Tettas",
+                "release_date": "1997",
+                "release_date_precision": "year",
+                "total_tracks": 6,
+                "type": "album",
+                "uri": "spotify:album:41fVKrZfbiGAlURWdeWMKA"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0cwmNvclzPd8mQnoHuIksj"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0cwmNvclzPd8mQnoHuIksj",
+                    "id": "0cwmNvclzPd8mQnoHuIksj",
+                    "name": "Vengaboys",
+                    "type": "artist",
+                    "uri": "spotify:artist:0cwmNvclzPd8mQnoHuIksj"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 187000,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "NLC529711130"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1BvYO15u8KbJdiOxVisuSK"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1BvYO15u8KbJdiOxVisuSK",
+            "id": "1BvYO15u8KbJdiOxVisuSK",
+            "is_local": false,
+            "is_playable": true,
+            "name": "To Brazil!",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/99074c21729c53d8063aa90389dba893ee018353?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:1BvYO15u8KbJdiOxVisuSK"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-16T19:39:43Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/felixthespider"
+            },
+            "href": "https://api.spotify.com/v1/users/felixthespider",
+            "id": "felixthespider",
+            "type": "user",
+            "uri": "spotify:user:felixthespider"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6748v9yNrbb4PPJuvfoMRa",
+                        "id": "6748v9yNrbb4PPJuvfoMRa",
+                        "name": "Peter Allen",
+                        "type": "artist",
+                        "uri": "spotify:artist:6748v9yNrbb4PPJuvfoMRa"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3TGewCKkjcPNdmanYvpBzb"
+                },
+                "href": "https://api.spotify.com/v1/albums/3TGewCKkjcPNdmanYvpBzb",
+                "id": "3TGewCKkjcPNdmanYvpBzb",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734fa497ca158ff04c1fc0bad6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024fa497ca158ff04c1fc0bad6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514fa497ca158ff04c1fc0bad6",
+                        "width": 64
+                    }
+                ],
+                "name": "Taught By Experts",
+                "release_date": "1976-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:3TGewCKkjcPNdmanYvpBzb"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6748v9yNrbb4PPJuvfoMRa"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6748v9yNrbb4PPJuvfoMRa",
+                    "id": "6748v9yNrbb4PPJuvfoMRa",
+                    "name": "Peter Allen",
+                    "type": "artist",
+                    "uri": "spotify:artist:6748v9yNrbb4PPJuvfoMRa"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 202426,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USAM10110076"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/4w6yOgvvdY3tcG3tlOV4lG"
+            },
+            "href": "https://api.spotify.com/v1/tracks/4w6yOgvvdY3tcG3tlOV4lG",
+            "id": "4w6yOgvvdY3tcG3tlOV4lG",
+            "is_local": false,
+            "is_playable": true,
+            "name": "I Go To Rio",
+            "popularity": 41,
+            "preview_url": "https://p.scdn.co/mp3-preview/502cad422275cd2005eea5ba2a13b7ade80d0c5a?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:4w6yOgvvdY3tcG3tlOV4lG"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-17T07:39:18Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/jameseh66"
+            },
+            "href": "https://api.spotify.com/v1/users/jameseh66",
+            "id": "jameseh66",
+            "type": "user",
+            "uri": "spotify:user:jameseh66"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6GI52t8N5F02MxU0g5U69P",
+                        "id": "6GI52t8N5F02MxU0g5U69P",
+                        "name": "Santana",
+                        "type": "artist",
+                        "uri": "spotify:artist:6GI52t8N5F02MxU0g5U69P"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1CHUXwuge9A7L2KiA3vnR6"
+                },
+                "href": "https://api.spotify.com/v1/albums/1CHUXwuge9A7L2KiA3vnR6",
+                "id": "1CHUXwuge9A7L2KiA3vnR6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f1594eeff2ea90e0f3873919",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f1594eeff2ea90e0f3873919",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f1594eeff2ea90e0f3873919",
+                        "width": 64
+                    }
+                ],
+                "name": "Abraxas",
+                "release_date": "1970-09-23",
+                "release_date_precision": "day",
+                "total_tracks": 9,
+                "type": "album",
+                "uri": "spotify:album:1CHUXwuge9A7L2KiA3vnR6"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6GI52t8N5F02MxU0g5U69P",
+                    "id": "6GI52t8N5F02MxU0g5U69P",
+                    "name": "Santana",
+                    "type": "artist",
+                    "uri": "spotify:artist:6GI52t8N5F02MxU0g5U69P"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 284800,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM17000297"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/35fC3Wq3slX4OBfyvBVmHm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/35fC3Wq3slX4OBfyvBVmHm",
+            "id": "35fC3Wq3slX4OBfyvBVmHm",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Samba Pa Ti",
+            "popularity": 63,
+            "preview_url": "https://p.scdn.co/mp3-preview/0a3a805ade20f4dc2b30f0d19687c47d723eac85?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:35fC3Wq3slX4OBfyvBVmHm"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-17T11:10:02Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/z0nv5bd7tyl40dspxsgduk0rl"
+            },
+            "href": "https://api.spotify.com/v1/users/z0nv5bd7tyl40dspxsgduk0rl",
+            "id": "z0nv5bd7tyl40dspxsgduk0rl",
+            "type": "user",
+            "uri": "spotify:user:z0nv5bd7tyl40dspxsgduk0rl"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6ERIx2c5kFBBFj6CEI7BWd"
+                },
+                "href": "https://api.spotify.com/v1/albums/6ERIx2c5kFBBFj6CEI7BWd",
+                "id": "6ERIx2c5kFBBFj6CEI7BWd",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273802cb59258d4b155fe13799b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02802cb59258d4b155fe13799b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851802cb59258d4b155fe13799b",
+                        "width": 64
+                    }
+                ],
+                "name": "Sid Meier's Civilization VI (Original Game Soundtrack)",
+                "release_date": "2016-10-21",
+                "release_date_precision": "day",
+                "total_tracks": 38,
+                "type": "album",
+                "uri": "spotify:album:6ERIx2c5kFBBFj6CEI7BWd"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1OFCjpSAsyIOWWzIAYb3OI"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1OFCjpSAsyIOWWzIAYb3OI",
+                    "id": "1OFCjpSAsyIOWWzIAYb3OI",
+                    "name": "Geoff Knorr",
+                    "type": "artist",
+                    "uri": "spotify:artist:1OFCjpSAsyIOWWzIAYb3OI"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1JB1qUF4dpRTDHmCmgppca"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1JB1qUF4dpRTDHmCmgppca",
+                    "id": "1JB1qUF4dpRTDHmCmgppca",
+                    "name": "Phill Boucher",
+                    "type": "artist",
+                    "uri": "spotify:artist:1JB1qUF4dpRTDHmCmgppca"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 213773,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "TCACS1661938"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/062V8zubttU7DFHkfpOFJb"
+            },
+            "href": "https://api.spotify.com/v1/tracks/062V8zubttU7DFHkfpOFJb",
+            "id": "062V8zubttU7DFHkfpOFJb",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Brazil (The Atomic Era)",
+            "popularity": 28,
+            "preview_url": "https://p.scdn.co/mp3-preview/4e7fbf19745c92777799f19d9360cdad4a108926?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 19,
+            "type": "track",
+            "uri": "spotify:track:062V8zubttU7DFHkfpOFJb"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-17T11:53:19Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/5mzbxcu9x4xwocccx79wmvztm"
+            },
+            "href": "https://api.spotify.com/v1/users/5mzbxcu9x4xwocccx79wmvztm",
+            "id": "5mzbxcu9x4xwocccx79wmvztm",
+            "type": "user",
+            "uri": "spotify:user:5mzbxcu9x4xwocccx79wmvztm"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/47ha1k2YiMD72cakBLr1WG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/47ha1k2YiMD72cakBLr1WG",
+                        "id": "47ha1k2YiMD72cakBLr1WG",
+                        "name": "Eva Moon & the Lunatics",
+                        "type": "artist",
+                        "uri": "spotify:artist:47ha1k2YiMD72cakBLr1WG"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/2tphZUfj8ukhaFmfLDCukt"
+                },
+                "href": "https://api.spotify.com/v1/albums/2tphZUfj8ukhaFmfLDCukt",
+                "id": "2tphZUfj8ukhaFmfLDCukt",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ba8db7717fd2d0be8eb57558",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ba8db7717fd2d0be8eb57558",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ba8db7717fd2d0be8eb57558",
+                        "width": 64
+                    }
+                ],
+                "name": "Moon Falling Down",
+                "release_date": "2009-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:2tphZUfj8ukhaFmfLDCukt"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/47ha1k2YiMD72cakBLr1WG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/47ha1k2YiMD72cakBLr1WG",
+                    "id": "47ha1k2YiMD72cakBLr1WG",
+                    "name": "Eva Moon & the Lunatics",
+                    "type": "artist",
+                    "uri": "spotify:artist:47ha1k2YiMD72cakBLr1WG"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 268786,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "ushm80905319"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1OGlar8sk7xXdhpdc8moV6"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1OGlar8sk7xXdhpdc8moV6",
+            "id": "1OGlar8sk7xXdhpdc8moV6",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Brazilian Wax",
+            "popularity": 0,
+            "preview_url": "https://p.scdn.co/mp3-preview/414a834515c2aea7ecfd3ce78de22daf27e25652?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:1OGlar8sk7xXdhpdc8moV6"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    }
+]
