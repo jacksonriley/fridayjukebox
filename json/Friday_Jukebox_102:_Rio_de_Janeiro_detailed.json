@@ -1466,5 +1466,195 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2020-07-17T15:21:12Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/r5ur0jkgzcqsowhrnjs0yr8xu"
+            },
+            "href": "https://api.spotify.com/v1/users/r5ur0jkgzcqsowhrnjs0yr8xu",
+            "id": "r5ur0jkgzcqsowhrnjs0yr8xu",
+            "type": "user",
+            "uri": "spotify:user:r5ur0jkgzcqsowhrnjs0yr8xu"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+                        "id": "0lZoBs4Pzo7R89JM9lxwoT",
+                        "name": "Duran Duran",
+                        "type": "artist",
+                        "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm"
+                },
+                "href": "https://api.spotify.com/v1/albums/02tfQwJSOLP77oCd9U8bqm",
+                "id": "02tfQwJSOLP77oCd9U8bqm",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2739977eb01e4e40c8357435ef9",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e029977eb01e4e40c8357435ef9",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048519977eb01e4e40c8357435ef9",
+                        "width": 64
+                    }
+                ],
+                "name": "Rio (Collector's Edition)",
+                "release_date": "1982-05-10",
+                "release_date_precision": "day",
+                "total_tracks": 29,
+                "type": "album",
+                "uri": "spotify:album:02tfQwJSOLP77oCd9U8bqm"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0lZoBs4Pzo7R89JM9lxwoT",
+                    "id": "0lZoBs4Pzo7R89JM9lxwoT",
+                    "name": "Duran Duran",
+                    "type": "artist",
+                    "uri": "spotify:artist:0lZoBs4Pzo7R89JM9lxwoT"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 337333,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAYE0901087"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb"
+            },
+            "href": "https://api.spotify.com/v1/tracks/43eBgYRTmu5BJnCJDBU5Hb",
+            "id": "43eBgYRTmu5BJnCJDBU5Hb",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Rio - 2009 Remaster",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/911346ddb91da91b73b26592c64aff6c3621996f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:43eBgYRTmu5BJnCJDBU5Hb"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-07-17T15:21:17Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/slickwit"
+            },
+            "href": "https://api.spotify.com/v1/users/slickwit",
+            "id": "slickwit",
+            "type": "user",
+            "uri": "spotify:user:slickwit"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3pO5VjZ4wOHCMBXOvbMISG",
+                        "id": "3pO5VjZ4wOHCMBXOvbMISG",
+                        "name": "Ant\u00f4nio Carlos Jobim",
+                        "type": "artist",
+                        "uri": "spotify:artist:3pO5VjZ4wOHCMBXOvbMISG"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4mzp7IQ7LAh9TAuKrwc9PE"
+                },
+                "href": "https://api.spotify.com/v1/albums/4mzp7IQ7LAh9TAuKrwc9PE",
+                "id": "4mzp7IQ7LAh9TAuKrwc9PE",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273299708ba9141fc2afbc71682",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02299708ba9141fc2afbc71682",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851299708ba9141fc2afbc71682",
+                        "width": 64
+                    }
+                ],
+                "name": "The Composer Of \" Desafinado\", Plays",
+                "release_date": "1963-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:4mzp7IQ7LAh9TAuKrwc9PE"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3pO5VjZ4wOHCMBXOvbMISG",
+                    "id": "3pO5VjZ4wOHCMBXOvbMISG",
+                    "name": "Ant\u00f4nio Carlos Jobim",
+                    "type": "artist",
+                    "uri": "spotify:artist:3pO5VjZ4wOHCMBXOvbMISG"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 145960,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USPR36301938"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5lIHXOftJDoJMOsi9IV5Nu"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5lIHXOftJDoJMOsi9IV5Nu",
+            "id": "5lIHXOftJDoJMOsi9IV5Nu",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Corcovado",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/82d9e1f95475efdbb12d6741a1c47446348eb05f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:5lIHXOftJDoJMOsi9IV5Nu"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]

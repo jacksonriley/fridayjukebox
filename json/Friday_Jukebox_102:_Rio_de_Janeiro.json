@@ -231,5 +231,35 @@
             "https://open.spotify.com/artist/47ha1k2YiMD72cakBLr1WG"
         ],
         "Duration": "4m28s"
+    },
+    {
+        "Added by": "MemeBot",
+        "Added at": "2020-07-17T15:21:12Z",
+        "Song name": "Rio - 2009 Remaster",
+        "Song link": "https://open.spotify.com/track/43eBgYRTmu5BJnCJDBU5Hb",
+        "Album": "Rio (Collector's Edition)",
+        "Album link": "https://open.spotify.com/album/02tfQwJSOLP77oCd9U8bqm",
+        "Artists": [
+            "Duran Duran"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/0lZoBs4Pzo7R89JM9lxwoT"
+        ],
+        "Duration": "5m37s"
+    },
+    {
+        "Added by": "slickwit",
+        "Added at": "2020-07-17T15:21:17Z",
+        "Song name": "Corcovado",
+        "Song link": "https://open.spotify.com/track/5lIHXOftJDoJMOsi9IV5Nu",
+        "Album": "The Composer Of \" Desafinado\", Plays",
+        "Album link": "https://open.spotify.com/album/4mzp7IQ7LAh9TAuKrwc9PE",
+        "Artists": [
+            "Ant\u00f4nio Carlos Jobim"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG"
+        ],
+        "Duration": "2m25s"
     }
 ]
