@@ -1,0 +1,14 @@
+| Song | Artist | Album | Added by |
+|-|-|-|-|
+| [You'll Never Walk Alone](https://open.spotify.com/track/6fSNK6QlZskYmKTvJnNH5P) | [Gerry & The Pacemakers](https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8) | [The Very Best Of Gerry & Pacemakers](https://open.spotify.com/album/3OCG92zQDHdHMBRSoRR6jH) | richcooper101 |
+| [Whole Again](https://open.spotify.com/track/16MJqq0vEuW6GRX6faetTm) | [Atomic Kitten](https://open.spotify.com/artist/6JMHws5haIO6V35YNYDnDw) | [Right Now](https://open.spotify.com/album/4C2pT6x3mXXgeV3FdyL3DW) | Mark Holmes |
+| [The Killing Moon](https://open.spotify.com/track/0cOf4csnt4DeXSkFmBjULw) | [Echo & the Bunnymen](https://open.spotify.com/artist/0fgYKF9Avljex0L9Wt5b8Z) | [Ocean Rain](https://open.spotify.com/album/43jEYhOEU6eWL51lk4l3M7) | louiecn |
+| [Caught Out There](https://open.spotify.com/track/1bFM0htU8zujeQmwMvCq02) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Kaleidoscope](https://open.spotify.com/album/76o841qWVCuHhgFHfmi6bw) | dankreso |
+| [Mersey Paradise - Remastered](https://open.spotify.com/track/3bnOXBkSxfSSCioTw1LcVc) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses (20th Anniversary Collector's Edition)](https://open.spotify.com/album/2hPgN0wHJ3efQg3DwaLIvW) | bncy |
+| [In Liverpool](https://open.spotify.com/track/6HHspSEn21kZStPP4BN1xB) | [Suzanne Vega](https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw) | [99.9 F](https://open.spotify.com/album/03EEf4WnO2irH5NQvuY4Ul) | culvero |
+| [Birmingham](https://open.spotify.com/track/3lwcrfL6LfZ1p9ZU8KRx4n) | [Shovels & Rope](https://open.spotify.com/artist/1M3BVQ36cqPQix8lQNCh4K) | [O' Be Joyful](https://open.spotify.com/album/6YEijTlqiq6aidUCEGHysk) | slickwit |
+| [Dreaming of You](https://open.spotify.com/track/6ebxt3Iylxe0GcEuUGlIvb) | [The Coral](https://open.spotify.com/artist/6OiHleP2bHM18dXq4aZQWt) | [The Coral](https://open.spotify.com/album/6Fhnezpt7TKojq1ufkZ5qA) | mgreen89 |
+| [Liverpool Lullaby](https://open.spotify.com/track/0n8DL1XzddoXtRp14cNZax) | [Smoke & Dust](https://open.spotify.com/artist/1g0TGms4CI35xYqJO2gLA5) | [The Three City Four](https://open.spotify.com/album/1NKhghgmWmpUaSyer5CZJ3) | Patrick |
+| [Shit Towne](https://open.spotify.com/track/5Tkrz3KSoAOGN4Y97TUqZU) | [Live](https://open.spotify.com/artist/6eoJpTIlcuxJNjV5fDzDJH) | [Throwing Copper](https://open.spotify.com/album/4ZsG3ifn9sIcrFT1ecw0gF) | Julian Priestley |
+| [We Are The Champions - Remastered 2011](https://open.spotify.com/track/7ccI9cStQbQdystvc6TvxD) | [Queen](https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d) | [News Of The World (Deluxe Remastered Version)](https://open.spotify.com/album/6Di4m5k1BtMJ0R44bWNutu) | Paul Stanley |
+| [Pool Liver](https://open.spotify.com/track/3xkchvNnh5d2d0gcTt51gj) | [Starer](https://open.spotify.com/artist/1TygjTk6D0tJgIxp0BLGZO) | [2001, Pt. 4](https://open.spotify.com/album/6ScPhX4I5i2isJPxQswVDA) | antariz |
