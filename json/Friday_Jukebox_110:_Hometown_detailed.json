@@ -1851,5 +1851,204 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2020-09-11T14:03:40Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/5mzbxcu9x4xwocccx79wmvztm"
+            },
+            "href": "https://api.spotify.com/v1/users/5mzbxcu9x4xwocccx79wmvztm",
+            "id": "5mzbxcu9x4xwocccx79wmvztm",
+            "type": "user",
+            "uri": "spotify:user:5mzbxcu9x4xwocccx79wmvztm"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+                        "id": "0k17h0D3J5VfsdmQ1iZtE9",
+                        "name": "Pink Floyd",
+                        "type": "artist",
+                        "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1yMenUMOx7BpfTDuVQs99y"
+                },
+                "href": "https://api.spotify.com/v1/albums/1yMenUMOx7BpfTDuVQs99y",
+                "id": "1yMenUMOx7BpfTDuVQs99y",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736e626b13b01e59969e10c761",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026e626b13b01e59969e10c761",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516e626b13b01e59969e10c761",
+                        "width": 64
+                    }
+                ],
+                "name": "The Final Cut",
+                "release_date": "1983-03-21",
+                "release_date_precision": "day",
+                "total_tracks": 13,
+                "type": "album",
+                "uri": "spotify:album:1yMenUMOx7BpfTDuVQs99y"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0k17h0D3J5VfsdmQ1iZtE9",
+                    "id": "0k17h0D3J5VfsdmQ1iZtE9",
+                    "name": "Pink Floyd",
+                    "type": "artist",
+                    "uri": "spotify:artist:0k17h0D3J5VfsdmQ1iZtE9"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 133465,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBN9Y1100130"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1e6P6S42qX7vFT0u14S5jm"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1e6P6S42qX7vFT0u14S5jm",
+            "id": "1e6P6S42qX7vFT0u14S5jm",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1UFmLfC3GtC4qSQAEj4cJF"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1UFmLfC3GtC4qSQAEj4cJF",
+                "id": "1UFmLfC3GtC4qSQAEj4cJF",
+                "type": "track",
+                "uri": "spotify:track:1UFmLfC3GtC4qSQAEj4cJF"
+            },
+            "name": "Southampton Dock",
+            "popularity": 42,
+            "preview_url": "https://p.scdn.co/mp3-preview/67a2d06eb9da439d4cdeb71e5e2b90f6c6d5ad42?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:1e6P6S42qX7vFT0u14S5jm"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-09-11T14:40:05Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/cpmbdg2l4vpxgch0bzfex2pwb"
+            },
+            "href": "https://api.spotify.com/v1/users/cpmbdg2l4vpxgch0bzfex2pwb",
+            "id": "cpmbdg2l4vpxgch0bzfex2pwb",
+            "type": "user",
+            "uri": "spotify:user:cpmbdg2l4vpxgch0bzfex2pwb"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/63gizE0cqalXVpwZdZHY47",
+                        "id": "63gizE0cqalXVpwZdZHY47",
+                        "name": "Dougie MacLean",
+                        "type": "artist",
+                        "uri": "spotify:artist:63gizE0cqalXVpwZdZHY47"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5526cc5QEwnSkNzcG7R5RA"
+                },
+                "href": "https://api.spotify.com/v1/albums/5526cc5QEwnSkNzcG7R5RA",
+                "id": "5526cc5QEwnSkNzcG7R5RA",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273f33c6affa47accb93fe277d6",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02f33c6affa47accb93fe277d6",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851f33c6affa47accb93fe277d6",
+                        "width": 64
+                    }
+                ],
+                "name": "Cragie Dhu",
+                "release_date": "1983-06-01",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:5526cc5QEwnSkNzcG7R5RA"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/63gizE0cqalXVpwZdZHY47"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/63gizE0cqalXVpwZdZHY47",
+                    "id": "63gizE0cqalXVpwZdZHY47",
+                    "name": "Dougie MacLean",
+                    "type": "artist",
+                    "uri": "spotify:artist:63gizE0cqalXVpwZdZHY47"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 299746,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBADQ8300110"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7jEVW8o2CIfdgziEJXnii8"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7jEVW8o2CIfdgziEJXnii8",
+            "id": "7jEVW8o2CIfdgziEJXnii8",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Caledonia",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/64694e1f65ff766a08854699c368a8d4f19f78dc?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 10,
+            "type": "track",
+            "uri": "spotify:track:7jEVW8o2CIfdgziEJXnii8"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]
