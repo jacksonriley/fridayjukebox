@@ -30,21 +30,6 @@
         "Duration": "3m49s"
     },
     {
-        "Added by": "Paul Stanley",
-        "Added at": "2020-11-12T01:00:46Z",
-        "Song name": "Rabbit Hole",
-        "Song link": "https://open.spotify.com/track/55gz8MakFlHbhOAne0Aeai",
-        "Album": "Rabbit Hole",
-        "Album link": "https://open.spotify.com/album/4dXr0FZ6F92JKXwAzxLQps",
-        "Artists": [
-            "AViVA"
-        ],
-        "Artist links": [
-            "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-        ],
-        "Duration": "3m48s"
-    },
-    {
         "Added by": ",mmpete",
         "Added at": "2020-11-12T10:16:07Z",
         "Song name": "Doctor Jazz",
@@ -267,5 +252,20 @@
             "https://open.spotify.com/artist/5yG7ZAZafVaAlMTeBybKAL"
         ],
         "Duration": "3m6s"
+    },
+    {
+        "Added by": "Emily S",
+        "Added at": "2020-11-13T17:29:16Z",
+        "Song name": "Rabbit Hole",
+        "Song link": "https://open.spotify.com/track/55gz8MakFlHbhOAne0Aeai",
+        "Album": "Rabbit Hole",
+        "Album link": "https://open.spotify.com/album/4dXr0FZ6F92JKXwAzxLQps",
+        "Artists": [
+            "AViVA"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+        ],
+        "Duration": "3m48s"
     }
 ]

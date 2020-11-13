@@ -190,101 +190,6 @@
         }
     },
     {
-        "added_at": "2020-11-12T01:00:46Z",
-        "added_by": {
-            "external_urls": {
-                "spotify": "https://open.spotify.com/user/stan3k"
-            },
-            "href": "https://api.spotify.com/v1/users/stan3k",
-            "id": "stan3k",
-            "type": "user",
-            "uri": "spotify:user:stan3k"
-        },
-        "is_local": false,
-        "primary_color": null,
-        "track": {
-            "album": {
-                "album_type": "single",
-                "artists": [
-                    {
-                        "external_urls": {
-                            "spotify": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-                        },
-                        "href": "https://api.spotify.com/v1/artists/50tDsT4wwq8FCMJNkn1D67",
-                        "id": "50tDsT4wwq8FCMJNkn1D67",
-                        "name": "AViVA",
-                        "type": "artist",
-                        "uri": "spotify:artist:50tDsT4wwq8FCMJNkn1D67"
-                    }
-                ],
-                "external_urls": {
-                    "spotify": "https://open.spotify.com/album/4dXr0FZ6F92JKXwAzxLQps"
-                },
-                "href": "https://api.spotify.com/v1/albums/4dXr0FZ6F92JKXwAzxLQps",
-                "id": "4dXr0FZ6F92JKXwAzxLQps",
-                "images": [
-                    {
-                        "height": 640,
-                        "url": "https://i.scdn.co/image/ab67616d0000b27330a2b439336dbdf86d10d622",
-                        "width": 640
-                    },
-                    {
-                        "height": 300,
-                        "url": "https://i.scdn.co/image/ab67616d00001e0230a2b439336dbdf86d10d622",
-                        "width": 300
-                    },
-                    {
-                        "height": 64,
-                        "url": "https://i.scdn.co/image/ab67616d0000485130a2b439336dbdf86d10d622",
-                        "width": 64
-                    }
-                ],
-                "name": "Rabbit Hole",
-                "release_date": "2019-03-28",
-                "release_date_precision": "day",
-                "total_tracks": 1,
-                "type": "album",
-                "uri": "spotify:album:4dXr0FZ6F92JKXwAzxLQps"
-            },
-            "artists": [
-                {
-                    "external_urls": {
-                        "spotify": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
-                    },
-                    "href": "https://api.spotify.com/v1/artists/50tDsT4wwq8FCMJNkn1D67",
-                    "id": "50tDsT4wwq8FCMJNkn1D67",
-                    "name": "AViVA",
-                    "type": "artist",
-                    "uri": "spotify:artist:50tDsT4wwq8FCMJNkn1D67"
-                }
-            ],
-            "disc_number": 1,
-            "duration_ms": 228559,
-            "episode": false,
-            "explicit": false,
-            "external_ids": {
-                "isrc": "QMEZE1914986"
-            },
-            "external_urls": {
-                "spotify": "https://open.spotify.com/track/55gz8MakFlHbhOAne0Aeai"
-            },
-            "href": "https://api.spotify.com/v1/tracks/55gz8MakFlHbhOAne0Aeai",
-            "id": "55gz8MakFlHbhOAne0Aeai",
-            "is_local": false,
-            "is_playable": true,
-            "name": "Rabbit Hole",
-            "popularity": 57,
-            "preview_url": "https://p.scdn.co/mp3-preview/ef8232d18aed0348014adf33903eac757b25ce21?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
-            "track": true,
-            "track_number": 1,
-            "type": "track",
-            "uri": "spotify:track:55gz8MakFlHbhOAne0Aeai"
-        },
-        "video_thumbnail": {
-            "url": null
-        }
-    },
-    {
         "added_at": "2020-11-12T10:16:07Z",
         "added_by": {
             "external_urls": {
@@ -1700,6 +1605,101 @@
             "track_number": 5,
             "type": "track",
             "uri": "spotify:track:4NOFSrIM6LhBl2MyKvFVtp"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2020-11-13T17:29:16Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1154712041"
+            },
+            "href": "https://api.spotify.com/v1/users/1154712041",
+            "id": "1154712041",
+            "type": "user",
+            "uri": "spotify:user:1154712041"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/50tDsT4wwq8FCMJNkn1D67",
+                        "id": "50tDsT4wwq8FCMJNkn1D67",
+                        "name": "AViVA",
+                        "type": "artist",
+                        "uri": "spotify:artist:50tDsT4wwq8FCMJNkn1D67"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4dXr0FZ6F92JKXwAzxLQps"
+                },
+                "href": "https://api.spotify.com/v1/albums/4dXr0FZ6F92JKXwAzxLQps",
+                "id": "4dXr0FZ6F92JKXwAzxLQps",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27330a2b439336dbdf86d10d622",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0230a2b439336dbdf86d10d622",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485130a2b439336dbdf86d10d622",
+                        "width": 64
+                    }
+                ],
+                "name": "Rabbit Hole",
+                "release_date": "2019-03-28",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:4dXr0FZ6F92JKXwAzxLQps"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/50tDsT4wwq8FCMJNkn1D67",
+                    "id": "50tDsT4wwq8FCMJNkn1D67",
+                    "name": "AViVA",
+                    "type": "artist",
+                    "uri": "spotify:artist:50tDsT4wwq8FCMJNkn1D67"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 228559,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "QMEZE1914986"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/55gz8MakFlHbhOAne0Aeai"
+            },
+            "href": "https://api.spotify.com/v1/tracks/55gz8MakFlHbhOAne0Aeai",
+            "id": "55gz8MakFlHbhOAne0Aeai",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Rabbit Hole",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/ef8232d18aed0348014adf33903eac757b25ce21?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:55gz8MakFlHbhOAne0Aeai"
         },
         "video_thumbnail": {
             "url": null
