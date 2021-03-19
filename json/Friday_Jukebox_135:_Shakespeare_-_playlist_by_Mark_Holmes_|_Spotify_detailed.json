@@ -1360,5 +1360,109 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2021-03-19T15:02:08Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/richcooper101"
+            },
+            "href": "https://api.spotify.com/v1/users/richcooper101",
+            "id": "richcooper101",
+            "type": "user",
+            "uri": "spotify:user:richcooper101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/3ao3jf5d70Tf4fPh2bnXVl",
+                        "id": "3ao3jf5d70Tf4fPh2bnXVl",
+                        "name": "We The Kings",
+                        "type": "artist",
+                        "uri": "spotify:artist:3ao3jf5d70Tf4fPh2bnXVl"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5kykHij9W4lQ4fFEfIo7BB"
+                },
+                "href": "https://api.spotify.com/v1/albums/5kykHij9W4lQ4fFEfIo7BB",
+                "id": "5kykHij9W4lQ4fFEfIo7BB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273ce85d297fc24805972bd8df1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02ce85d297fc24805972bd8df1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851ce85d297fc24805972bd8df1",
+                        "width": 64
+                    }
+                ],
+                "name": "We The Kings",
+                "release_date": "2007-10-07",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:5kykHij9W4lQ4fFEfIo7BB"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3ao3jf5d70Tf4fPh2bnXVl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3ao3jf5d70Tf4fPh2bnXVl",
+                    "id": "3ao3jf5d70Tf4fPh2bnXVl",
+                    "name": "We The Kings",
+                    "type": "artist",
+                    "uri": "spotify:artist:3ao3jf5d70Tf4fPh2bnXVl"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 220146,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USKFE0700003"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0wVluBsVAVzBKrqspuCcwR"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0wVluBsVAVzBKrqspuCcwR",
+            "id": "0wVluBsVAVzBKrqspuCcwR",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7"
+                },
+                "href": "https://api.spotify.com/v1/tracks/1b7vg5T9YKR3NNqXfBYRF7",
+                "id": "1b7vg5T9YKR3NNqXfBYRF7",
+                "type": "track",
+                "uri": "spotify:track:1b7vg5T9YKR3NNqXfBYRF7"
+            },
+            "name": "Check Yes, Juliet",
+            "popularity": 73,
+            "preview_url": "https://p.scdn.co/mp3-preview/068cad9417f07f6c3b00c0c0a8993e737dca4ad5?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:0wVluBsVAVzBKrqspuCcwR"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]
