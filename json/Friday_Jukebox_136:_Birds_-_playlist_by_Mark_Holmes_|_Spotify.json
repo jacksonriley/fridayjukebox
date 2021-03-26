@@ -227,5 +227,35 @@
             "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         ],
         "Duration": "3m32s"
+    },
+    {
+        "Added by": "mgreen89",
+        "Added at": "2021-03-26T15:08:56Z",
+        "Song name": "Surfin' Bird",
+        "Song link": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb",
+        "Album": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+        "Album link": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF",
+        "Artists": [
+            "The Trashmen"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+        ],
+        "Duration": "2m17s"
+    },
+    {
+        "Added by": "Benjamin Edwards",
+        "Added at": "2021-03-26T15:13:56Z",
+        "Song name": "Seagulls! (Stop It Now)",
+        "Song link": "https://open.spotify.com/track/471sXvN5C5vfMSBdKrGpo7",
+        "Album": "Seagulls! (Stop It Now)",
+        "Album link": "https://open.spotify.com/album/0MUR319gNNXRu6GiPcopS3",
+        "Artists": [
+            "Bad Lip Reading"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/2WImpqiHxgOKw0sXNOGtWl"
+        ],
+        "Duration": "3m12s"
     }
 ]

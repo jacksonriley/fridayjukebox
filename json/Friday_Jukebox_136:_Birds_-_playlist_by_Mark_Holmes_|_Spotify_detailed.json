@@ -1467,5 +1467,195 @@
         "video_thumbnail": {
             "url": null
         }
+    },
+    {
+        "added_at": "2021-03-26T15:08:56Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mgreen89"
+            },
+            "href": "https://api.spotify.com/v1/users/mgreen89",
+            "id": "mgreen89",
+            "type": "user",
+            "uri": "spotify:user:mgreen89"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3tpJtzZm4Urb0n2ITN5mwF"
+                },
+                "href": "https://api.spotify.com/v1/albums/3tpJtzZm4Urb0n2ITN5mwF",
+                "id": "3tpJtzZm4Urb0n2ITN5mwF",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273806bd6155f9a3be9a8e8c6b1",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02806bd6155f9a3be9a8e8c6b1",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851806bd6155f9a3be9a8e8c6b1",
+                        "width": 64
+                    }
+                ],
+                "name": "Full Metal Jacket (Original Motion Picture Soundtrack)",
+                "release_date": "1987-08-04",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:3tpJtzZm4Urb0n2ITN5mwF"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5QEA3sofVt5QckQA6QX2nN"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5QEA3sofVt5QckQA6QX2nN",
+                    "id": "5QEA3sofVt5QckQA6QX2nN",
+                    "name": "The Trashmen",
+                    "type": "artist",
+                    "uri": "spotify:artist:5QEA3sofVt5QckQA6QX2nN"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 137133,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USWB10102873"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7EjyzZcbLxW7PaaLua9Ksb"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7EjyzZcbLxW7PaaLua9Ksb",
+            "id": "7EjyzZcbLxW7PaaLua9Ksb",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Surfin' Bird",
+            "popularity": 51,
+            "preview_url": "https://p.scdn.co/mp3-preview/4a67d2ba28ecb17a16d470b4277d96b5e6eb77b7?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:7EjyzZcbLxW7PaaLua9Ksb"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-03-26T15:13:56Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/11167586686"
+            },
+            "href": "https://api.spotify.com/v1/users/11167586686",
+            "id": "11167586686",
+            "type": "user",
+            "uri": "spotify:user:11167586686"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2WImpqiHxgOKw0sXNOGtWl"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2WImpqiHxgOKw0sXNOGtWl",
+                        "id": "2WImpqiHxgOKw0sXNOGtWl",
+                        "name": "Bad Lip Reading",
+                        "type": "artist",
+                        "uri": "spotify:artist:2WImpqiHxgOKw0sXNOGtWl"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0MUR319gNNXRu6GiPcopS3"
+                },
+                "href": "https://api.spotify.com/v1/albums/0MUR319gNNXRu6GiPcopS3",
+                "id": "0MUR319gNNXRu6GiPcopS3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c6c62cd4b86cffc0bff11fa5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c6c62cd4b86cffc0bff11fa5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c6c62cd4b86cffc0bff11fa5",
+                        "width": 64
+                    }
+                ],
+                "name": "Seagulls! (Stop It Now)",
+                "release_date": "2016-11-20",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:0MUR319gNNXRu6GiPcopS3"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2WImpqiHxgOKw0sXNOGtWl"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2WImpqiHxgOKw0sXNOGtWl",
+                    "id": "2WImpqiHxgOKw0sXNOGtWl",
+                    "name": "Bad Lip Reading",
+                    "type": "artist",
+                    "uri": "spotify:artist:2WImpqiHxgOKw0sXNOGtWl"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 192484,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "TCACT1690570"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/471sXvN5C5vfMSBdKrGpo7"
+            },
+            "href": "https://api.spotify.com/v1/tracks/471sXvN5C5vfMSBdKrGpo7",
+            "id": "471sXvN5C5vfMSBdKrGpo7",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Seagulls! (Stop It Now)",
+            "popularity": 59,
+            "preview_url": "https://p.scdn.co/mp3-preview/ab3df8c84c5529e18f305e6e2f713f0e72d0b5e6?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:471sXvN5C5vfMSBdKrGpo7"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
     }
 ]
