@@ -1,0 +1,781 @@
+[
+    {
+        "added_at": "2021-07-28T10:32:26Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mholmes101"
+            },
+            "href": "https://api.spotify.com/v1/users/mholmes101",
+            "id": "mholmes101",
+            "type": "user",
+            "uri": "spotify:user:mholmes101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+                        "id": "7guDJrEfX3qb6FEbdPA5qi",
+                        "name": "Stevie Wonder",
+                        "type": "artist",
+                        "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/54ootLtDyMZFr9obtWQvvO"
+                },
+                "href": "https://api.spotify.com/v1/albums/54ootLtDyMZFr9obtWQvvO",
+                "id": "54ootLtDyMZFr9obtWQvvO",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c5e9e847ca9c0982b4c91d4b",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c5e9e847ca9c0982b4c91d4b",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c5e9e847ca9c0982b4c91d4b",
+                        "width": 64
+                    }
+                ],
+                "name": "Signed, Sealed And Delivered",
+                "release_date": "1970-08-07",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:54ootLtDyMZFr9obtWQvvO"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/7guDJrEfX3qb6FEbdPA5qi",
+                    "id": "7guDJrEfX3qb6FEbdPA5qi",
+                    "name": "Stevie Wonder",
+                    "type": "artist",
+                    "uri": "spotify:artist:7guDJrEfX3qb6FEbdPA5qi"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 199506,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USMO17000475"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/41q8ZiB3LZl4HRmmzUTIo4"
+            },
+            "href": "https://api.spotify.com/v1/tracks/41q8ZiB3LZl4HRmmzUTIo4",
+            "id": "41q8ZiB3LZl4HRmmzUTIo4",
+            "is_local": false,
+            "is_playable": true,
+            "name": "We Can Work It Out",
+            "popularity": 61,
+            "preview_url": "https://p.scdn.co/mp3-preview/b26272481073ea0219aebb38ff175afcc67c173f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:41q8ZiB3LZl4HRmmzUTIo4"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-07-28T10:34:26Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/culvero"
+            },
+            "href": "https://api.spotify.com/v1/users/culvero",
+            "id": "culvero",
+            "type": "user",
+            "uri": "spotify:user:culvero"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1GjWNGbMtHDQ7CNYf2d7cw",
+                        "id": "1GjWNGbMtHDQ7CNYf2d7cw",
+                        "name": "Christophe Beck",
+                        "type": "artist",
+                        "uri": "spotify:artist:1GjWNGbMtHDQ7CNYf2d7cw"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4d1o8H5QwEsE6vdxOlC5e3"
+                },
+                "href": "https://api.spotify.com/v1/albums/4d1o8H5QwEsE6vdxOlC5e3",
+                "id": "4d1o8H5QwEsE6vdxOlC5e3",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a9f523ed6ecdd49fcec553e5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a9f523ed6ecdd49fcec553e5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a9f523ed6ecdd49fcec553e5",
+                        "width": 64
+                    }
+                ],
+                "name": "The Pink Panther (Original Motion Picture Soundtrack)",
+                "release_date": "2006-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 22,
+                "type": "album",
+                "uri": "spotify:album:4d1o8H5QwEsE6vdxOlC5e3"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2EExdpjU4SK3xnJHO5paJf",
+                    "id": "2EExdpjU4SK3xnJHO5paJf",
+                    "name": "Henry Mancini",
+                    "type": "artist",
+                    "uri": "spotify:artist:2EExdpjU4SK3xnJHO5paJf"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 161600,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "US3M50672322"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1QPRmX2e3EZWskuOe5QqxM"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1QPRmX2e3EZWskuOe5QqxM",
+            "id": "1QPRmX2e3EZWskuOe5QqxM",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Pink Panther Theme",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/062a2ccd5956be5b800c765d310ba2c0925f59d5?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 22,
+            "type": "track",
+            "uri": "spotify:track:1QPRmX2e3EZWskuOe5QqxM"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-07-28T15:01:53Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/antariz"
+            },
+            "href": "https://api.spotify.com/v1/users/antariz",
+            "id": "antariz",
+            "type": "user",
+            "uri": "spotify:user:antariz"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/1aEYCT7t18aM3VvM6y8oVR",
+                        "id": "1aEYCT7t18aM3VvM6y8oVR",
+                        "name": "Alkaline Trio",
+                        "type": "artist",
+                        "uri": "spotify:artist:1aEYCT7t18aM3VvM6y8oVR"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/74FavWuKZGG8tp3jpMVzN4"
+                },
+                "href": "https://api.spotify.com/v1/albums/74FavWuKZGG8tp3jpMVzN4",
+                "id": "74FavWuKZGG8tp3jpMVzN4",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273224ea7dfd4d6b1fa6e4314e5",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02224ea7dfd4d6b1fa6e4314e5",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851224ea7dfd4d6b1fa6e4314e5",
+                        "width": 64
+                    }
+                ],
+                "name": "From Here to Infirmary",
+                "release_date": "2001",
+                "release_date_precision": "year",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:74FavWuKZGG8tp3jpMVzN4"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1aEYCT7t18aM3VvM6y8oVR"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1aEYCT7t18aM3VvM6y8oVR",
+                    "id": "1aEYCT7t18aM3VvM6y8oVR",
+                    "name": "Alkaline Trio",
+                    "type": "artist",
+                    "uri": "spotify:artist:1aEYCT7t18aM3VvM6y8oVR"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 210173,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USVR90235301"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/5W68YeADvFGOegS3TmP7w8"
+            },
+            "href": "https://api.spotify.com/v1/tracks/5W68YeADvFGOegS3TmP7w8",
+            "id": "5W68YeADvFGOegS3TmP7w8",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Private Eye",
+            "popularity": 49,
+            "preview_url": "https://p.scdn.co/mp3-preview/e56f5eadc1560d3bec3cc836ab43644abebc40e8?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:5W68YeADvFGOegS3TmP7w8"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-07-28T23:46:36Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/p6axv5ux9ig0fx8cm2ngl1lui"
+            },
+            "href": "https://api.spotify.com/v1/users/p6axv5ux9ig0fx8cm2ngl1lui",
+            "id": "p6axv5ux9ig0fx8cm2ngl1lui",
+            "type": "user",
+            "uri": "spotify:user:p6axv5ux9ig0fx8cm2ngl1lui"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/4sSSkVtrCTzENCgm2vokiY",
+                        "id": "4sSSkVtrCTzENCgm2vokiY",
+                        "name": "Roots Manuva",
+                        "type": "artist",
+                        "uri": "spotify:artist:4sSSkVtrCTzENCgm2vokiY"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5U7ovzAy1H5vydRxNNuSl1"
+                },
+                "href": "https://api.spotify.com/v1/albums/5U7ovzAy1H5vydRxNNuSl1",
+                "id": "5U7ovzAy1H5vydRxNNuSl1",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b2584daa90667f5ca94eef81",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b2584daa90667f5ca94eef81",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b2584daa90667f5ca94eef81",
+                        "width": 64
+                    }
+                ],
+                "name": "Run Come Save Me",
+                "release_date": "2001-08-01",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:5U7ovzAy1H5vydRxNNuSl1"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4sSSkVtrCTzENCgm2vokiY"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4sSSkVtrCTzENCgm2vokiY",
+                    "id": "4sSSkVtrCTzENCgm2vokiY",
+                    "name": "Roots Manuva",
+                    "type": "artist",
+                    "uri": "spotify:artist:4sSSkVtrCTzENCgm2vokiY"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1ZJlXFkFDBsjSuYyjVcMkk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1ZJlXFkFDBsjSuYyjVcMkk",
+                    "id": "1ZJlXFkFDBsjSuYyjVcMkk",
+                    "name": "Chali 2na",
+                    "type": "artist",
+                    "uri": "spotify:artist:1ZJlXFkFDBsjSuYyjVcMkk"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 239373,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "GBCFB0101240"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/60z5YKvOHe3Hzph7Tk7tnb"
+            },
+            "href": "https://api.spotify.com/v1/tracks/60z5YKvOHe3Hzph7Tk7tnb",
+            "id": "60z5YKvOHe3Hzph7Tk7tnb",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Join The Dots",
+            "popularity": 37,
+            "preview_url": "https://p.scdn.co/mp3-preview/dc6cbe7046ca0a02211c5e56beae66fe60cf72f8?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 4,
+            "type": "track",
+            "uri": "spotify:track:60z5YKvOHe3Hzph7Tk7tnb"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-07-29T14:44:29Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/matt.hall"
+            },
+            "href": "https://api.spotify.com/v1/users/matt.hall",
+            "id": "matt.hall",
+            "type": "user",
+            "uri": "spotify:user:matt.hall"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/0afkOxN5LzmMr3slmUhi6F"
+                },
+                "href": "https://api.spotify.com/v1/albums/0afkOxN5LzmMr3slmUhi6F",
+                "id": "0afkOxN5LzmMr3slmUhi6F",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273c1095645bb36819945e71a4a",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02c1095645bb36819945e71a4a",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851c1095645bb36819945e71a4a",
+                        "width": 64
+                    }
+                ],
+                "name": "100 Greatest TV Themes",
+                "release_date": "2002",
+                "release_date_precision": "year",
+                "total_tracks": 100,
+                "type": "album",
+                "uri": "spotify:album:0afkOxN5LzmMr3slmUhi6F"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3zJ68q2vwXpeJypOxOM1DU"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3zJ68q2vwXpeJypOxOM1DU",
+                    "id": "3zJ68q2vwXpeJypOxOM1DU",
+                    "name": "Daniel Caine Orchestra",
+                    "type": "artist",
+                    "uri": "spotify:artist:3zJ68q2vwXpeJypOxOM1DU"
+                }
+            ],
+            "disc_number": 2,
+            "duration_ms": 144760,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBAJC9801515"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0kaKZfRkJ1JJJeFZotom71"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0kaKZfRkJ1JJJeFZotom71",
+            "id": "0kaKZfRkJ1JJJeFZotom71",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Magnum, P.I.",
+            "popularity": 24,
+            "preview_url": "https://p.scdn.co/mp3-preview/ba53191fe8f6b3fe88a50920ac2660081420e0b5?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0kaKZfRkJ1JJJeFZotom71"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-07-29T14:57:57Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/jameseh66"
+            },
+            "href": "https://api.spotify.com/v1/users/jameseh66",
+            "id": "jameseh66",
+            "type": "user",
+            "uri": "spotify:user:jameseh66"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6rEzedK7cKWjeQWdAYvWVG",
+                        "id": "6rEzedK7cKWjeQWdAYvWVG",
+                        "name": "Five",
+                        "type": "artist",
+                        "uri": "spotify:artist:6rEzedK7cKWjeQWdAYvWVG"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/72qAXkZ8keSUHe55hhEVQG"
+                },
+                "href": "https://api.spotify.com/v1/albums/72qAXkZ8keSUHe55hhEVQG",
+                "id": "72qAXkZ8keSUHe55hhEVQG",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2732b03271a3da2b4d101073b1f",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e022b03271a3da2b4d101073b1f",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048512b03271a3da2b4d101073b1f",
+                        "width": 64
+                    }
+                ],
+                "name": "Invincible",
+                "release_date": "1999-11-08",
+                "release_date_precision": "day",
+                "total_tracks": 22,
+                "type": "album",
+                "uri": "spotify:album:72qAXkZ8keSUHe55hhEVQG"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6rEzedK7cKWjeQWdAYvWVG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6rEzedK7cKWjeQWdAYvWVG",
+                    "id": "6rEzedK7cKWjeQWdAYvWVG",
+                    "name": "Five",
+                    "type": "artist",
+                    "uri": "spotify:artist:6rEzedK7cKWjeQWdAYvWVG"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 168760,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBARL9900128"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6qygxOGfP8VaOWSbYmCajh"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6qygxOGfP8VaOWSbYmCajh",
+            "id": "6qygxOGfP8VaOWSbYmCajh",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Inspector Gadget",
+            "popularity": 20,
+            "preview_url": "https://p.scdn.co/mp3-preview/468778e65cdf2b4939e69db0189685a7dd44c777?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 17,
+            "type": "track",
+            "uri": "spotify:track:6qygxOGfP8VaOWSbYmCajh"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-07-30T08:42:53Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/11167586686"
+            },
+            "href": "https://api.spotify.com/v1/users/11167586686",
+            "id": "11167586686",
+            "type": "user",
+            "uri": "spotify:user:11167586686"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/55fhWPvDiMpLnE4ZzNXZyW",
+                        "id": "55fhWPvDiMpLnE4ZzNXZyW",
+                        "name": "Noah Cyrus",
+                        "type": "artist",
+                        "uri": "spotify:artist:55fhWPvDiMpLnE4ZzNXZyW"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5TscT3qDhseCAGszpncuCB"
+                },
+                "href": "https://api.spotify.com/v1/albums/5TscT3qDhseCAGszpncuCB",
+                "id": "5TscT3qDhseCAGszpncuCB",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27309a25cccbc2ee6cfdbe8dd58",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0209a25cccbc2ee6cfdbe8dd58",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485109a25cccbc2ee6cfdbe8dd58",
+                        "width": 64
+                    }
+                ],
+                "name": "I'm Stuck",
+                "release_date": "2017-05-25",
+                "release_date_precision": "day",
+                "total_tracks": 1,
+                "type": "album",
+                "uri": "spotify:album:5TscT3qDhseCAGszpncuCB"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/55fhWPvDiMpLnE4ZzNXZyW"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/55fhWPvDiMpLnE4ZzNXZyW",
+                    "id": "55fhWPvDiMpLnE4ZzNXZyW",
+                    "name": "Noah Cyrus",
+                    "type": "artist",
+                    "uri": "spotify:artist:55fhWPvDiMpLnE4ZzNXZyW"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 187636,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "QM33K1600054"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0IYbYGGVKQGlcaIu9Bs1Iz"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0IYbYGGVKQGlcaIu9Bs1Iz",
+            "id": "0IYbYGGVKQGlcaIu9Bs1Iz",
+            "is_local": false,
+            "is_playable": true,
+            "name": "I'm Stuck",
+            "popularity": 48,
+            "preview_url": "https://p.scdn.co/mp3-preview/e1762deb4b287c84e27aa3a789ecddbfeacd7654?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:0IYbYGGVKQGlcaIu9Bs1Iz"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-07-30T13:11:47Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mgreen89"
+            },
+            "href": "https://api.spotify.com/v1/users/mgreen89",
+            "id": "mgreen89",
+            "type": "user",
+            "uri": "spotify:user:mgreen89"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+                        "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+                        "name": "Dire Straits",
+                        "type": "artist",
+                        "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3Iz3o8owPasr8PKUSZPqD5"
+                },
+                "href": "https://api.spotify.com/v1/albums/3Iz3o8owPasr8PKUSZPqD5",
+                "id": "3Iz3o8owPasr8PKUSZPqD5",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2736eb1486e037eba0ff701df77",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e026eb1486e037eba0ff701df77",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048516eb1486e037eba0ff701df77",
+                        "width": 64
+                    }
+                ],
+                "name": "Love Over Gold",
+                "release_date": "1982-09-20",
+                "release_date_precision": "day",
+                "total_tracks": 5,
+                "type": "album",
+                "uri": "spotify:album:3Iz3o8owPasr8PKUSZPqD5"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0WwSkZ7LtFUFjGjMZBMt6T",
+                    "id": "0WwSkZ7LtFUFjGjMZBMt6T",
+                    "name": "Dire Straits",
+                    "type": "artist",
+                    "uri": "spotify:artist:0WwSkZ7LtFUFjGjMZBMt6T"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 406866,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBF088400792"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/0SqUwlygrVkMWkplNvvld1"
+            },
+            "href": "https://api.spotify.com/v1/tracks/0SqUwlygrVkMWkplNvvld1",
+            "id": "0SqUwlygrVkMWkplNvvld1",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5KVak7r5YKcnkmARc0hy0Q"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5KVak7r5YKcnkmARc0hy0Q",
+                "id": "5KVak7r5YKcnkmARc0hy0Q",
+                "type": "track",
+                "uri": "spotify:track:5KVak7r5YKcnkmARc0hy0Q"
+            },
+            "name": "Private Investigations",
+            "popularity": 39,
+            "preview_url": "https://p.scdn.co/mp3-preview/ec875ee76fd9e37a662f327ceef3b34361913a82?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 2,
+            "type": "track",
+            "uri": "spotify:track:0SqUwlygrVkMWkplNvvld1"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    }
+]
