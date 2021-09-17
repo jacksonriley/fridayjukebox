@@ -1,0 +1,12 @@
+| Song | Artist | Album | Added by |
+|-|-|-|-|
+| [Tennis Court](https://open.spotify.com/track/74fpNVAJrKGQuqHETi4WSt) | [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm) | [Pure Heroine](https://open.spotify.com/album/0rmhjUgoVa17LZuS8xWQ3v) | Mark Holmes |
+| [Kids In America](https://open.spotify.com/track/1YGZyfvdgZxzipWoWYVKxi) | [Kim Wilde](https://open.spotify.com/artist/73a6pNH4YtLNgDbPQwXveo) | [Kim Wilde](https://open.spotify.com/album/5vf8cU0vjl22ThptA93DDf) | culvero |
+| [The Kids Are Alright](https://open.spotify.com/track/4zJBF8rXepeoJ0qJOqMLhj) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [My Generation (50th Anniversary / Super Deluxe)](https://open.spotify.com/album/0ooEHMMu3yiwnFwNYHcqwX) | jameseh66 |
+| [She's so High](https://open.spotify.com/track/7mnGQesk1TzQLzQ9bYWZPR) | [Tal Bachman](https://open.spotify.com/artist/3KEb1kbIZN5jumsjFEWgSW) | [Tal Bachman](https://open.spotify.com/album/3v17hBg9lx5vdJQ8Dfr6OD) | matt.hall |
+| [Beautiful Racket](https://open.spotify.com/track/0A0R3OERr6J3HC7HaMP1ch) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Between Here And Gone](https://open.spotify.com/album/6dUKgiHU52zwYJs4rSDug0) | louiecn |
+| [Vogue](https://open.spotify.com/track/27QvYgBk0CHOVHthWnkuWt) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Celebration (double disc version)](https://open.spotify.com/album/43lok9zd7BW5CoYkXZs7S0) | ,mmpete |
+| [Victory](https://open.spotify.com/track/58ntEijfuCWISsS1NCpxRm) | [Tonci Huljic](https://open.spotify.com/artist/07ow5BFuxmcY8aKo3wYnk5)<br>[Bond](https://open.spotify.com/artist/3G4zK7ipHdaAZkG6EBwIoW) | [Born](https://open.spotify.com/album/3GOXrTaLQV4MR9tlGo47ES) | antariz |
+| [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | Patrick |
+| [Slam](https://open.spotify.com/track/5iafDaZllVA8NXPr7ciK1C) | [Pendulum](https://open.spotify.com/artist/7MqnCTCAX6SsIYYdJCQj9B) | [Hold Your Colour](https://open.spotify.com/album/4FAfNNU21dqtKKhHWB2eOa) | mgreen89 |
+| [Fired Up](https://open.spotify.com/track/7nJeZjdWH9FOyE9zSc1RlU) | [Hanson](https://open.spotify.com/artist/0SdiiPkr02EUdekHZJkt58) | [Anthem](https://open.spotify.com/album/5545BE47Cy1ZTU0vPJpdbN) | bncy |
