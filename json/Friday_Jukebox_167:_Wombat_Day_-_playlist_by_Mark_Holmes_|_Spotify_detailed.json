@@ -1,0 +1,999 @@
+[
+    {
+        "added_at": "2021-10-21T09:26:36Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/matt.hall"
+            },
+            "href": "https://api.spotify.com/v1/users/matt.hall",
+            "id": "matt.hall",
+            "type": "user",
+            "uri": "spotify:user:matt.hall"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+                        "id": "0f3EsoviYnRKTkmayI3cux",
+                        "name": "Men At Work",
+                        "type": "artist",
+                        "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4HDJMKkwAMVFewqfZcmf84"
+                },
+                "href": "https://api.spotify.com/v1/albums/4HDJMKkwAMVFewqfZcmf84",
+                "id": "4HDJMKkwAMVFewqfZcmf84",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273aa5e4c9da271951ac0b31fa2",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02aa5e4c9da271951ac0b31fa2",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851aa5e4c9da271951ac0b31fa2",
+                        "width": 64
+                    }
+                ],
+                "name": "Business As Usual",
+                "release_date": "1981-11-09",
+                "release_date_precision": "day",
+                "total_tracks": 10,
+                "type": "album",
+                "uri": "spotify:album:4HDJMKkwAMVFewqfZcmf84"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0f3EsoviYnRKTkmayI3cux"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0f3EsoviYnRKTkmayI3cux",
+                    "id": "0f3EsoviYnRKTkmayI3cux",
+                    "name": "Men At Work",
+                    "type": "artist",
+                    "uri": "spotify:artist:0f3EsoviYnRKTkmayI3cux"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 222320,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM18100411"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/3ZZq9396zv8pcn5GYVhxUi"
+            },
+            "href": "https://api.spotify.com/v1/tracks/3ZZq9396zv8pcn5GYVhxUi",
+            "id": "3ZZq9396zv8pcn5GYVhxUi",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Down Under",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/b914e6ccc07d8166ac6bd2cf09c7e960e5f6785d?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:3ZZq9396zv8pcn5GYVhxUi"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-21T09:42:37Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mholmes101"
+            },
+            "href": "https://api.spotify.com/v1/users/mholmes101",
+            "id": "mholmes101",
+            "type": "user",
+            "uri": "spotify:user:mholmes101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+                        "id": "6O2zJ0tId7g07yzHtX0yap",
+                        "name": "Mobb Deep",
+                        "type": "artist",
+                        "uri": "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs"
+                },
+                "href": "https://api.spotify.com/v1/albums/1cCAb1vN8uUsdfEylVmTLs",
+                "id": "1cCAb1vN8uUsdfEylVmTLs",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273a2203fa0656cede30f879b97",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02a2203fa0656cede30f879b97",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851a2203fa0656cede30f879b97",
+                        "width": 64
+                    }
+                ],
+                "name": "The Infamous",
+                "release_date": "1995-04-25",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:1cCAb1vN8uUsdfEylVmTLs"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/6O2zJ0tId7g07yzHtX0yap",
+                    "id": "6O2zJ0tId7g07yzHtX0yap",
+                    "name": "Mobb Deep",
+                    "type": "artist",
+                    "uri": "spotify:artist:6O2zJ0tId7g07yzHtX0yap"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 224533,
+            "episode": false,
+            "explicit": true,
+            "external_ids": {
+                "isrc": "USRC19501711"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7N1Vjtzr1lmmCW9iasQ8YO",
+            "id": "7N1Vjtzr1lmmCW9iasQ8YO",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Survival of the Fittest",
+            "popularity": 69,
+            "preview_url": "https://p.scdn.co/mp3-preview/12ee50cc4ba06b938d5a1c118089a99ef2307a5b?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:7N1Vjtzr1lmmCW9iasQ8YO"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-21T10:25:26Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/antariz"
+            },
+            "href": "https://api.spotify.com/v1/users/antariz",
+            "id": "antariz",
+            "type": "user",
+            "uri": "spotify:user:antariz"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "single",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+                        "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+                        "name": "Ti\u00ebsto",
+                        "type": "artist",
+                        "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                    },
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5nki7yRhxgM509M5ADlN1p",
+                        "id": "5nki7yRhxgM509M5ADlN1p",
+                        "name": "Oliver Heldens",
+                        "type": "artist",
+                        "uri": "spotify:artist:5nki7yRhxgM509M5ADlN1p"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4fb7waBlbxdo27oW09QrUg"
+                },
+                "href": "https://api.spotify.com/v1/albums/4fb7waBlbxdo27oW09QrUg",
+                "id": "4fb7waBlbxdo27oW09QrUg",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273602b820ab2580496221dfdf3",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02602b820ab2580496221dfdf3",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851602b820ab2580496221dfdf3",
+                        "width": 64
+                    }
+                ],
+                "name": "Wombass",
+                "release_date": "2015-11-27",
+                "release_date_precision": "day",
+                "total_tracks": 2,
+                "type": "album",
+                "uri": "spotify:album:4fb7waBlbxdo27oW09QrUg"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2o5jDhtHVPhrJdv3cEQ99Z",
+                    "id": "2o5jDhtHVPhrJdv3cEQ99Z",
+                    "name": "Ti\u00ebsto",
+                    "type": "artist",
+                    "uri": "spotify:artist:2o5jDhtHVPhrJdv3cEQ99Z"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5nki7yRhxgM509M5ADlN1p",
+                    "id": "5nki7yRhxgM509M5ADlN1p",
+                    "name": "Oliver Heldens",
+                    "type": "artist",
+                    "uri": "spotify:artist:5nki7yRhxgM509M5ADlN1p"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 240010,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "CYA111500099"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/6etVFDSbFabj0tPY10MAXR"
+            },
+            "href": "https://api.spotify.com/v1/tracks/6etVFDSbFabj0tPY10MAXR",
+            "id": "6etVFDSbFabj0tPY10MAXR",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Wombass",
+            "popularity": 57,
+            "preview_url": "https://p.scdn.co/mp3-preview/eea532618478555cc5dada1da1746b611a535d40?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:6etVFDSbFabj0tPY10MAXR"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-21T10:30:27Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/richcooper101"
+            },
+            "href": "https://api.spotify.com/v1/users/richcooper101",
+            "id": "richcooper101",
+            "type": "user",
+            "uri": "spotify:user:richcooper101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+                        "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+                        "name": "The Wombats",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+                },
+                "href": "https://api.spotify.com/v1/albums/03403404Rwa4suo4nzYyUY",
+                "id": "03403404Rwa4suo4nzYyUY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27364e27be28006c90422c11587",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0264e27be28006c90422c11587",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485164e27be28006c90422c11587",
+                        "width": 64
+                    }
+                ],
+                "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+                "release_date": "2007-07-09",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:03403404Rwa4suo4nzYyUY"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+                    "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+                    "name": "The Wombats",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 69960,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBFTG0300125"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7wKXsPI6VOIVLRBfrlgaJo"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7wKXsPI6VOIVLRBfrlgaJo",
+            "id": "7wKXsPI6VOIVLRBfrlgaJo",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5mTnxQyVQlWPlfkZcThZz3"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5mTnxQyVQlWPlfkZcThZz3",
+                "id": "5mTnxQyVQlWPlfkZcThZz3",
+                "type": "track",
+                "uri": "spotify:track:5mTnxQyVQlWPlfkZcThZz3"
+            },
+            "name": "Tales of Girls, Boys and Marsupials",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/74f20bb7388c36f8f90f8f64cc56ed4d78fc1664?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:7wKXsPI6VOIVLRBfrlgaJo"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-21T13:21:32Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/culvero"
+            },
+            "href": "https://api.spotify.com/v1/users/culvero",
+            "id": "culvero",
+            "type": "user",
+            "uri": "spotify:user:culvero"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ",
+                        "id": "0FOcXqJgJ1oq9XfzYTDZmZ",
+                        "name": "Super Furry Animals",
+                        "type": "artist",
+                        "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6muSL4nbb1NJFK2zLgmJWo"
+                },
+                "href": "https://api.spotify.com/v1/albums/6muSL4nbb1NJFK2zLgmJWo",
+                "id": "6muSL4nbb1NJFK2zLgmJWo",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730b13316f2c7d7c916dc675db",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020b13316f2c7d7c916dc675db",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510b13316f2c7d7c916dc675db",
+                        "width": 64
+                    }
+                ],
+                "name": "Fuzzy Logic",
+                "release_date": "1996-05-20",
+                "release_date_precision": "day",
+                "total_tracks": 12,
+                "type": "album",
+                "uri": "spotify:album:6muSL4nbb1NJFK2zLgmJWo"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0FOcXqJgJ1oq9XfzYTDZmZ"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0FOcXqJgJ1oq9XfzYTDZmZ",
+                    "id": "0FOcXqJgJ1oq9XfzYTDZmZ",
+                    "name": "Super Furry Animals",
+                    "type": "artist",
+                    "uri": "spotify:artist:0FOcXqJgJ1oq9XfzYTDZmZ"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 213333,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM10202480"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2RVMza1inWpBattKPfrzeK"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2RVMza1inWpBattKPfrzeK",
+            "id": "2RVMza1inWpBattKPfrzeK",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Hometown Unicorn",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/b631522b854e883bee90c5f63f11892fccf53f81?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 5,
+            "type": "track",
+            "uri": "spotify:track:2RVMza1inWpBattKPfrzeK"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-22T11:23:09Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/1154712041"
+            },
+            "href": "https://api.spotify.com/v1/users/1154712041",
+            "id": "1154712041",
+            "type": "user",
+            "uri": "spotify:user:1154712041"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX",
+                        "id": "2uH0RyPcX7fnCcT90HFDQX",
+                        "name": "Manic Street Preachers",
+                        "type": "artist",
+                        "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/4LuU1VN5L1hSk8qDF9tmEx"
+                },
+                "href": "https://api.spotify.com/v1/albums/4LuU1VN5L1hSk8qDF9tmEx",
+                "id": "4LuU1VN5L1hSk8qDF9tmEx",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27373e10edfae682eb159f27559",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0273e10edfae682eb159f27559",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485173e10edfae682eb159f27559",
+                        "width": 64
+                    }
+                ],
+                "name": "Forever Delayed",
+                "release_date": "2002-10-28",
+                "release_date_precision": "day",
+                "total_tracks": 33,
+                "type": "album",
+                "uri": "spotify:album:4LuU1VN5L1hSk8qDF9tmEx"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/2uH0RyPcX7fnCcT90HFDQX",
+                    "id": "2uH0RyPcX7fnCcT90HFDQX",
+                    "name": "Manic Street Preachers",
+                    "type": "artist",
+                    "uri": "spotify:artist:2uH0RyPcX7fnCcT90HFDQX"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 222133,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBBBM0202084"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/08OLnzGAc1c5c58Ny36vqG"
+            },
+            "href": "https://api.spotify.com/v1/tracks/08OLnzGAc1c5c58Ny36vqG",
+            "id": "08OLnzGAc1c5c58Ny36vqG",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/4GikvRsA9ynqbDzUweCXT0"
+                },
+                "href": "https://api.spotify.com/v1/tracks/4GikvRsA9ynqbDzUweCXT0",
+                "id": "4GikvRsA9ynqbDzUweCXT0",
+                "type": "track",
+                "uri": "spotify:track:4GikvRsA9ynqbDzUweCXT0"
+            },
+            "name": "Australia",
+            "popularity": 10,
+            "preview_url": "https://p.scdn.co/mp3-preview/281dcc53152e545511aea5c9b30215eca9a06041?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 7,
+            "type": "track",
+            "uri": "spotify:track:08OLnzGAc1c5c58Ny36vqG"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-22T12:56:51Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/5mzbxcu9x4xwocccx79wmvztm"
+            },
+            "href": "https://api.spotify.com/v1/users/5mzbxcu9x4xwocccx79wmvztm",
+            "id": "5mzbxcu9x4xwocccx79wmvztm",
+            "type": "user",
+            "uri": "spotify:user:5mzbxcu9x4xwocccx79wmvztm"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/5QiI5rLs45WN4kVftheHCT"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/5QiI5rLs45WN4kVftheHCT",
+                        "id": "5QiI5rLs45WN4kVftheHCT",
+                        "name": "The Outlanders",
+                        "type": "artist",
+                        "uri": "spotify:artist:5QiI5rLs45WN4kVftheHCT"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5jcO3xSoXvPFP3kp8L2JcM"
+                },
+                "href": "https://api.spotify.com/v1/albums/5jcO3xSoXvPFP3kp8L2JcM",
+                "id": "5jcO3xSoXvPFP3kp8L2JcM",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27397f17a6466e1957a3f8104e4",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0297f17a6466e1957a3f8104e4",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485197f17a6466e1957a3f8104e4",
+                        "width": 64
+                    }
+                ],
+                "name": "Australian Contemporary Collection",
+                "release_date": "1998-01-01",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:5jcO3xSoXvPFP3kp8L2JcM"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/5QiI5rLs45WN4kVftheHCT"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/5QiI5rLs45WN4kVftheHCT",
+                    "id": "5QiI5rLs45WN4kVftheHCT",
+                    "name": "The Outlanders",
+                    "type": "artist",
+                    "uri": "spotify:artist:5QiI5rLs45WN4kVftheHCT"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 147706,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "AUZG00713181"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/33bGGlabZ2r5Be13WBl7cW"
+            },
+            "href": "https://api.spotify.com/v1/tracks/33bGGlabZ2r5Be13WBl7cW",
+            "id": "33bGGlabZ2r5Be13WBl7cW",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Tie Me Kangaroo Down, Sport",
+            "popularity": 19,
+            "preview_url": "https://p.scdn.co/mp3-preview/4612de584c0b9435c8c1ba21a5e8d13847b0f24c?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:33bGGlabZ2r5Be13WBl7cW"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-22T13:50:25Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/%2Cmmpete"
+            },
+            "href": "https://api.spotify.com/v1/users/%2Cmmpete",
+            "id": ",mmpete",
+            "type": "user",
+            "uri": "spotify:user:%2Cmmpete"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0OKjEr4iSUvgGSebJakjNF",
+                        "id": "0OKjEr4iSUvgGSebJakjNF",
+                        "name": "Emily Wurramara",
+                        "type": "artist",
+                        "uri": "spotify:artist:0OKjEr4iSUvgGSebJakjNF"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/6BPIK9SvnYZXPQJlLqh0Kp"
+                },
+                "href": "https://api.spotify.com/v1/albums/6BPIK9SvnYZXPQJlLqh0Kp",
+                "id": "6BPIK9SvnYZXPQJlLqh0Kp",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b273b0b607935ce2d920feaf1cdd",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e02b0b607935ce2d920feaf1cdd",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d00004851b0b607935ce2d920feaf1cdd",
+                        "width": 64
+                    }
+                ],
+                "name": "Milyakburra",
+                "release_date": "2018-06-01",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:6BPIK9SvnYZXPQJlLqh0Kp"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0OKjEr4iSUvgGSebJakjNF"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0OKjEr4iSUvgGSebJakjNF",
+                    "id": "0OKjEr4iSUvgGSebJakjNF",
+                    "name": "Emily Wurramara",
+                    "type": "artist",
+                    "uri": "spotify:artist:0OKjEr4iSUvgGSebJakjNF"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 219676,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "AUP111800001"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/2XHfMzRLbCpxwPs3dCJO74"
+            },
+            "href": "https://api.spotify.com/v1/tracks/2XHfMzRLbCpxwPs3dCJO74",
+            "id": "2XHfMzRLbCpxwPs3dCJO74",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Ngarrikwujeyinama",
+            "popularity": 36,
+            "preview_url": "https://p.scdn.co/mp3-preview/2128f1bc897f239ea74d54828cd571ce80a32c33?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:2XHfMzRLbCpxwPs3dCJO74"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-22T13:54:35Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/mgreen89"
+            },
+            "href": "https://api.spotify.com/v1/users/mgreen89",
+            "id": "mgreen89",
+            "type": "user",
+            "uri": "spotify:user:mgreen89"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/72KyoXzp0NOQij6OcmZUxk",
+                        "id": "72KyoXzp0NOQij6OcmZUxk",
+                        "name": "Midnight Oil",
+                        "type": "artist",
+                        "uri": "spotify:artist:72KyoXzp0NOQij6OcmZUxk"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/243XzHQegX82bPnUVQ0SPV"
+                },
+                "href": "https://api.spotify.com/v1/albums/243XzHQegX82bPnUVQ0SPV",
+                "id": "243XzHQegX82bPnUVQ0SPV",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2730dd350beeb5ac73672ad6e80",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e020dd350beeb5ac73672ad6e80",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048510dd350beeb5ac73672ad6e80",
+                        "width": 64
+                    }
+                ],
+                "name": "Diesel And Dust",
+                "release_date": "1987-10-02",
+                "release_date_precision": "day",
+                "total_tracks": 11,
+                "type": "album",
+                "uri": "spotify:album:243XzHQegX82bPnUVQ0SPV"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/72KyoXzp0NOQij6OcmZUxk",
+                    "id": "72KyoXzp0NOQij6OcmZUxk",
+                    "name": "Midnight Oil",
+                    "type": "artist",
+                    "uri": "spotify:artist:72KyoXzp0NOQij6OcmZUxk"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 255680,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "AUBM00700707"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/1CtAzw53AIXKjAemxy4b1j"
+            },
+            "href": "https://api.spotify.com/v1/tracks/1CtAzw53AIXKjAemxy4b1j",
+            "id": "1CtAzw53AIXKjAemxy4b1j",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Beds Are Burning - Remastered",
+            "popularity": 71,
+            "preview_url": "https://p.scdn.co/mp3-preview/2f1813dc233f9124109e71e81535c2a7f2c8a0b6?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:1CtAzw53AIXKjAemxy4b1j"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-10-22T13:54:46Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/cpmbdg2l4vpxgch0bzfex2pwb"
+            },
+            "href": "https://api.spotify.com/v1/users/cpmbdg2l4vpxgch0bzfex2pwb",
+            "id": "cpmbdg2l4vpxgch0bzfex2pwb",
+            "type": "user",
+            "uri": "spotify:user:cpmbdg2l4vpxgch0bzfex2pwb"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+                        "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+                        "name": "The Wombats",
+                        "type": "artist",
+                        "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/03403404Rwa4suo4nzYyUY"
+                },
+                "href": "https://api.spotify.com/v1/albums/03403404Rwa4suo4nzYyUY",
+                "id": "03403404Rwa4suo4nzYyUY",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b27364e27be28006c90422c11587",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e0264e27be28006c90422c11587",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d0000485164e27be28006c90422c11587",
+                        "width": 64
+                    }
+                ],
+                "name": "Proudly Present... A Guide to Love, Loss & Desperation (Special Edition)",
+                "release_date": "2007-07-09",
+                "release_date_precision": "day",
+                "total_tracks": 17,
+                "type": "album",
+                "uri": "spotify:album:03403404Rwa4suo4nzYyUY"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/0Ya43ZKWHTKkAbkoJJkwIB",
+                    "id": "0Ya43ZKWHTKkAbkoJJkwIB",
+                    "name": "The Wombats",
+                    "type": "artist",
+                    "uri": "spotify:artist:0Ya43ZKWHTKkAbkoJJkwIB"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 191293,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "GBFTG0300132"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/60Ih7J2Q1o9shvMC2OAALu"
+            },
+            "href": "https://api.spotify.com/v1/tracks/60Ih7J2Q1o9shvMC2OAALu",
+            "id": "60Ih7J2Q1o9shvMC2OAALu",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/7v9Ne4758aGFfFc5avh89h"
+                },
+                "href": "https://api.spotify.com/v1/tracks/7v9Ne4758aGFfFc5avh89h",
+                "id": "7v9Ne4758aGFfFc5avh89h",
+                "type": "track",
+                "uri": "spotify:track:7v9Ne4758aGFfFc5avh89h"
+            },
+            "name": "Let's Dance to Joy Division",
+            "popularity": 53,
+            "preview_url": "https://p.scdn.co/mp3-preview/ce50af7a4786a72a2de4cc9db500d808e5a51f35?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 8,
+            "type": "track",
+            "uri": "spotify:track:60Ih7J2Q1o9shvMC2OAALu"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    }
+]
