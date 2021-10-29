@@ -1,0 +1,14 @@
+| Song | Artist | Album | Added by |
+|-|-|-|-|
+| [Dead And Gone](https://open.spotify.com/track/7IhsLJMqdxoo7YAZjaSMru) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT)<br>[Justin Timberlake](https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7) | [Paper Trail](https://open.spotify.com/album/5PfepkNWgRR2DI02Y8AawC) | Emily S |
+| [Re: Your Brains](https://open.spotify.com/track/1KrpXYLMCJ8GaDSz61FQNU) | [Jonathan Coulton](https://open.spotify.com/artist/292sg99iIOc93zcd30r4Oz) | [Thing a Week Two](https://open.spotify.com/album/40mdjMWKqerii9vlN0lvGf) | antariz |
+| [Feeling Good](https://open.spotify.com/track/6Rqn2GFlmvmV4w9Ala0I1e) | [Nina Simone](https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO) | [I Put A Spell On You](https://open.spotify.com/album/3ofZeSWPHZOE5WC2tNZDez) | ,mmpete |
+| [I Am the Resurrection - Remastered](https://open.spotify.com/track/5ikdUUm6JbnEVnp35c7dvy) | [The Stone Roses](https://open.spotify.com/artist/1lYT0A0LV5DUfxr6doRP3d) | [The Stone Roses](https://open.spotify.com/album/0um9FI6BLBldL5POP4D4Cw) | mgreen89 |
+| [Things That Go Bump In The Night](https://open.spotify.com/track/4dyoQtmjsgoTuF4VIReyE1) | [allSTARS](https://open.spotify.com/artist/0g6J6ltIhfXssIMbSVVxuU) | [Allstars](https://open.spotify.com/album/3IGERs4lOHbAfQpuWVDYhA) | richcooper101 |
+| [Reborn](https://open.spotify.com/track/4RVbK6cV0VqWdpCDcx3hiT) | [KIDS SEE GHOSTS](https://open.spotify.com/artist/2hPgGN4uhvXAxiXQBIXOmE) | [KIDS SEE GHOSTS](https://open.spotify.com/album/6pwuKxMUkNg673KETsXPUV) | bncy |
+| [All Rise](https://open.spotify.com/track/7jley98gCQFueQ5MCaFWIb) | [Blue](https://open.spotify.com/artist/2yEkZBBjhzKzt6LF5XMaFi) | [All Rise](https://open.spotify.com/album/4Kx60DeMOwNNnvQRbZMuHg) | Mark Holmes |
+| [Pretending That You're Dead](https://open.spotify.com/track/4NCq3RBBNrwEECqKnIUXvZ) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Seventeen Going Under (Deluxe)](https://open.spotify.com/album/4FKOLaEGqA7ZFYYW5r4X9z) | culvero |
+| [Back From The Dead](https://open.spotify.com/track/3HmacKgc27YnAfSwxGVxW2) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From The Dead](https://open.spotify.com/album/5djxJJQVLaUMKJlFMjoZg2) | Luke.young.1113 |
+| [Onryo](https://open.spotify.com/track/0YYBOG4pt9Xq9YLAE0H9hz) | [Time, The Valuator](https://open.spotify.com/artist/5XMVfR85CUqujqUkN9c9VQ) | [How Fleeting, How Fragile](https://open.spotify.com/album/14wW0Q4v88iuvXMKrql6Ht) | louiecn |
+| [Nemesis](https://open.spotify.com/track/3YD5bBA04dzBG7Mb4N55Ef) | [Shriekback](https://open.spotify.com/artist/5zdhsKuFI263xttcgdoW3c) | [Oil and Gold](https://open.spotify.com/album/2g8KIQeN8NN1cdZOTUSLIf) | Patrick |
+| [Haunted](https://open.spotify.com/track/6Z77oDcn6iI1MHFCBPjl24) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Fallen](https://open.spotify.com/album/02w1xMzzdF2OJxTeh1basm) | tplews |
