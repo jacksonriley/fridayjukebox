@@ -181,5 +181,20 @@
             "https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg"
         ],
         "Duration": "2m53s"
+    },
+    {
+        "Added by": "Mark Holmes",
+        "Added at": "2021-12-17T16:22:58Z",
+        "Song name": "Silver Bells",
+        "Song link": "https://open.spotify.com/track/4QX5pZQpQTgVlkqfUTDim0",
+        "Album": "The Dean Martin Christmas Album",
+        "Album link": "https://open.spotify.com/album/4Kd6niUoyuNkcLRVmThm0H",
+        "Artists": [
+            "Dean Martin"
+        ],
+        "Artist links": [
+            "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        ],
+        "Duration": "2m22s"
     }
 ]
