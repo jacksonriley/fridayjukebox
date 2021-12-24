@@ -113,7 +113,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "A Spaceman Came Travelling (feat. Nina Nesbitt)",
-            "popularity": 44,
+            "popularity": 45,
             "preview_url": "https://p.scdn.co/mp3-preview/329fcdbad38efd0f21f617fa28e3f82f4d803875?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 1,
@@ -208,7 +208,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "O Holy Night",
-            "popularity": 64,
+            "popularity": 66,
             "preview_url": "https://p.scdn.co/mp3-preview/6c60dd43d1c363eaff0f901b7f5ae79054387642?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 5,
@@ -303,7 +303,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "Driving Home for Christmas",
-            "popularity": 84,
+            "popularity": 87,
             "preview_url": "https://p.scdn.co/mp3-preview/ceedafb966b1e9336e126bbca99daec3b87914c3?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 37,
@@ -407,7 +407,7 @@
                 "uri": "spotify:track:6VZoyTuu7rRjky22CkVPi7"
             },
             "name": "Walking In The Air",
-            "popularity": 40,
+            "popularity": 42,
             "preview_url": "https://p.scdn.co/mp3-preview/50a374732a8f7c1ec0d10adf9888ccef284ad76a?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 10,
@@ -657,7 +657,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "Ding, Dong, Merrily On High - French",
-            "popularity": 24,
+            "popularity": 27,
             "preview_url": "https://p.scdn.co/mp3-preview/f3bab8bb1cdbd8cde622e075d89754a4e90a64d7?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 14,
@@ -762,7 +762,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "Bethlehem Down",
-            "popularity": 49,
+            "popularity": 53,
             "preview_url": "https://p.scdn.co/mp3-preview/8601dc63318cb76355c67aefd6d3c5b201f08b68?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 14,
@@ -857,7 +857,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "Christmas",
-            "popularity": 34,
+            "popularity": 37,
             "preview_url": "https://p.scdn.co/mp3-preview/13a48975d06ccdf9aa9d39ab608680eb81142e4b?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 11,
@@ -961,7 +961,7 @@
                 "uri": "spotify:track:1ZllhVfn34borKTxpbUaNH"
             },
             "name": "Mary's Boy Child / Oh My Lord - 7\" Version",
-            "popularity": 38,
+            "popularity": 40,
             "preview_url": "https://p.scdn.co/mp3-preview/94296f2ddfc9643052c3230cebda0a370e3955db?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 11,
@@ -1056,7 +1056,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "Little Things",
-            "popularity": 74,
+            "popularity": 76,
             "preview_url": "https://p.scdn.co/mp3-preview/4d9d7b8732122b8e5b3d6a33826fa1f1a110b059?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 3,
@@ -1151,7 +1151,7 @@
             "is_local": false,
             "is_playable": true,
             "name": "Invisible - from the Netflix Film Klaus",
-            "popularity": 60,
+            "popularity": 61,
             "preview_url": "https://p.scdn.co/mp3-preview/8c8f22923034819720a2bc7cc4d9264f3cc85133?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 1,
@@ -1246,12 +1246,116 @@
             "is_local": false,
             "is_playable": true,
             "name": "Silver Bells",
-            "popularity": 77,
+            "popularity": 79,
             "preview_url": "https://p.scdn.co/mp3-preview/818408fa4b35b955a056f06249ed507f3a91fa69?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
             "track": true,
             "track_number": 7,
             "type": "track",
             "uri": "spotify:track:4QX5pZQpQTgVlkqfUTDim0"
+        },
+        "video_thumbnail": {
+            "url": null
+        }
+    },
+    {
+        "added_at": "2021-12-23T11:42:10Z",
+        "added_by": {
+            "external_urls": {
+                "spotify": "https://open.spotify.com/user/richcooper101"
+            },
+            "href": "https://api.spotify.com/v1/users/richcooper101",
+            "id": "richcooper101",
+            "type": "user",
+            "uri": "spotify:user:richcooper101"
+        },
+        "is_local": false,
+        "primary_color": null,
+        "track": {
+            "album": {
+                "album_type": "album",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/391oLRVmoTkumiN79HkTWu",
+                        "id": "391oLRVmoTkumiN79HkTWu",
+                        "name": "Darlene Love",
+                        "type": "artist",
+                        "uri": "spotify:artist:391oLRVmoTkumiN79HkTWu"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/3miX7IkmfMBJhQejq5rsA6"
+                },
+                "href": "https://api.spotify.com/v1/albums/3miX7IkmfMBJhQejq5rsA6",
+                "id": "3miX7IkmfMBJhQejq5rsA6",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2734bd42504ca3569f71af64fc8",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e024bd42504ca3569f71af64fc8",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048514bd42504ca3569f71af64fc8",
+                        "width": 64
+                    }
+                ],
+                "name": "Christmas (Baby, Please Come Home)",
+                "release_date": "2020-12-04",
+                "release_date_precision": "day",
+                "total_tracks": 15,
+                "type": "album",
+                "uri": "spotify:album:3miX7IkmfMBJhQejq5rsA6"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/391oLRVmoTkumiN79HkTWu"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/391oLRVmoTkumiN79HkTWu",
+                    "id": "391oLRVmoTkumiN79HkTWu",
+                    "name": "Darlene Love",
+                    "type": "artist",
+                    "uri": "spotify:artist:391oLRVmoTkumiN79HkTWu"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 166453,
+            "episode": false,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "USSM10905172"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/47ohYW8e7dxCYn9qbUMBCI"
+            },
+            "href": "https://api.spotify.com/v1/tracks/47ohYW8e7dxCYn9qbUMBCI",
+            "id": "47ohYW8e7dxCYn9qbUMBCI",
+            "is_local": false,
+            "is_playable": true,
+            "linked_from": {
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/track/5DHfUmmnlFJPqa9MnKe0EX"
+                },
+                "href": "https://api.spotify.com/v1/tracks/5DHfUmmnlFJPqa9MnKe0EX",
+                "id": "5DHfUmmnlFJPqa9MnKe0EX",
+                "type": "track",
+                "uri": "spotify:track:5DHfUmmnlFJPqa9MnKe0EX"
+            },
+            "name": "Christmas (Baby Please Come Home)",
+            "popularity": 82,
+            "preview_url": "https://p.scdn.co/mp3-preview/d7a5abde17134e8a427bcfa5155830fd0beeeb4f?cid=162b7dc01f3a4a2ca32ed3cec83d1e02",
+            "track": true,
+            "track_number": 1,
+            "type": "track",
+            "uri": "spotify:track:47ohYW8e7dxCYn9qbUMBCI"
         },
         "video_thumbnail": {
             "url": null
